@@ -11,7 +11,7 @@ This repository contains scripts and data for experimenting with Large Language 
 - `fine_tunning_lora.py` – Script used to fine‑tune a LoRA adapter on the formatted dataset.
 - `inference.py` – Loads a trained adapter and predicts subclass relations for pairs of concepts.
 - `evaluation.py` – Computes precision, recall and F1 against ground truth pairs.
-- `data_augmentation.py` – Utility to create synthetic training data with different prompt templates.
+- `data_augmentation.py` – Utility to create  training data with different prompt templates.
 - `add_descriptions_wiki.py` – Fetches short concept descriptions from Wikipedia.
 - `filter_output.py` – Filters inference results that contain a clear `true` answer.
 - `config_lora.json` – Lists which model layers to target when applying LoRA.
