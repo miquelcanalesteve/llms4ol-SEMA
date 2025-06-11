@@ -1,0 +1,8 @@
+transformers
+accelerate
+safetensors==0.5.3
+sentencepiece==0.1.99
+peft==0.10.0
+datasets==2.18.0
+openpyxl
+pandas
