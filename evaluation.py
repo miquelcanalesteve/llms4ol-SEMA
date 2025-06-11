@@ -39,7 +39,8 @@ def compute_scores(gt_pairs, pred_pairs):
 
 if __name__ == "__main__":
     # === Set paths ===
-    gt_path = Path("task_c/MatOnto/train_v2/matonto_test_pairs.json")
+    # Correct path to the ground-truth file inside the repository
+    gt_path = Path("data/task_c/MatOnto/matonto_test_pairs.json")
 
     pred_paths = [
 
