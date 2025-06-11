@@ -1,0 +1,171 @@
+Actinium Atom
+Aluminium Atom
+Arsenic
+Beryllium
+Boron Atom
+Caesium
+Californium Atom
+Cerium Atom
+Chemical Class
+Chemical Family
+Chemical Formula
+Concentration
+Electronegativity
+Enantiomer
+Erbium
+Gibbs free energy
+Hardness Range
+Hardness Range Upper Bound
+Hassium Atom
+Helmholtz free energy
+Ion
+Lattice Parameter
+Lawrencium Atom
+Mercury
+MolecularQuality
+MoleculeComponentCount
+Oxygen Atom
+Protactinium Atom
+Solution
+Sulfur Atom
+Titanium
+Vanadium Atom
+Zinc
+absorbed dose unit
+acceleration
+acyl group
+acyl halide group
+acyl iodide group
+aggregated carbon nanorods
+alkaline earth metal
+amine
+angle
+angle unit
+angular velocity unit
+area density unit
+area unit
+atom
+bond
+carbon allotrope
+catalytic activity unit
+catalytic concentration unit
+cation
+ceramics
+chemical quality
+chemical reaction
+chemical substance
+cis isomer
+cis/trans isomer
+compound
+concentration unit
+conduction unit
+connected_spatiotemporal_region
+connected_temporal_region
+covalent bond
+deka scaled unit
+density
+density unit
+disulfide bond
+electric charge density
+electric current density
+electric field strength
+electric field strength unit
+electromagnetic radation
+electromagnetic radiation unit
+element
+energy
+energy unit
+entropy unit
+equivalent dose
+ester group
+exposure
+fiat_process_part
+frequency
+frequency unit
+function
+glassy carbon
+grain size
+group 13 element
+group 17 element
+group 18 element
+group element
+identifier
+independent_continuant
+inductance unit
+intensive property
+isomer
+isomeric smiles
+isomerization
+linear density
+linear density unit
+linear molecular geometry
+luminance unit
+magnetic field strength
+magnetic flux density
+magnetic flux unit
+mass
+mass density
+material category
+measured property
+metals
+methyl group
+mixture
+molality
+molar energy
+molar energy unit
+molar entropy unit
+molar mass
+molecular complex disassociation
+molecular complex formation
+molecular geometry
+molecular mass
+molecular mass unit
+molecule
+moment of force unit
+nano scaled unit
+nanomaterials
+non aromatic ring
+object
+organic group
+pauling electronegativity
+period element
+periodic table element
+permeability
+plane angle
+plane angle unit
+polar
+polarity
+primary amine
+process
+processual_entity
+quality
+racemic mixture
+radiance
+radiance unit
+radiation
+radiation unit
+radioactivity activity
+realizable_entity
+ring
+scaled unit
+secondary amine group
+series element
+single bond
+solid angle unit
+solvent
+source
+space group property
+spatiotemporal_interval
+specific heat
+square planar molecular geometry
+stereo bond
+stereoisomer
+structural isomer
+temporal_instant
+tertiary amine
+thermal conduction unit
+triple bond
+undefined stereo bond count
+unit
+unit raised to power
+unit raised to power of negative one

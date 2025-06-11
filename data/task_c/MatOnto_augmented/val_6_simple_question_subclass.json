@@ -1,0 +1,3362 @@
+[
+  {
+    "prompt": "Is \"permittivity unit\" a subclass of \"p-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R isomer\" a subclass of \"chemical interaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotamer\" a subclass of \"realizable_entity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability unit\" a subclass of \"thermodynamic system\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Electronegativity\" a subclass of \"substrate\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"mulliken electronegativity\" a subclass of \"ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular center\" a subclass of \"catalytic concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electromagnetic radation\" a subclass of \"Electronegativity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"temperature unit\" a subclass of \"atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical quality\" a subclass of \"quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"parts per notation\" a subclass of \"Concentration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"sulfonic acid group\" a subclass of \"power\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"liquid crystal phase\" a subclass of \"trigonal bipyramidal molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical quality\" a subclass of \"Tellurium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Actinium\" a subclass of \"Tungsten\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"trans isomer\" a subclass of \"electromagnetic radation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"absorbed dose rate unit\" a subclass of \"g-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lutetium Atom\" a subclass of \"rotamer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Helmholtz free energy\" a subclass of \"polar surface area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chiral center\" a subclass of \"group element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric flux density\" a subclass of \"process\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" a subclass of \"extensive property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability unit\" a subclass of \"electric charge\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"stereo wedge bond\" a subclass of \"mass density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical quality\" a subclass of \"electromagnetic radiation unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"pure substance\" a subclass of \"organic reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Barium\" a subclass of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"liquid crystal phase\" a subclass of \"sulfonic acid derivative group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"sulfonic acid derivative group\" a subclass of \"Terbium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"trans isomer\" a subclass of \"cyclicity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molality unit\" a subclass of \"organic group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R or S isomer\" a subclass of \"Terbium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"dependent_continuant\" a subclass of \"acyl halide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"disposition\" a subclass of \"surface tension unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group element\" a subclass of \"sulfonic acid group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"stereo wedge bond\" a subclass of \"stereo bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"molar energy\" a subclass of \"dependent_continuant\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molar mass unit\" a subclass of \"extensive property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical substance\" a subclass of \"Meitnerium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Terbium\" a subclass of \"extensive property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability\" a subclass of \"electromagnetic radiation unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"periodic block\" a subclass of \"ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular center\" a subclass of \"Uranium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric flux density unit\" a subclass of \"rotamer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"surface tension unit\" a subclass of \"neutral acidity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"absorbed dose rate unit\" a subclass of \"pure substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"thermodynamic system\" a subclass of \"group 10 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"grain size\" a subclass of \"amount of substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"currency unit\" a subclass of \"thermodynamic system\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"substrate\" a subclass of \"Helmholtz free energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"period 3 element\" a subclass of \"temperature unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric flux density unit\" a subclass of \"conformer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiance\" a subclass of \"quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Dysprosium\" a subclass of \"radiation unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"sulfonic acid derivative group\" a subclass of \"radiation unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"amount of substance\" a subclass of \"Xenon\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"yotta scaled unit\" a subclass of \"parts per notation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"g-block element\" a subclass of \"magnetic flux density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"period 3 element\" a subclass of \"chemical reaction pathway\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability\" a subclass of \"Terbium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"trans isomer\" a subclass of \"neutral phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"cyclicity\" a subclass of \"rotatable bond count\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"entropy\" a subclass of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"quality\" a subclass of \"neutral phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Dysprosium\" a subclass of \"cyclicity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"absorbed dose rate unit\" a subclass of \"molality unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"dependent_continuant\" a subclass of \"period 3 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununhexium\" a subclass of \"radiation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lawrencium\" a subclass of \"force unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"thermodynamic system\" a subclass of \"aromatic ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"catalytic activity unit\" a subclass of \"Cofactor\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Phase Equilibrium\" a subclass of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"molar energy\" a subclass of \"disposition\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiant intensity unit\" a subclass of \"electromagnetic radiation unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Zirconium\" a subclass of \"yotta scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"disposition\" a subclass of \"p-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acyl halide\" a subclass of \"disposition\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"ultimate tensile strength\" a subclass of \"quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotamer\" a subclass of \"aromaticity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"ultimate tensile strength\" a subclass of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"pure substance\" a subclass of \"chemical substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Ununoctium Atom\" a subclass of \"parts per notation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acyl iodide\" a subclass of \"trigonal bipyramidal molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"trigonal bipyramidal molecular geometry\" a subclass of \"chemical substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R isomer\" a subclass of \"Cofactor\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"density\" a subclass of \"chemical reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"cyclicity\" a subclass of \"specific energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"heat capacity\" a subclass of \"Helmholtz free energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"atom\" a subclass of \"strange matter phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"series element\" a subclass of \"molar energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acceleration\" a subclass of \"conduction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"aromaticity\" a subclass of \"extensive property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular mass unit\" a subclass of \"Xenon\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"atom\" a subclass of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"disposition\" a subclass of \"electric flux density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiant intensity unit\" a subclass of \"acidity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotatable bond count\" a subclass of \"acceleration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"angle unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"unit\" a subclass of \"density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"parts per notation\" a subclass of \"rotamer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electromagnetic radiation unit\" a subclass of \"dynamic viscosity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"power\" a subclass of \"organic group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"cyclicity\" a subclass of \"angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric field strength unit\" a subclass of \"common chemical phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Terbium\" a subclass of \"bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"extensive property\" a subclass of \"conduction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Terbium\" a subclass of \"Helmholtz free energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation unit\" a subclass of \"Xenon\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"liquid crystal phase\" a subclass of \"uncommon chemical phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"chemical conformation\" a subclass of \"Cofactor\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"series element\" a subclass of \"molar mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"open thermodynamic system\" a subclass of \"rotamer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical conformation\" a subclass of \"permittivity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group 10 element\" a subclass of \"electric resistance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"period 3 element\" a subclass of \"permeability\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Xenon Atom\" a subclass of \"Calcium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"periodic table element\" a subclass of \"chemical reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Argon Atom\" a subclass of \"solid angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"realizable_entity\" a subclass of \"Argon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Dysprosium\" a subclass of \"R or S isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"disposition\" a subclass of \"chemical reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"g-block element\" a subclass of \"periodic block\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"disposition\" a subclass of \"g-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Cofactor\" a subclass of \"R or S isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric conduction\" a subclass of \"density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"quality\" a subclass of \"mass density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"angle\" a subclass of \"R or S isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acyl iodide\" a subclass of \"acyl halide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Xenon\" a subclass of \"density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"general sulfinic acid group\" a subclass of \"rotamer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununseptium\" a subclass of \"Concentration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"grain size\" a subclass of \"trans isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"solid angle\" a subclass of \"angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"square pyramidal molecular geometry\" a subclass of \"chemical reaction pathway\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R isomer\" a subclass of \"pico scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acyl iodide\" a subclass of \"open thermodynamic system\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Gibbs free energy\" a subclass of \"group 9 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"aromaticity\" a subclass of \"strange matter phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"organic group\" a subclass of \"Reagent\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Terbium Atom\" a subclass of \"stereo bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Platinum Atom\" a subclass of \"molecular mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Calcium Atom\" a subclass of \"substrate\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electromagnetic radation\" a subclass of \"conformer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molar mass unit\" a subclass of \"series element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"absorbed dose rate unit\" a subclass of \"currency unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"scaled unit\" a subclass of \"liquid crystal phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"periodic table element\" a subclass of \"neutral phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"neutral phase\" a subclass of \"Helmholtz free energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"aromatic ring\" a subclass of \"amount of substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric field strength unit\" a subclass of \"Uranium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Xenon Atom\" a subclass of \"molecular mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"conformer\" a subclass of \"organic reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular geometry\" a subclass of \"periodic block\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lutetium Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"absorbed dose rate unit\" a subclass of \"molar mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular center\" a subclass of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Tellurium\" a subclass of \"group 10 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"polar surface area\" a subclass of \"Concentration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Hydrogen\" a subclass of \"Ununseptium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"extensive property\" a subclass of \"thermodynamic system\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"square pyramidal molecular geometry\" a subclass of \"chemical substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric charge\" a subclass of \"gas phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation\" a subclass of \"pure substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" a subclass of \"ultimate tensile strength\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"aromaticity\" a subclass of \"Melting Point\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"neutral phase\" a subclass of \"Tungsten\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"polar surface area\" a subclass of \"Ununseptium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Tungsten\" a subclass of \"Mendelevium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation unit\" a subclass of \"p-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability\" a subclass of \"Ununseptium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"realizable_entity\" a subclass of \"trans isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"undefined stereo atom count\" a subclass of \"electromagnetic radation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acyl halide\" a subclass of \"scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lawrencium\" a subclass of \"Barium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"general sulfinic acid group\" a subclass of \"heat capacity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Uranium Atom\" a subclass of \"molar mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R or S isomer\" a subclass of \"Xenon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"MolecularQuality\" a subclass of \"secondary amine group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical conformation\" a subclass of \"grain size\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"unit\" a subclass of \"Uranium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular geometry\" a subclass of \"Tungsten\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Helmholtz free energy\" a subclass of \"energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"strange matter phase\" a subclass of \"acyl halide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acidity\" a subclass of \"thermodynamic system\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"currency unit\" a subclass of \"catalytic concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"trans isomer\" a subclass of \"Ununseptium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"liquid crystal phase\" a subclass of \"molecular mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"neutral phase\" a subclass of \"electric charge\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Helmholtz free energy\" a subclass of \"pressure\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununhexium\" a subclass of \"Meitnerium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acceleration\" a subclass of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Actinium\" a subclass of \"Platinum Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"absorbed dose rate unit\" a subclass of \"Electronegativity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"aromatic ring\" a subclass of \"molar mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununhexium\" a subclass of \"molar energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric resistance\" a subclass of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"trigonal bipyramidal molecular geometry\" a subclass of \"trans isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lattice Parameter\" a subclass of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"atom\" a subclass of \"group 10 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununoctium Atom\" a subclass of \"Helmholtz free energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"general sulfinic acid group\" a subclass of \"MolecularQuality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"trigonal bipyramidal molecular geometry\" a subclass of \"Meitnerium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Terbium\" a subclass of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"trigonal bipyramidal molecular geometry\" a subclass of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununquadium\" a subclass of \"Cofactor\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"currency unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"general sulfinic acid group\" a subclass of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"organic reaction\" a subclass of \"Phase Equilibrium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lutetium Atom\" a subclass of \"aromatic ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R or S isomer\" a subclass of \"specific energy unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"general sulfinic acid group\" a subclass of \"Concentration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"surface tension unit\" a subclass of \"square pyramidal molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"catalytic concentration unit\" a subclass of \"electric flux density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"bond\" a subclass of \"Gibbs free energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"bond\" a subclass of \"chemical interaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"yotta scaled unit\" a subclass of \"scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"chemical reaction\" a subclass of \"thermodynamic system\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group 10 element\" a subclass of \"group element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Gibbs free energy\" a subclass of \"chemical quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Radon Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"moment of force\" a subclass of \"surface tension unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric conduction\" a subclass of \"molar energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lawrencium\" a subclass of \"chemical interaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"aromatic ring\" a subclass of \"catalytic activity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"atom\" a subclass of \"neutral phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric field strength unit\" a subclass of \"chemical conformation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"stereo wedge bond\" a subclass of \"periodic table element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Uranium Atom\" a subclass of \"absorbed dose rate unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"moment of force\" a subclass of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Terbium\" a subclass of \"magnetic flux density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Helmholtz free energy\" a subclass of \"grain size\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"atom\" a subclass of \"specific energy unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Xenon Atom\" a subclass of \"MolecularQuality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"disposition\" a subclass of \"electromagnetic radiation unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lawrencium\" a subclass of \"MolecularQuality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Meitnerium\" a subclass of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"capacitance unit\" a subclass of \"permeability\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular geometry\" a subclass of \"capacitance unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"substrate\" a subclass of \"pico scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"moment of force\" a subclass of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"dynamic viscosity unit\" a subclass of \"energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R or S isomer\" a subclass of \"conduction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"neutral phase\" a subclass of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"realizable_entity\" a subclass of \"process\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Dysprosium\" a subclass of \"Zirconium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular center\" a subclass of \"Cofactor\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"organic group\" a subclass of \"capacitance unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molar energy\" a subclass of \"luminance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R or S isomer\" a subclass of \"electric charge\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Mendelevium Atom\" a subclass of \"catalytic concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Reagent\" a subclass of \"strange matter phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"square pyramidal molecular geometry\" a subclass of \"chemical quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"MolecularQuality\" a subclass of \"periodic table element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical reaction pathway\" a subclass of \"chemical substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"secondary amine group\" a subclass of \"periodic block\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"gas phase\" a subclass of \"electric flux density unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"power\" a subclass of \"Reactant\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"open thermodynamic system\" a subclass of \"thermodynamic system\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"dependent_continuant\" a subclass of \"Silicon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Uranium Atom\" a subclass of \"angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"stereo wedge bond\" a subclass of \"atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R or S isomer\" a subclass of \"Ununquadium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Actinium\" a subclass of \"Terbium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric resistance\" a subclass of \"acyl halide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"force unit\" a subclass of \"Gibbs free energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular geometry\" a subclass of \"chemical quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"ultimate tensile strength\" a subclass of \"disposition\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"cyclicity\" a subclass of \"g-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Xenon\" a subclass of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"density\" a subclass of \"Barium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical reaction pathway\" a subclass of \"Calcium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"specific energy unit\" a subclass of \"Lutetium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"grain size\" a subclass of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Mendelevium Atom\" a subclass of \"chiral center\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"aromatic ring\" a subclass of \"Argon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric charge\" a subclass of \"Gibbs free energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"grain size\" a subclass of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"disposition\" a subclass of \"angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"amount of substance\" a subclass of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"neutral acidity\" a subclass of \"capacitance unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"dynamic viscosity unit\" a subclass of \"group 9 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununquadium\" a subclass of \"electric charge\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"mulliken electronegativity\" a subclass of \"molality unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"mass density\" a subclass of \"trigonal bipyramidal molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Melting Point\" a subclass of \"moment of force\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Xenon Atom\" a subclass of \"aromaticity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Zirconium\" a subclass of \"group 9 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Xenon\" a subclass of \"molecular mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununhexium\" a subclass of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chiral center\" a subclass of \"specific energy unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"substrate\" a subclass of \"electric resistance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group element\" a subclass of \"Xenon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"ring\" a subclass of \"molar energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"chemical reaction\" a subclass of \"square pyramidal molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"general sulfinic acid group\" a subclass of \"specific energy unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"force unit\" a subclass of \"Platinum Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acidity\" a subclass of \"Actinium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Actinium\" a subclass of \"rotatable bond count\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"neutral phase\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiance\" a subclass of \"acyl halide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lawrencium\" a subclass of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"R or S isomer\" a subclass of \"mulliken electronegativity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"MoleculeComponentCount\" a subclass of \"yotta scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununoctium Atom\" a subclass of \"molality unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acyl iodide\" a subclass of \"stereo wedge bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group 9 element\" a subclass of \"group element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"electric field strength unit\" a subclass of \"moment of force\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"heat capacity\" a subclass of \"extensive property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Uranium Atom\" a subclass of \"common chemical phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Reactant\" a subclass of \"neutral acidity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiant intensity unit\" a subclass of \"neutral phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric flux density\" a subclass of \"bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical reaction pathway\" a subclass of \"Lattice Parameter\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"general sulfinic acid group\" a subclass of \"radiance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Actinium\" a subclass of \"acyl halide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"neutral phase\" a subclass of \"mulliken electronegativity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"anticlinal conformation\" a subclass of \"pico scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation unit\" a subclass of \"neutral acidity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acyl halide\" a subclass of \"grain size\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Tellurium\" a subclass of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Lattice Parameter\" a subclass of \"permittivity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"ring\" a subclass of \"temperature unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"unit\" a subclass of \"series element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electromagnetic radiation unit\" a subclass of \"molecular mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"amount of substance\" a subclass of \"Ununquadium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Melting Point\" a subclass of \"concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"MoleculeComponentCount\" a subclass of \"specific energy unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"energy\" a subclass of \"extensive property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Reactant\" a subclass of \"rotatable bond count\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"process\" a subclass of \"aromaticity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Reagent\" a subclass of \"Ununoctium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Terbium Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Lawrencium\" a subclass of \"density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"luminance\" a subclass of \"anticlinal conformation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"p-block element\" a subclass of \"electric resistance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"sulfonic acid derivative group\" a subclass of \"Meitnerium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"undefined stereo atom count\" a subclass of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"molar energy\" a subclass of \"amount of substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"temperature unit\" a subclass of \"chemical quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"entropy\" a subclass of \"polar surface area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric charge\" a subclass of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"mass density\" a subclass of \"entropy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Melting Point\" a subclass of \"Reagent\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Hydrogen\" a subclass of \"luminance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Xenon Atom\" a subclass of \"dependent_continuant\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric conduction\" a subclass of \"conduction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"stereo bond\" a subclass of \"period 3 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"thermodynamic system\" a subclass of \"dependent_continuant\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"heat capacity\" a subclass of \"substrate\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"luminance\" a subclass of \"Cofactor\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"bond\" a subclass of \"Concentration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"element\" a subclass of \"power\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"extensive property\" a subclass of \"square pyramidal molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular mass unit\" a subclass of \"grain size\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Zirconium\" a subclass of \"aromaticity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Calcium Atom\" a subclass of \"period 3 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"mass density\" a subclass of \"aromatic ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"extensive property\" a subclass of \"group element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"mulliken electronegativity\" a subclass of \"Lattice Parameter\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric conduction\" a subclass of \"Barium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Concentration\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric flux density\" a subclass of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Electronegativity\" a subclass of \"Silicon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"specific energy unit\" a subclass of \"ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Zirconium\" a subclass of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"rotatable bond count\" a subclass of \"scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"cis/trans isomer\" a subclass of \"Ununquadium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"trans isomer\" a subclass of \"cis/trans isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"catalytic activity unit\" a subclass of \"conformer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"series element\" a subclass of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"unit\" a subclass of \"Hydrogen\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"energy\" a subclass of \"radiant intensity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Tungsten\" a subclass of \"R or S isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"force unit\" a subclass of \"sulfonic acid derivative group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Helmholtz free energy\" a subclass of \"molar energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"MolecularQuality\" a subclass of \"Cofactor\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"density\" a subclass of \"surface tension unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Silicon Atom\" a subclass of \"magnetic flux density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"trigonal bipyramidal molecular geometry\" a subclass of \"ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Phase Equilibrium\" a subclass of \"Uranium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"dynamic viscosity unit\" a subclass of \"radiation unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation\" a subclass of \"electromagnetic radiation unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"absorbed dose rate unit\" a subclass of \"undefined stereo atom count\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Helmholtz free energy\" a subclass of \"Platinum Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"g-block element\" a subclass of \"atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"catalytic concentration unit\" a subclass of \"anticlinal conformation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"concentration unit\" a subclass of \"Xenon\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"strange matter phase\" a subclass of \"capacitance unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"realizable_entity\" a subclass of \"permittivity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"organic reaction\" a subclass of \"uncommon chemical phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"specific energy\" a subclass of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"periodic block\" a subclass of \"strange matter phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Argon Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"density\" a subclass of \"molecular mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Zirconium\" a subclass of \"sulfonic acid group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Xenon Atom\" a subclass of \"currency unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Calcium Atom\" a subclass of \"organic reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"angle unit\" a subclass of \"rotatable bond count\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"open thermodynamic system\" a subclass of \"permittivity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"periodic table element\" a subclass of \"energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"energy\" a subclass of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Ununoctium Atom\" a subclass of \"Reagent\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"period 3 element\" a subclass of \"period element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"anticlinal conformation\" a subclass of \"group element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"periodic block\" a subclass of \"Argon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"sulfonic acid group\" a subclass of \"conformer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"sulfonic acid group\" a subclass of \"grain size\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"surface tension unit\" a subclass of \"chemical reaction pathway\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"dynamic viscosity unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"period element\" a subclass of \"pico scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molar energy\" a subclass of \"acidity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"catalytic activity unit\" a subclass of \"group 9 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Xenon Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Reagent\" a subclass of \"Xenon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Meitnerium\" a subclass of \"parts per notation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Argon Atom\" a subclass of \"strange matter phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acceleration\" a subclass of \"aromatic ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununoctium Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"radiant intensity unit\" a subclass of \"MolecularQuality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"mass density\" a subclass of \"electric charge\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular geometry\" a subclass of \"Mendelevium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Zirconium\" a subclass of \"liquid crystal phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chiral center\" a subclass of \"molecular center\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"strange matter phase\" a subclass of \"electromagnetic radation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"concentration unit\" a subclass of \"Xenon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric field strength unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Tungsten\" a subclass of \"Hydrogen\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Calcium Atom\" a subclass of \"Ununhexium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"magnetic flux density\" a subclass of \"parts per notation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"uncommon chemical phase\" a subclass of \"common chemical phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Cofactor\" a subclass of \"Reagent\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"group element\" a subclass of \"mass density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R or S isomer\" a subclass of \"period 3 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiant intensity unit\" a subclass of \"entropy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric flux density\" a subclass of \"electromagnetic radation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"p-block element\" a subclass of \"chemical reaction pathway\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group element\" a subclass of \"conformer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"catalytic concentration unit\" a subclass of \"specific energy unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"magnetic flux density\" a subclass of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"capacitance unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"density\" a subclass of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"general sulfinic acid group\" a subclass of \"organic group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"temperature unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"dependent_continuant\" a subclass of \"scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"open thermodynamic system\" a subclass of \"Melting Point\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"scaled unit\" a subclass of \"conduction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"sulfonic acid group\" a subclass of \"secondary amine group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"conduction\" a subclass of \"Zirconium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"g-block element\" a subclass of \"chemical substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" a subclass of \"Gibbs free energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"mass density\" a subclass of \"square pyramidal molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Phase Equilibrium\" a subclass of \"Reagent\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"extensive property\" a subclass of \"organic group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"MolecularQuality\" a subclass of \"sulfonic acid derivative group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Silicon Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"angle unit\" a subclass of \"concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununhexium\" a subclass of \"Platinum Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"temperature unit\" a subclass of \"uncommon chemical phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular geometry\" a subclass of \"Terbium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"temperature unit\" a subclass of \"permeability unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chiral center\" a subclass of \"group 10 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group 9 element\" a subclass of \"permeability unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" a subclass of \"quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"yotta scaled unit\" a subclass of \"magnetic flux density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"angle\" a subclass of \"Cofactor\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Gibbs free energy\" a subclass of \"energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lutetium Atom\" a subclass of \"mulliken electronegativity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group element\" a subclass of \"quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"amount of substance\" a subclass of \"molecular mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"substrate\" a subclass of \"Gibbs free energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"substrate\" a subclass of \"open thermodynamic system\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Platinum Atom\" a subclass of \"acyl iodide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Uranium Atom\" a subclass of \"Hydrogen\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"catalytic activity unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"polar surface area\" a subclass of \"yotta scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation unit\" a subclass of \"Terbium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Calcium Atom\" a subclass of \"electric flux density unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"gas phase\" a subclass of \"sulfonic acid group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"substrate\" a subclass of \"electric flux density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"parts per notation\" a subclass of \"Tellurium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"bond\" a subclass of \"process\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"rotatable bond count\" a subclass of \"ultimate tensile strength\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Terbium Atom\" a subclass of \"rotatable bond count\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"catalytic concentration unit\" a subclass of \"concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"molecular center\" a subclass of \"chemical quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"radiant intensity unit\" a subclass of \"Terbium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"realizable_entity\" a subclass of \"Actinium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotamer\" a subclass of \"conformer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Phase Equilibrium\" a subclass of \"Helmholtz free energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric flux density unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"chemical reaction pathway\" a subclass of \"Reactant\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"yotta scaled unit\" a subclass of \"cyclicity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Cofactor\" a subclass of \"bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical substance\" a subclass of \"Calcium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Mendelevium Atom\" a subclass of \"force unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununhexium\" a subclass of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Lawrencium\" a subclass of \"neutral phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"secondary amine group\" a subclass of \"organic group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Lutetium Atom\" a subclass of \"solid angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Calcium Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Gibbs free energy\" a subclass of \"R isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"luminance\" a subclass of \"square pyramidal molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical reaction\" a subclass of \"Lattice Parameter\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununhexium\" a subclass of \"general sulfinic acid group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Uranium Atom\" a subclass of \"electromagnetic radation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"process\" a subclass of \"Argon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molar mass unit\" a subclass of \"Uranium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"common chemical phase\" a subclass of \"chemical substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"currency unit\" a subclass of \"ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical substance\" a subclass of \"p-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Terbium\" a subclass of \"luminance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"capacitance unit\" a subclass of \"neutral acidity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Hydrogen\" a subclass of \"g-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"pure substance\" a subclass of \"g-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"gas phase\" a subclass of \"common chemical phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"cyclicity\" a subclass of \"amount of substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric conduction\" a subclass of \"Ununquadium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"mulliken electronegativity\" a subclass of \"molar mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"realizable_entity\" a subclass of \"period 3 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R isomer\" a subclass of \"energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"yotta scaled unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"organic reaction\" a subclass of \"anticlinal conformation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"series element\" a subclass of \"periodic table element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"common chemical phase\" a subclass of \"absorbed dose rate unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"scaled unit\" a subclass of \"periodic block\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation unit\" a subclass of \"Ununquadium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"moment of force\" a subclass of \"trigonal bipyramidal molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"stereo wedge bond\" a subclass of \"Barium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotatable bond count\" a subclass of \"ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acyl iodide\" a subclass of \"cis/trans isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununhexium\" a subclass of \"dependent_continuant\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"period 3 element\" a subclass of \"general sulfinic acid group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"sulfonic acid group\" a subclass of \"organic group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"radiance\" a subclass of \"solid angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group 10 element\" a subclass of \"R isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"angle\" a subclass of \"Ununseptium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular geometry\" a subclass of \"open thermodynamic system\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Tungsten\" a subclass of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"atom\" a subclass of \"ultimate tensile strength\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"polar surface area\" a subclass of \"Zirconium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"periodic table element\" a subclass of \"electric resistance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"pico scaled unit\" a subclass of \"scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"neutral acidity\" a subclass of \"acidity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"conduction\" a subclass of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"undefined stereo atom count\" a subclass of \"Radon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Actinium\" a subclass of \"molality unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"disposition\" a subclass of \"realizable_entity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"anticlinal conformation\" a subclass of \"permeability\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"p-block element\" a subclass of \"Platinum Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Terbium Atom\" a subclass of \"Electronegativity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"sulfonic acid group\" a subclass of \"electric charge\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acidity\" a subclass of \"moment of force\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric field strength unit\" a subclass of \"neutral acidity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotamer\" a subclass of \"molar energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acyl iodide\" a subclass of \"molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical reaction\" a subclass of \"process\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"radiant intensity unit\" a subclass of \"R isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"sulfonic acid group\" a subclass of \"Lattice Parameter\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group 10 element\" a subclass of \"Ununhexium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"p-block element\" a subclass of \"periodic block\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Platinum Atom\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Hydrogen\" a subclass of \"Electronegativity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiance\" a subclass of \"sulfonic acid group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"surface tension unit\" a subclass of \"R or S isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation\" a subclass of \"molar energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lutetium Atom\" a subclass of \"angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Meitnerium\" a subclass of \"molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununoctium Atom\" a subclass of \"molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"absorbed dose rate unit\" a subclass of \"radiation unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"disposition\" a subclass of \"Lutetium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"series element\" a subclass of \"p-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Phase Equilibrium\" a subclass of \"aromatic ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical quality\" a subclass of \"rotatable bond count\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Melting Point\" a subclass of \"dynamic viscosity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"general sulfinic acid group\" a subclass of \"area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acidity\" a subclass of \"electromagnetic radiation unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"trigonal bipyramidal molecular geometry\" a subclass of \"molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"pressure\" a subclass of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"R or S isomer\" a subclass of \"solid angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Silicon Atom\" a subclass of \"R isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiant intensity unit\" a subclass of \"neutral acidity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"specific energy\" a subclass of \"Platinum Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"general sulfinic acid group\" a subclass of \"Mendelevium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"cis/trans isomer\" a subclass of \"general sulfinic acid group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"conformer\" a subclass of \"thermodynamic system\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"specific energy unit\" a subclass of \"angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation\" a subclass of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"group 10 element\" a subclass of \"angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotatable bond count\" a subclass of \"Concentration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"grain size\" a subclass of \"molality unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Mendelevium Atom\" a subclass of \"molecular mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"trans isomer\" a subclass of \"molecular mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acyl iodide\" a subclass of \"parts per notation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"temperature unit\" a subclass of \"electric resistance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"cyclicity\" a subclass of \"MolecularQuality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"area\" a subclass of \"Ununseptium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Barium\" a subclass of \"permittivity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"dependent_continuant\" a subclass of \"acyl iodide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"entropy\" a subclass of \"Concentration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"stereo bond\" a subclass of \"molecular center\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"series element\" a subclass of \"permittivity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"cyclicity\" a subclass of \"Uranium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"realizable_entity\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Tungsten\" a subclass of \"process\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chiral center\" a subclass of \"conduction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Phase Equilibrium\" a subclass of \"Dysprosium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Zirconium\" a subclass of \"organic reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric charge\" a subclass of \"chemical quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"disposition\" a subclass of \"Uranium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"mulliken electronegativity\" a subclass of \"Electronegativity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"specific energy unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"angle unit\" a subclass of \"permittivity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"substrate\" a subclass of \"Reactant\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"organic reaction\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"realizable_entity\" a subclass of \"atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical substance\" a subclass of \"rotamer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R isomer\" a subclass of \"catalytic concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"uncommon chemical phase\" a subclass of \"absorbed dose rate unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"series element\" a subclass of \"acyl halide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiant intensity unit\" a subclass of \"quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"grain size\" a subclass of \"acceleration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununhexium\" a subclass of \"strange matter phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical quality\" a subclass of \"capacitance unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununhexium\" a subclass of \"Dysprosium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"pure substance\" a subclass of \"Tellurium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Reactant\" a subclass of \"series element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"strange matter phase\" a subclass of \"uncommon chemical phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"undefined stereo atom count\" a subclass of \"pressure\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R isomer\" a subclass of \"R or S isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Lattice Parameter\" a subclass of \"Argon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"specific energy\" a subclass of \"Melting Point\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Platinum Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"yotta scaled unit\" a subclass of \"undefined stereo atom count\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group 9 element\" a subclass of \"capacitance unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"quality\" a subclass of \"chemical interaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Calcium Atom\" a subclass of \"Hydrogen\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Electronegativity\" a subclass of \"quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"area\" a subclass of \"radiation unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"angle unit\" a subclass of \"electric resistance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"MoleculeComponentCount\" a subclass of \"chemical interaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"p-block element\" a subclass of \"acceleration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"unit\" a subclass of \"pico scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiance\" a subclass of \"electromagnetic radation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"ultimate tensile strength\" a subclass of \"pure substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiant intensity unit\" a subclass of \"Hydrogen\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Gibbs free energy\" a subclass of \"molar energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Barium\" a subclass of \"gas phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"entropy\" a subclass of \"group 10 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotamer\" a subclass of \"Cofactor\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Radon Atom\" a subclass of \"molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"absorbed dose rate unit\" a subclass of \"chemical reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acceleration\" a subclass of \"capacitance unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Hydrogen\" a subclass of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"periodic table element\" a subclass of \"solid angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"pressure\" a subclass of \"ultimate tensile strength\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"strange matter phase\" a subclass of \"liquid crystal phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical reaction\" a subclass of \"grain size\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Actinium\" a subclass of \"Ununseptium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"luminance\" a subclass of \"catalytic concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric field strength unit\" a subclass of \"neutral phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Phase Equilibrium\" a subclass of \"dependent_continuant\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical reaction pathway\" a subclass of \"Concentration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"concentration unit\" a subclass of \"Reagent\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Terbium Atom\" a subclass of \"strange matter phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotatable bond count\" a subclass of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"periodic block\" a subclass of \"open thermodynamic system\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric flux density\" a subclass of \"square pyramidal molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical substance\" a subclass of \"Uranium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"extensive property\" a subclass of \"acidity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununquadium\" a subclass of \"Hydrogen\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability\" a subclass of \"Lutetium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical interaction\" a subclass of \"organic reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Uranium Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"common chemical phase\" a subclass of \"stereo bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"pico scaled unit\" a subclass of \"aromatic ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"conformer\" a subclass of \"group 9 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acceleration\" a subclass of \"disposition\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"stereo bond\" a subclass of \"ultimate tensile strength\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molality unit\" a subclass of \"disposition\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"trans isomer\" a subclass of \"pure substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acyl halide\" a subclass of \"periodic table element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Concentration\" a subclass of \"molecular mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"ring\" a subclass of \"radiation unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"ultimate tensile strength\" a subclass of \"molecular mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"concentration unit\" a subclass of \"dynamic viscosity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability unit\" a subclass of \"anticlinal conformation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiant intensity unit\" a subclass of \"Melting Point\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lattice Parameter\" a subclass of \"catalytic concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molar mass unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"scaled unit\" a subclass of \"heat capacity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Calcium Atom\" a subclass of \"Actinium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"power\" a subclass of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"ring\" a subclass of \"square pyramidal molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Melting Point\" a subclass of \"disposition\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"stereo bond\" a subclass of \"catalytic concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununseptium\" a subclass of \"pico scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"luminance\" a subclass of \"power\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lutetium Atom\" a subclass of \"catalytic activity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acceleration\" a subclass of \"rotamer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"aromaticity\" a subclass of \"MolecularQuality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Terbium Atom\" a subclass of \"Reactant\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"luminance\" a subclass of \"solid angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"neutral phase\" a subclass of \"chemical reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Electronegativity\" a subclass of \"radiant intensity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"pure substance\" a subclass of \"sulfonic acid derivative group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permittivity unit\" a subclass of \"periodic block\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group element\" a subclass of \"Hydrogen\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Concentration\" a subclass of \"acceleration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Actinium\" a subclass of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"sulfonic acid derivative group\" a subclass of \"stereo wedge bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"amount of substance\" a subclass of \"cis/trans isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"aromaticity\" a subclass of \"Zirconium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"scaled unit\" a subclass of \"Phase Equilibrium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"square pyramidal molecular geometry\" a subclass of \"molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"area\" a subclass of \"polar surface area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"entropy\" a subclass of \"solid angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability\" a subclass of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"molecular geometry\" a subclass of \"grain size\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununseptium\" a subclass of \"ultimate tensile strength\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"moment of force\" a subclass of \"amount of substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permittivity unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Cofactor\" a subclass of \"Barium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability\" a subclass of \"periodic block\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"amount of substance\" a subclass of \"aromatic ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"surface tension unit\" a subclass of \"acyl iodide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Terbium\" a subclass of \"molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"secondary amine group\" a subclass of \"stereo wedge bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"neutral phase\" a subclass of \"neutral acidity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"moment of force\" a subclass of \"acidity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"substrate\" a subclass of \"disposition\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"scaled unit\" a subclass of \"Gibbs free energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"luminance\" a subclass of \"electromagnetic radation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"conduction\" a subclass of \"Xenon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molar mass unit\" a subclass of \"Gibbs free energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular center\" a subclass of \"molecular mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Dysprosium\" a subclass of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"uncommon chemical phase\" a subclass of \"Cofactor\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Zirconium\" a subclass of \"molar energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lutetium Atom\" a subclass of \"temperature unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molar energy\" a subclass of \"permeability\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"neutral phase\" a subclass of \"density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group element\" a subclass of \"Dysprosium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"grain size\" a subclass of \"neutral phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acyl iodide\" a subclass of \"chemical substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"dynamic viscosity unit\" a subclass of \"electric field strength unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"realizable_entity\" a subclass of \"dependent_continuant\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"pure substance\" a subclass of \"Dysprosium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"currency unit\" a subclass of \"Reagent\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununseptium\" a subclass of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"conduction\" a subclass of \"pressure\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"disposition\" a subclass of \"Ununhexium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"thermodynamic system\" a subclass of \"acyl halide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acyl halide\" a subclass of \"chemical reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununhexium\" a subclass of \"magnetic flux density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"common chemical phase\" a subclass of \"Mendelevium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"absorbed dose rate unit\" a subclass of \"Helmholtz free energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Cofactor\" a subclass of \"Xenon\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"polar surface area\" a subclass of \"area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"chiral center\" a subclass of \"pure substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acceleration\" a subclass of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"capacitance unit\" a subclass of \"absorbed dose rate unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"scaled unit\" a subclass of \"luminance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Melting Point\" a subclass of \"area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation unit\" a subclass of \"Tellurium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical interaction\" a subclass of \"Helmholtz free energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"force unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"surface tension unit\" a subclass of \"radiance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability\" a subclass of \"chemical reaction pathway\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group 10 element\" a subclass of \"Radon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"liquid crystal phase\" a subclass of \"Terbium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotamer\" a subclass of \"catalytic concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotamer\" a subclass of \"quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical interaction\" a subclass of \"rotatable bond count\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"anticlinal conformation\" a subclass of \"chemical conformation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"electric charge\" a subclass of \"pure substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical quality\" a subclass of \"pressure\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"specific energy unit\" a subclass of \"Zirconium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"temperature unit\" a subclass of \"group 9 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Silicon Atom\" a subclass of \"p-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation\" a subclass of \"yotta scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"absorbed dose rate unit\" a subclass of \"chemical interaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"organic reaction\" a subclass of \"chemical reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"angle\" a subclass of \"molar mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Platinum Atom\" a subclass of \"neutral acidity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"pressure\" a subclass of \"periodic table element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"sulfonic acid group\" a subclass of \"scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular mass unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"yotta scaled unit\" a subclass of \"strange matter phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"process\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"quality\" a subclass of \"gas phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"temperature unit\" a subclass of \"process\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"aromatic ring\" a subclass of \"ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"chiral center\" a subclass of \"permeability unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acidity\" a subclass of \"series element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical conformation\" a subclass of \"area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"density\" a subclass of \"permeability unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"temperature unit\" a subclass of \"common chemical phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Tungsten\" a subclass of \"gas phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Zirconium\" a subclass of \"pure substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Dysprosium\" a subclass of \"acyl halide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Cofactor\" a subclass of \"grain size\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular mass unit\" a subclass of \"permeability\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Melting Point\" a subclass of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"electric resistance\" a subclass of \"radiation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"process\" a subclass of \"Ununhexium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation\" a subclass of \"energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"thermodynamic system\" a subclass of \"Zirconium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"moment of force\" a subclass of \"ultimate tensile strength\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"liquid crystal phase\" a subclass of \"Ununhexium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Calcium Atom\" a subclass of \"catalytic concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"temperature unit\" a subclass of \"power\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molality unit\" a subclass of \"concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Actinium\" a subclass of \"area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"temperature unit\" a subclass of \"group 10 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Reactant\" a subclass of \"secondary amine group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"sulfonic acid group\" a subclass of \"molecular center\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" a subclass of \"trigonal bipyramidal molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"capacitance unit\" a subclass of \"grain size\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric conduction\" a subclass of \"concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"catalytic activity unit\" a subclass of \"Ununhexium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group 9 element\" a subclass of \"pure substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununquadium\" a subclass of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"cis/trans isomer\" a subclass of \"acyl halide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"magnetic flux density\" a subclass of \"angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"uncommon chemical phase\" a subclass of \"surface tension unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical reaction pathway\" a subclass of \"process\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"realizable_entity\" a subclass of \"chiral center\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"surface tension unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"molar energy\" a subclass of \"series element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"disposition\" a subclass of \"bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununseptium\" a subclass of \"Dysprosium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Helmholtz free energy\" a subclass of \"Reactant\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"mass density\" a subclass of \"density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"periodic table element\" a subclass of \"Terbium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lawrencium\" a subclass of \"Reagent\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"process\" a subclass of \"energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R isomer\" a subclass of \"period element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"sulfonic acid derivative group\" a subclass of \"organic group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Mendelevium Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  }
+]

@@ -1,0 +1,3362 @@
+[
+  {
+    "prompt": "Is \"catalytic activity unit\" the parent class of \"concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Tungsten\" the parent class of \"electromagnetic radiation unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"sulfonic acid group\" the parent class of \"chemical reaction pathway\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"yotta scaled unit\" the parent class of \"mulliken electronegativity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununseptium\" the parent class of \"Barium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"anticlinal conformation\" the parent class of \"electric charge\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Terbium Atom\" the parent class of \"molecular mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Reactant\" the parent class of \"Terbium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"MolecularQuality\" the parent class of \"series element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Uranium Atom\" the parent class of \"Barium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"sulfonic acid group\" the parent class of \"periodic block\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"extensive property\" the parent class of \"luminance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Gibbs free energy\" the parent class of \"Calcium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Concentration\" the parent class of \"cis/trans isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability\" the parent class of \"angle unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acyl halide\" the parent class of \"acyl iodide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"acceleration\" the parent class of \"absorbed dose rate unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"mulliken electronegativity\" the parent class of \"Lawrencium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"period 3 element\" the parent class of \"Ununhexium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric flux density unit\" the parent class of \"quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"power\" the parent class of \"chemical quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric flux density\" the parent class of \"electromagnetic radation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"Lattice Parameter\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"magnetic flux density\" the parent class of \"Calcium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical interaction\" the parent class of \"group 9 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"organic group\" the parent class of \"secondary amine group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"magnetic flux density\" the parent class of \"acyl iodide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"element\" the parent class of \"Ununhexium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"ultimate tensile strength\" the parent class of \"mulliken electronegativity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acidity\" the parent class of \"molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"magnetic flux density\" the parent class of \"radiant intensity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"polar surface area\" the parent class of \"gas phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"substrate\" the parent class of \"surface tension unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotatable bond count\" the parent class of \"chiral center\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical interaction\" the parent class of \"yotta scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Reagent\" the parent class of \"Cofactor\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"radiation unit\" the parent class of \"moment of force\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical substance\" the parent class of \"pure substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"dynamic viscosity unit\" the parent class of \"angle unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"density\" the parent class of \"magnetic flux density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"cyclicity\" the parent class of \"chemical reaction pathway\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Uranium Atom\" the parent class of \"Ununquadium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group 10 element\" the parent class of \"electric conduction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"period 3 element\" the parent class of \"pressure\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"periodic table element\" the parent class of \"ultimate tensile strength\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"catalytic activity unit\" the parent class of \"chemical conformation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Uranium Atom\" the parent class of \"yotta scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"open thermodynamic system\" the parent class of \"acyl halide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"realizable_entity\" the parent class of \"R isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Dysprosium\" the parent class of \"bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical quality\" the parent class of \"absorbed dose rate unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"element\" the parent class of \"Terbium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"electric flux density unit\" the parent class of \"conformer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"disposition\" the parent class of \"parts per notation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group 10 element\" the parent class of \"ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"specific energy\" the parent class of \"chemical conformation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"substrate\" the parent class of \"electric field strength unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular mass unit\" the parent class of \"permeability\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"undefined stereo atom count\" the parent class of \"chemical interaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"disposition\" the parent class of \"secondary amine group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical substance\" the parent class of \"angle unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"entropy\" the parent class of \"Electronegativity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical interaction\" the parent class of \"Lattice Parameter\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Reactant\" the parent class of \"capacitance unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"organic group\" the parent class of \"sulfonic acid group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"general sulfinic acid group\" the parent class of \"concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Helmholtz free energy\" the parent class of \"specific energy unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"currency unit\" the parent class of \"periodic block\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electromagnetic radation\" the parent class of \"radiance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"power\" the parent class of \"Argon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"heat capacity\" the parent class of \"acceleration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"energy\" the parent class of \"Ununseptium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Tungsten\" the parent class of \"cyclicity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"yotta scaled unit\" the parent class of \"period 3 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Cofactor\" the parent class of \"amount of substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Cofactor\" the parent class of \"period element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"element\" the parent class of \"period 3 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Platinum Atom\" the parent class of \"g-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acidity\" the parent class of \"MolecularQuality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"general sulfinic acid group\" the parent class of \"pressure\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Cofactor\" the parent class of \"mass density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R isomer\" the parent class of \"stereo wedge bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"quality\" the parent class of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"R or S isomer\" the parent class of \"electric resistance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"extensive property\" the parent class of \"radiation unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permittivity unit\" the parent class of \"liquid crystal phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical substance\" the parent class of \"liquid crystal phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"bond\" the parent class of \"p-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"quality\" the parent class of \"force unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"specific energy unit\" the parent class of \"Reactant\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"open thermodynamic system\" the parent class of \"Reagent\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Electronegativity\" the parent class of \"neutral phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"organic group\" the parent class of \"Reactant\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"open thermodynamic system\" the parent class of \"chemical reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"cis/trans isomer\" the parent class of \"Tellurium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chiral center\" the parent class of \"molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"yotta scaled unit\" the parent class of \"entropy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununquadium\" the parent class of \"MolecularQuality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"neutral phase\" the parent class of \"trans isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"scaled unit\" the parent class of \"area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"p-block element\" the parent class of \"square pyramidal molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molar mass unit\" the parent class of \"Argon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Xenon\" the parent class of \"radiant intensity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"aromaticity\" the parent class of \"Melting Point\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"liquid crystal phase\" the parent class of \"Barium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"p-block element\" the parent class of \"stereo bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acidity\" the parent class of \"yotta scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"bond\" the parent class of \"chiral center\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Platinum Atom\" the parent class of \"Electronegativity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"undefined stereo atom count\" the parent class of \"process\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical reaction\" the parent class of \"permeability unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununhexium\" the parent class of \"Mendelevium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"aromaticity\" the parent class of \"conduction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chiral center\" the parent class of \"power\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric conduction\" the parent class of \"dynamic viscosity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"series element\" the parent class of \"grain size\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"density\" the parent class of \"polar surface area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"entropy\" the parent class of \"period element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Gibbs free energy\" the parent class of \"atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"strange matter phase\" the parent class of \"Xenon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Concentration\" the parent class of \"Barium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability unit\" the parent class of \"quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"stereo bond\" the parent class of \"stereo wedge bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"surface tension unit\" the parent class of \"Calcium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"MoleculeComponentCount\" the parent class of \"stereo wedge bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation unit\" the parent class of \"absorbed dose rate unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"uncommon chemical phase\" the parent class of \"energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"element\" the parent class of \"Tellurium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Radon Atom\" the parent class of \"general sulfinic acid group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"angle\" the parent class of \"Phase Equilibrium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"amount of substance\" the parent class of \"permeability unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Calcium Atom\" the parent class of \"neutral acidity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical conformation\" the parent class of \"acceleration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"series element\" the parent class of \"organic group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"periodic block\" the parent class of \"period 3 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical reaction\" the parent class of \"R isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical interaction\" the parent class of \"Cofactor\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"ring\" the parent class of \"Lutetium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric flux density unit\" the parent class of \"pico scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Xenon\" the parent class of \"substrate\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"mass density\" the parent class of \"angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"atom\" the parent class of \"Lutetium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"uncommon chemical phase\" the parent class of \"temperature unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"capacitance unit\" the parent class of \"Concentration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group element\" the parent class of \"mass density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"process\" the parent class of \"R isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununseptium\" the parent class of \"permeability\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"dependent_continuant\" the parent class of \"molar mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotamer\" the parent class of \"angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"specific energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Barium\" the parent class of \"chemical reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular geometry\" the parent class of \"square pyramidal molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"uncommon chemical phase\" the parent class of \"strange matter phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"heat capacity\" the parent class of \"Actinium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Argon Atom\" the parent class of \"electromagnetic radation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Tungsten\" the parent class of \"sulfonic acid group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Platinum Atom\" the parent class of \"chemical reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Argon Atom\" the parent class of \"Electronegativity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group 9 element\" the parent class of \"secondary amine group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"stereo wedge bond\" the parent class of \"rotamer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"Melting Point\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Reagent\" the parent class of \"electromagnetic radation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular mass unit\" the parent class of \"open thermodynamic system\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"MoleculeComponentCount\" the parent class of \"thermodynamic system\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"area\" the parent class of \"polar surface area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"parts per notation\" the parent class of \"surface tension unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"pico scaled unit\" the parent class of \"catalytic concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"sulfonic acid group\" the parent class of \"strange matter phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"grain size\" the parent class of \"surface tension unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"unit\" the parent class of \"currency unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"radiation\" the parent class of \"undefined stereo atom count\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Phase Equilibrium\" the parent class of \"specific energy unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R isomer\" the parent class of \"luminance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation\" the parent class of \"organic group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununhexium\" the parent class of \"Xenon\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"moment of force\" the parent class of \"R or S isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"absorbed dose rate unit\" the parent class of \"substrate\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"angle\" the parent class of \"period 3 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"pure substance\" the parent class of \"Uranium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permittivity unit\" the parent class of \"R or S isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"conduction\" the parent class of \"chemical quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Electronegativity\" the parent class of \"mulliken electronegativity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"atom\" the parent class of \"Terbium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"conformer\" the parent class of \"pico scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"trans isomer\" the parent class of \"pressure\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"angle unit\" the parent class of \"electric flux density unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"force unit\" the parent class of \"group 9 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"gas phase\" the parent class of \"density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Gibbs free energy\" the parent class of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"element\" the parent class of \"disposition\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"element\" the parent class of \"Meitnerium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"pico scaled unit\" the parent class of \"sulfonic acid group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"element\" the parent class of \"energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"surface tension unit\" the parent class of \"Lattice Parameter\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"luminance\" the parent class of \"polar surface area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"mass density\" the parent class of \"Barium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"element\" the parent class of \"Actinium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"unit\" the parent class of \"p-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"anticlinal conformation\" the parent class of \"molality unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"uncommon chemical phase\" the parent class of \"specific energy unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"undefined stereo atom count\" the parent class of \"molecular center\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Dysprosium\" the parent class of \"absorbed dose rate unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"element\" the parent class of \"Barium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"period 3 element\" the parent class of \"Uranium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"sulfonic acid group\" the parent class of \"pressure\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"neutral acidity\" the parent class of \"trans isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"pressure\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"conduction\" the parent class of \"electric conduction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"gas phase\" the parent class of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"g-block element\" the parent class of \"secondary amine group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"neutral acidity\" the parent class of \"density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"element\" the parent class of \"Ununquadium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"neutral acidity\" the parent class of \"R or S isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric charge\" the parent class of \"disposition\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"dependent_continuant\" the parent class of \"rotamer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group 10 element\" the parent class of \"specific energy unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"trans isomer\" the parent class of \"Ununhexium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"solid angle\" the parent class of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"periodic block\" the parent class of \"currency unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"cis/trans isomer\" the parent class of \"trans isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"pico scaled unit\" the parent class of \"MolecularQuality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununseptium\" the parent class of \"process\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability\" the parent class of \"Ununquadium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Xenon\" the parent class of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"stereo wedge bond\" the parent class of \"catalytic activity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"series element\" the parent class of \"Lawrencium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular mass unit\" the parent class of \"trans isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"yotta scaled unit\" the parent class of \"realizable_entity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"stereo bond\" the parent class of \"aromatic ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R isomer\" the parent class of \"quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Hydrogen\" the parent class of \"catalytic concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"pressure\" the parent class of \"Uranium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acyl halide\" the parent class of \"pressure\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical reaction\" the parent class of \"organic reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"mulliken electronegativity\" the parent class of \"group 10 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"pressure\" the parent class of \"ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"magnetic flux density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"moment of force\" the parent class of \"organic reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"sulfonic acid derivative group\" the parent class of \"molality unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Uranium Atom\" the parent class of \"absorbed dose rate unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Platinum Atom\" the parent class of \"permittivity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Dysprosium\" the parent class of \"radiant intensity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"ring\" the parent class of \"radiation unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"common chemical phase\" the parent class of \"acyl halide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"catalytic activity unit\" the parent class of \"bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molality unit\" the parent class of \"radiation unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"organic group\" the parent class of \"Barium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R or S isomer\" the parent class of \"R isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"chemical quality\" the parent class of \"radiant intensity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"substrate\" the parent class of \"Reactant\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric field strength unit\" the parent class of \"aromatic ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"concentration unit\" the parent class of \"catalytic concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"molecular geometry\" the parent class of \"catalytic activity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric charge\" the parent class of \"Cofactor\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Silicon Atom\" the parent class of \"molar mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"force unit\" the parent class of \"organic reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"period element\" the parent class of \"electromagnetic radiation unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lawrencium\" the parent class of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation\" the parent class of \"extensive property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric field strength unit\" the parent class of \"gas phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"grain size\" the parent class of \"aromatic ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric charge\" the parent class of \"pico scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"solid angle\" the parent class of \"Barium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"conduction\" the parent class of \"surface tension unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"angle unit\" the parent class of \"R or S isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"period element\" the parent class of \"chemical quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"disposition\" the parent class of \"sulfonic acid derivative group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric conduction\" the parent class of \"molar mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"strange matter phase\" the parent class of \"electromagnetic radation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electromagnetic radiation unit\" the parent class of \"radiant intensity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"molality unit\" the parent class of \"molecular center\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"anticlinal conformation\" the parent class of \"process\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"angle\" the parent class of \"solid angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"atom\" the parent class of \"Uranium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"electric resistance\" the parent class of \"power\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"g-block element\" the parent class of \"electric flux density unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Tungsten\" the parent class of \"pico scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability unit\" the parent class of \"area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"unit\" the parent class of \"electric flux density unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Argon Atom\" the parent class of \"Radon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"extensive property\" the parent class of \"power\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"realizable_entity\" the parent class of \"period element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"pico scaled unit\" the parent class of \"process\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Meitnerium\" the parent class of \"catalytic activity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununhexium\" the parent class of \"Radon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molar energy\" the parent class of \"Gibbs free energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Ununhexium\" the parent class of \"molar mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"cyclicity\" the parent class of \"radiation unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiant intensity unit\" the parent class of \"chemical quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"secondary amine group\" the parent class of \"power\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation unit\" the parent class of \"surface tension unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"entropy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"chemical quality\" the parent class of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical reaction\" the parent class of \"Argon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical reaction pathway\" the parent class of \"temperature unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Hydrogen\" the parent class of \"group element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electromagnetic radation\" the parent class of \"amount of substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"magnetic flux density\" the parent class of \"moment of force\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununseptium\" the parent class of \"acyl iodide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular center\" the parent class of \"chiral center\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"electric charge\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"periodic table element\" the parent class of \"series element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"realizable_entity\" the parent class of \"disposition\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Lattice Parameter\" the parent class of \"surface tension unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"mulliken electronegativity\" the parent class of \"Hydrogen\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Actinium\" the parent class of \"Reactant\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"concentration unit\" the parent class of \"acyl halide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"cis/trans isomer\" the parent class of \"Lutetium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"aromaticity\" the parent class of \"Radon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molar energy\" the parent class of \"Uranium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical reaction\" the parent class of \"Xenon\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"heat capacity\" the parent class of \"atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"cyclicity\" the parent class of \"electromagnetic radation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Meitnerium\" the parent class of \"anticlinal conformation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"bond\" the parent class of \"molecular center\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Actinium\" the parent class of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"unit\" the parent class of \"molecular mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"luminance\" the parent class of \"acyl halide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"pico scaled unit\" the parent class of \"electric flux density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"element\" the parent class of \"Lawrencium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"pressure\" the parent class of \"neutral acidity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acceleration\" the parent class of \"MolecularQuality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"periodic table element\" the parent class of \"molality unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Terbium Atom\" the parent class of \"periodic table element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability unit\" the parent class of \"Melting Point\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"unit\" the parent class of \"temperature unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"molar mass unit\" the parent class of \"Ununquadium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununoctium Atom\" the parent class of \"period element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Uranium Atom\" the parent class of \"ultimate tensile strength\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability\" the parent class of \"magnetic flux density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"unit\" the parent class of \"capacitance unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"entropy\" the parent class of \"mulliken electronegativity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"scaled unit\" the parent class of \"pico scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"chemical reaction pathway\" the parent class of \"organic reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"unit\" the parent class of \"specific energy unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"series element\" the parent class of \"trans isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Electronegativity\" the parent class of \"undefined stereo atom count\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Calcium Atom\" the parent class of \"chemical interaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"periodic table element\" the parent class of \"undefined stereo atom count\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular geometry\" the parent class of \"trigonal bipyramidal molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"catalytic activity unit\" the parent class of \"g-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiant intensity unit\" the parent class of \"amount of substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Platinum Atom\" the parent class of \"molar energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability\" the parent class of \"Lawrencium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"force unit\" the parent class of \"Zirconium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"bond\" the parent class of \"electric resistance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"thermodynamic system\" the parent class of \"periodic block\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"aromatic ring\" the parent class of \"strange matter phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R or S isomer\" the parent class of \"radiant intensity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular center\" the parent class of \"absorbed dose rate unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Phase Equilibrium\" the parent class of \"Dysprosium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"period element\" the parent class of \"rotamer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"temperature unit\" the parent class of \"molar mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R isomer\" the parent class of \"ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"density\" the parent class of \"cyclicity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"electric resistance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"common chemical phase\" the parent class of \"atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Barium\" the parent class of \"catalytic activity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"unit\" the parent class of \"angle unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"chiral center\" the parent class of \"substrate\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability\" the parent class of \"chemical reaction pathway\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"realizable_entity\" the parent class of \"rotamer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"aromatic ring\" the parent class of \"force unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"polar surface area\" the parent class of \"R isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric charge\" the parent class of \"neutral phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"liquid crystal phase\" the parent class of \"quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"neutral acidity\" the parent class of \"electromagnetic radation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"process\" the parent class of \"polar surface area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical reaction pathway\" the parent class of \"realizable_entity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Radon Atom\" the parent class of \"electric charge\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"extensive property\" the parent class of \"Cofactor\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"open thermodynamic system\" the parent class of \"ultimate tensile strength\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Meitnerium\" the parent class of \"dynamic viscosity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"element\" the parent class of \"Dysprosium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"electric charge\" the parent class of \"angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"surface tension unit\" the parent class of \"magnetic flux density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"solid angle\" the parent class of \"Uranium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"process\" the parent class of \"chemical reaction pathway\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"element\" the parent class of \"electric resistance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lawrencium\" the parent class of \"catalytic concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"aromatic ring\" the parent class of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Helmholtz free energy\" the parent class of \"concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electromagnetic radation\" the parent class of \"pico scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"unit\" the parent class of \"force unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"rotatable bond count\" the parent class of \"open thermodynamic system\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"chiral center\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation\" the parent class of \"stereo wedge bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"bond\" the parent class of \"angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular mass unit\" the parent class of \"molality unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"organic reaction\" the parent class of \"Dysprosium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acceleration\" the parent class of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group element\" the parent class of \"group 9 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"g-block element\" the parent class of \"acyl iodide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical interaction\" the parent class of \"area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"element\" the parent class of \"Xenon\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"angle unit\" the parent class of \"electric conduction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"force unit\" the parent class of \"general sulfinic acid group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"heat capacity\" the parent class of \"Electronegativity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"conformer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"concentration unit\" the parent class of \"heat capacity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"neutral phase\" the parent class of \"common chemical phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"heat capacity\" the parent class of \"chiral center\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"catalytic activity unit\" the parent class of \"aromaticity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"catalytic concentration unit\" the parent class of \"electric flux density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"entropy\" the parent class of \"energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molar energy\" the parent class of \"Xenon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permittivity unit\" the parent class of \"molar mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"general sulfinic acid group\" the parent class of \"stereo bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"common chemical phase\" the parent class of \"area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"radiation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"square pyramidal molecular geometry\" the parent class of \"catalytic concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"bond\" the parent class of \"Terbium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"grain size\" the parent class of \"solid angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Concentration\" the parent class of \"Dysprosium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Tellurium\" the parent class of \"electric flux density unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Reagent\" the parent class of \"anticlinal conformation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acceleration\" the parent class of \"luminance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"unit\" the parent class of \"permeability unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"cyclicity\" the parent class of \"electric field strength unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Xenon\" the parent class of \"Helmholtz free energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"Hydrogen\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotamer\" the parent class of \"radiance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"catalytic activity unit\" the parent class of \"Platinum Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununhexium\" the parent class of \"stereo wedge bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molar energy\" the parent class of \"quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"sulfonic acid group\" the parent class of \"aromaticity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acceleration\" the parent class of \"cis/trans isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric flux density\" the parent class of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Terbium\" the parent class of \"Tellurium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric flux density\" the parent class of \"chemical reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric charge\" the parent class of \"Dysprosium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acidity\" the parent class of \"neutral acidity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"solid angle\" the parent class of \"Platinum Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Phase Equilibrium\" the parent class of \"sulfonic acid group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"mulliken electronegativity\" the parent class of \"periodic block\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molar mass unit\" the parent class of \"Uranium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Meitnerium\" the parent class of \"sulfonic acid group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"temperature unit\" the parent class of \"electric conduction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"area\" the parent class of \"gas phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical substance\" the parent class of \"energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acyl halide\" the parent class of \"R isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electromagnetic radiation unit\" the parent class of \"electromagnetic radation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R or S isomer\" the parent class of \"process\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"organic group\" the parent class of \"polar surface area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"disposition\" the parent class of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"aromatic ring\" the parent class of \"acyl halide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric conduction\" the parent class of \"unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotatable bond count\" the parent class of \"Lattice Parameter\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"angle\" the parent class of \"R or S isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"density\" the parent class of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"common chemical phase\" the parent class of \"gas phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"electric flux density unit\" the parent class of \"gas phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Meitnerium\" the parent class of \"sulfonic acid derivative group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acidity\" the parent class of \"group 10 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"dependent_continuant\" the parent class of \"specific energy unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Tungsten\" the parent class of \"period element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"scaled unit\" the parent class of \"yotta scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Concentration\" the parent class of \"parts per notation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"periodic block\" the parent class of \"p-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"atom\" the parent class of \"Silicon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"rotatable bond count\" the parent class of \"magnetic flux density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"period element\" the parent class of \"period 3 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Actinium\" the parent class of \"acyl halide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotatable bond count\" the parent class of \"angle unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric conduction\" the parent class of \"scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Melting Point\" the parent class of \"molality unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"neutral acidity\" the parent class of \"Xenon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"dynamic viscosity unit\" the parent class of \"sulfonic acid group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Tungsten\" the parent class of \"sulfonic acid derivative group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"unit\" the parent class of \"catalytic activity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"chemical conformation\" the parent class of \"Tellurium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"energy\" the parent class of \"temperature unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"concentration unit\" the parent class of \"molality unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"acyl iodide\" the parent class of \"pure substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"unit\" the parent class of \"period 3 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"process\" the parent class of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununquadium\" the parent class of \"cyclicity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"extensive property\" the parent class of \"electric conduction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununoctium Atom\" the parent class of \"period 3 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"organic group\" the parent class of \"R or S isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical quality\" the parent class of \"quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Melting Point\" the parent class of \"Hydrogen\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"unit\" the parent class of \"permittivity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"periodic block\" the parent class of \"g-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"force unit\" the parent class of \"sulfonic acid group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"uncommon chemical phase\" the parent class of \"liquid crystal phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"MoleculeComponentCount\" the parent class of \"Ununquadium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Reactant\" the parent class of \"periodic block\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability\" the parent class of \"Electronegativity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric field strength unit\" the parent class of \"scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"unit\" the parent class of \"Platinum Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation\" the parent class of \"Concentration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"gas phase\" the parent class of \"disposition\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Melting Point\" the parent class of \"absorbed dose rate unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group 9 element\" the parent class of \"permeability unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"force unit\" the parent class of \"group element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"extensive property\" the parent class of \"substrate\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"energy\" the parent class of \"Helmholtz free energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Dysprosium\" the parent class of \"concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical interaction\" the parent class of \"acyl halide\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molar energy\" the parent class of \"cyclicity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permittivity unit\" the parent class of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Platinum Atom\" the parent class of \"electric flux density unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical substance\" the parent class of \"radiation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Argon Atom\" the parent class of \"electric field strength unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lutetium Atom\" the parent class of \"Ununoctium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"concentration unit\" the parent class of \"Uranium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"luminance\" the parent class of \"quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"element\" the parent class of \"Ununseptium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"process\" the parent class of \"molar mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acyl iodide\" the parent class of \"energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical substance\" the parent class of \"periodic table element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permittivity unit\" the parent class of \"organic group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"mass density\" the parent class of \"Helmholtz free energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"aromatic ring\" the parent class of \"molar energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiance\" the parent class of \"electric charge\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"dependent_continuant\" the parent class of \"temperature unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Radon Atom\" the parent class of \"yotta scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"periodic block\" the parent class of \"yotta scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"amount of substance\" the parent class of \"Reactant\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Barium\" the parent class of \"group element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lattice Parameter\" the parent class of \"grain size\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"common chemical phase\" the parent class of \"currency unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"concentration unit\" the parent class of \"density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"neutral acidity\" the parent class of \"periodic block\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"organic reaction\" the parent class of \"trans isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"neutral phase\" the parent class of \"concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acyl iodide\" the parent class of \"permeability unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiance\" the parent class of \"pressure\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"bond\" the parent class of \"Ununoctium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"trans isomer\" the parent class of \"R or S isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Concentration\" the parent class of \"molecular mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"dynamic viscosity unit\" the parent class of \"sulfonic acid derivative group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"parts per notation\" the parent class of \"Xenon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"general sulfinic acid group\" the parent class of \"uncommon chemical phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"gas phase\" the parent class of \"parts per notation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation\" the parent class of \"catalytic concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical reaction pathway\" the parent class of \"general sulfinic acid group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"area\" the parent class of \"Ununoctium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"trigonal bipyramidal molecular geometry\" the parent class of \"Concentration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"heat capacity\" the parent class of \"Dysprosium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"MoleculeComponentCount\" the parent class of \"undefined stereo atom count\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"open thermodynamic system\" the parent class of \"electromagnetic radation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"catalytic activity unit\" the parent class of \"acidity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"cis/trans isomer\" the parent class of \"series element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Argon Atom\" the parent class of \"common chemical phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"pressure\" the parent class of \"gas phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Argon Atom\" the parent class of \"radiant intensity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"capacitance unit\" the parent class of \"Radon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"atom\" the parent class of \"Lawrencium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"magnetic flux density\" the parent class of \"undefined stereo atom count\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"cis/trans isomer\" the parent class of \"area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Radon Atom\" the parent class of \"chemical reaction pathway\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"extensive property\" the parent class of \"heat capacity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"atom\" the parent class of \"Radon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"unit\" the parent class of \"surface tension unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Electronegativity\" the parent class of \"organic reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electromagnetic radation\" the parent class of \"Reagent\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability\" the parent class of \"undefined stereo atom count\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Zirconium\" the parent class of \"molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular mass unit\" the parent class of \"Phase Equilibrium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"MolecularQuality\" the parent class of \"Radon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"pressure\" the parent class of \"substrate\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acyl halide\" the parent class of \"Mendelevium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric field strength unit\" the parent class of \"open thermodynamic system\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"moment of force\" the parent class of \"stereo wedge bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiant intensity unit\" the parent class of \"Lawrencium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical substance\" the parent class of \"Xenon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Argon Atom\" the parent class of \"Lattice Parameter\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Reagent\" the parent class of \"parts per notation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotamer\" the parent class of \"angle unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"stereo wedge bond\" the parent class of \"common chemical phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"dependent_continuant\" the parent class of \"thermodynamic system\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical interaction\" the parent class of \"Concentration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"magnetic flux density\" the parent class of \"currency unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"process\" the parent class of \"bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"force unit\" the parent class of \"Lattice Parameter\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"unit\" the parent class of \"electric field strength unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"catalytic concentration unit\" the parent class of \"grain size\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununoctium Atom\" the parent class of \"ultimate tensile strength\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"cis/trans isomer\" the parent class of \"radiant intensity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"uncommon chemical phase\" the parent class of \"periodic block\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"trigonal bipyramidal molecular geometry\" the parent class of \"g-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electromagnetic radiation unit\" the parent class of \"Reagent\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"process\" the parent class of \"uncommon chemical phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"polar surface area\" the parent class of \"parts per notation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"strange matter phase\" the parent class of \"catalytic activity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability\" the parent class of \"stereo wedge bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotamer\" the parent class of \"Tellurium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Xenon Atom\" the parent class of \"aromaticity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R isomer\" the parent class of \"molar mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"capacitance unit\" the parent class of \"organic group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"gas phase\" the parent class of \"p-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"energy\" the parent class of \"MolecularQuality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acceleration\" the parent class of \"rotatable bond count\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"conformer\" the parent class of \"rotamer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"electric conduction\" the parent class of \"molecular center\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"Phase Equilibrium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Mendelevium Atom\" the parent class of \"molality unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical interaction\" the parent class of \"g-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"stereo bond\" the parent class of \"amount of substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"catalytic concentration unit\" the parent class of \"Hydrogen\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability unit\" the parent class of \"uncommon chemical phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"realizable_entity\" the parent class of \"molality unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric flux density unit\" the parent class of \"Cofactor\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"liquid crystal phase\" the parent class of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Silicon Atom\" the parent class of \"Xenon\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"concentration unit\" the parent class of \"Meitnerium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Terbium\" the parent class of \"catalytic activity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"currency unit\" the parent class of \"rotamer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"pure substance\" the parent class of \"rotamer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"g-block element\" the parent class of \"organic group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular mass unit\" the parent class of \"chemical substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"MoleculeComponentCount\" the parent class of \"R isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Mendelevium Atom\" the parent class of \"R or S isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"grain size\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"power\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"molality unit\" the parent class of \"polar surface area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"mulliken electronegativity\" the parent class of \"Concentration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"MoleculeComponentCount\" the parent class of \"rotatable bond count\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"absorbed dose rate unit\" the parent class of \"liquid crystal phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"general sulfinic acid group\" the parent class of \"radiation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical conformation\" the parent class of \"anticlinal conformation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"force unit\" the parent class of \"Dysprosium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"MolecularQuality\" the parent class of \"aromaticity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"atom\" the parent class of \"Argon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"absorbed dose rate unit\" the parent class of \"chemical substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"ultimate tensile strength\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"radiant intensity unit\" the parent class of \"chemical reaction pathway\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"mass density\" the parent class of \"Zirconium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical quality\" the parent class of \"magnetic flux density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lattice Parameter\" the parent class of \"disposition\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"MolecularQuality\" the parent class of \"cyclicity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"unit\" the parent class of \"molar mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"chemical quality\" the parent class of \"molecular center\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"realizable_entity\" the parent class of \"dynamic viscosity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group 10 element\" the parent class of \"period element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Tungsten\" the parent class of \"electric field strength unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"angle unit\" the parent class of \"polar surface area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Terbium\" the parent class of \"surface tension unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"uncommon chemical phase\" the parent class of \"parts per notation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"realizable_entity\" the parent class of \"radiance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"neutral phase\" the parent class of \"MolecularQuality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Terbium\" the parent class of \"heat capacity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group element\" the parent class of \"electric field strength unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"bond\" the parent class of \"area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiant intensity unit\" the parent class of \"sulfonic acid derivative group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"unit\" the parent class of \"dynamic viscosity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"disposition\" the parent class of \"periodic block\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotamer\" the parent class of \"amount of substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lutetium Atom\" the parent class of \"acidity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"unit\" the parent class of \"Xenon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"atom\" the parent class of \"Ununseptium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"g-block element\" the parent class of \"acidity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"density\" the parent class of \"Terbium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"amount of substance\" the parent class of \"Xenon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"g-block element\" the parent class of \"Helmholtz free energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"amount of substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"electric field strength unit\" the parent class of \"group 10 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"currency unit\" the parent class of \"sulfonic acid derivative group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"temperature unit\" the parent class of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"stereo bond\" the parent class of \"force unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"aromatic ring\" the parent class of \"Electronegativity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation unit\" the parent class of \"Ununquadium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"element\" the parent class of \"Hydrogen\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"element\" the parent class of \"electromagnetic radation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotamer\" the parent class of \"chemical substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Tungsten\" the parent class of \"common chemical phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"unit\" the parent class of \"heat capacity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"organic reaction\" the parent class of \"molar energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"force unit\" the parent class of \"Silicon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"acceleration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"solid angle\" the parent class of \"bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"undefined stereo atom count\" the parent class of \"Actinium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Calcium Atom\" the parent class of \"chemical reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"conformer\" the parent class of \"force unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acyl iodide\" the parent class of \"neutral phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"periodic block\" the parent class of \"molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotamer\" the parent class of \"liquid crystal phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"ring\" the parent class of \"aromatic ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"organic group\" the parent class of \"sulfonic acid derivative group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"area\" the parent class of \"acceleration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"group 9 element\" the parent class of \"Reactant\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"concentration unit\" the parent class of \"aromatic ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acyl halide\" the parent class of \"moment of force\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"acidity\" the parent class of \"rotamer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Silicon Atom\" the parent class of \"electromagnetic radiation unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chiral center\" the parent class of \"sulfonic acid group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lutetium Atom\" the parent class of \"surface tension unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"catalytic activity unit\" the parent class of \"scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric conduction\" the parent class of \"neutral phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"disposition\" the parent class of \"Barium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"thermodynamic system\" the parent class of \"open thermodynamic system\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"yotta scaled unit\" the parent class of \"element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"electric flux density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Concentration\" the parent class of \"surface tension unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Reactant\" the parent class of \"substrate\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"open thermodynamic system\" the parent class of \"molar mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"area\" the parent class of \"aromaticity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Calcium Atom\" the parent class of \"Terbium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"atom\" the parent class of \"Platinum Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"density\" the parent class of \"mass density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Actinium\" the parent class of \"square pyramidal molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"permeability unit\" the parent class of \"amount of substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"area\" the parent class of \"Terbium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"atom\" the parent class of \"Mendelevium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"g-block element\" the parent class of \"currency unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Platinum Atom\" the parent class of \"scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electromagnetic radiation unit\" the parent class of \"molar mass unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"strange matter phase\" the parent class of \"radiance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"magnetic flux density\" the parent class of \"specific energy unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"atom\" the parent class of \"Xenon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"electric flux density\" the parent class of \"specific energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electromagnetic radation\" the parent class of \"dependent_continuant\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"MoleculeComponentCount\" the parent class of \"secondary amine group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"grain size\" the parent class of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation\" the parent class of \"realizable_entity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"organic group\" the parent class of \"radiation unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"temperature unit\" the parent class of \"solid angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Cofactor\" the parent class of \"Silicon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"sulfonic acid group\" the parent class of \"square pyramidal molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotamer\" the parent class of \"quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"element\" the parent class of \"sulfonic acid group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Xenon\" the parent class of \"neutral acidity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"dynamic viscosity unit\" the parent class of \"Actinium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"conduction\" the parent class of \"substrate\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"p-block element\" the parent class of \"moment of force\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"substrate\" the parent class of \"Ununquadium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lattice Parameter\" the parent class of \"dynamic viscosity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Tungsten\" the parent class of \"molality unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"square pyramidal molecular geometry\" the parent class of \"quality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electromagnetic radation\" the parent class of \"luminance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"scaled unit\" the parent class of \"mass density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Silicon Atom\" the parent class of \"trans isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"cis/trans isomer\" the parent class of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"neutral phase\" the parent class of \"Dysprosium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"trigonal bipyramidal molecular geometry\" the parent class of \"cis/trans isomer\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"element\" the parent class of \"area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Hydrogen\" the parent class of \"temperature unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molar energy\" the parent class of \"organic group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Tungsten\" the parent class of \"bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Helmholtz free energy\" the parent class of \"grain size\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"energy\" the parent class of \"square pyramidal molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Uranium Atom\" the parent class of \"realizable_entity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"atom\" the parent class of \"Ununoctium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"permeability\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Phase Equilibrium\" the parent class of \"chiral center\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"substrate\" the parent class of \"Ununhexium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Gibbs free energy\" the parent class of \"permittivity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R isomer\" the parent class of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"pressure\" the parent class of \"g-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular geometry\" the parent class of \"periodic block\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"angle unit\" the parent class of \"yotta scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"anticlinal conformation\" the parent class of \"uncommon chemical phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Tellurium\" the parent class of \"neutral phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Actinium\" the parent class of \"Silicon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"cis/trans isomer\" the parent class of \"measured property\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"thermodynamic system\" the parent class of \"pressure\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical substance\" the parent class of \"neutral phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric flux density\" the parent class of \"dynamic viscosity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Melting Point\" the parent class of \"currency unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chiral center\" the parent class of \"amount of substance\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"solid angle\" the parent class of \"electric charge\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric flux density\" the parent class of \"Radon Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"R isomer\" the parent class of \"Ununquadium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"moment of force\" the parent class of \"catalytic concentration unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununseptium\" the parent class of \"chemical reaction pathway\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"parts per notation\" the parent class of \"radiation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Xenon\" the parent class of \"Lattice Parameter\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular geometry\" the parent class of \"scaled unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"process\" the parent class of \"chemical reaction\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"ultimate tensile strength\" the parent class of \"electromagnetic radiation unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"amount of substance\" the parent class of \"group 9 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"dependent_continuant\" the parent class of \"Actinium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Melting Point\" the parent class of \"grain size\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"trigonal bipyramidal molecular geometry\" the parent class of \"Terbium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical reaction pathway\" the parent class of \"pressure\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"density\" the parent class of \"chemical conformation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical substance\" the parent class of \"moment of force\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"dependent_continuant\" the parent class of \"realizable_entity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"MolecularQuality\" the parent class of \"anticlinal conformation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical quality\" the parent class of \"electric charge\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"Radon Atom\" the parent class of \"neutral acidity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"catalytic concentration unit\" the parent class of \"gas phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"sulfonic acid group\" the parent class of \"electric flux density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"element\" the parent class of \"Tungsten\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"dependent_continuant\" the parent class of \"Terbium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"open thermodynamic system\" the parent class of \"process\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Argon Atom\" the parent class of \"angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"MoleculeComponentCount\" the parent class of \"Calcium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"dependent_continuant\" the parent class of \"Hydrogen\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"substrate\" the parent class of \"radiant intensity unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric field strength unit\" the parent class of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"mulliken electronegativity\" the parent class of \"heat capacity\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"temperature unit\" the parent class of \"MolecularQuality\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"luminance\" the parent class of \"chemical reaction pathway\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular mass unit\" the parent class of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiation\" the parent class of \"molecular center\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"electric charge\" the parent class of \"aromatic ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"extensive property\" the parent class of \"electric flux density unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"dependent_continuant\" the parent class of \"p-block element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical interaction\" the parent class of \"bond\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"element\" the parent class of \"Zirconium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"group 10 element\" the parent class of \"general sulfinic acid group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Argon Atom\" the parent class of \"moment of force\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"period 3 element\" the parent class of \"permeability\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular center\" the parent class of \"energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"energy\" the parent class of \"Gibbs free energy\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Uranium Atom\" the parent class of \"process\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"square pyramidal molecular geometry\" the parent class of \"ring\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Terbium Atom\" the parent class of \"molality unit\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Ununquadium\" the parent class of \"magnetic flux density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"temperature unit\" the parent class of \"atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"extensive property\" the parent class of \"angle\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molecular mass unit\" the parent class of \"mass density\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"rotamer\" the parent class of \"acceleration\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Lawrencium\" the parent class of \"open thermodynamic system\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"amount of substance\" the parent class of \"neutral phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"measured property\" the parent class of \"moment of force\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"chemical conformation\" the parent class of \"dependent_continuant\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical reaction pathway\" the parent class of \"rotatable bond count\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"currency unit\" the parent class of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"atom\" the parent class of \"Calcium Atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"group element\" the parent class of \"group 10 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"concentration unit\" the parent class of \"open thermodynamic system\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"thermodynamic system\" the parent class of \"chemical conformation\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Gibbs free energy\" the parent class of \"period 3 element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"molar energy\" the parent class of \"Ununhexium\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"Silicon Atom\" the parent class of \"electric charge\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"angle\" the parent class of \"uncommon chemical phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"gas phase\" the parent class of \"common chemical phase\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical substance\" the parent class of \"chiral center\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"radiance\" the parent class of \"square pyramidal molecular geometry\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"organic group\" the parent class of \"general sulfinic acid group\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "true"
+  },
+  {
+    "prompt": "Is \"catalytic activity unit\" the parent class of \"substrate\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"bond\" the parent class of \"periodic table element\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"chemical reaction\" the parent class of \"polar surface area\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  },
+  {
+    "prompt": "Is \"power\" the parent class of \"atom\"? Answer with \"true\" or \"false\". Answer:",
+    "response": "false"
+  }
+]
