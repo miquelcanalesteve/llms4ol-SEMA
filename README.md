@@ -47,6 +47,17 @@ python inference.py
 
 The generated predictions are stored as JSON in `data/outputs/`.
 
+Before running the evaluation step, you must filter these raw predictions to
+extract only the pairs where the model explicitly answered `true`. Adjust the
+paths inside `filter_output.py` to point to your inference output and run:
+
+```bash
+python filter_output.py
+```
+
+This will generate a new `*_true.json` file which contains the cases used for
+scoring.
+
 ## Evaluation
 
 After running inference you can compute precision, recall and F1 score using:
