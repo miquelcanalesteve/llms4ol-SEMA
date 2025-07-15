@@ -1,0 +1,517 @@
+AcylBromideGroup
+Alloy
+Americium Atom
+Arsenic Atom
+Astatine Atom
+Base
+Bismuth Atom
+Boron
+Bromine
+Cadmium
+Cadmium Atom
+Caesium Atom
+Calcium
+Californium
+Ceramic Material
+Cerium
+Chemical Formula
+ChemicalDegradationPathway
+ChemicalSynthesisPathway
+Cobalt Atom
+Concentration
+Curium
+Curium Atom
+D isomer
+D or L isomer
+Darmstadtium
+DerivedUnit
+Einsteinium
+Empirical Formula
+Erbium Atom
+Europium
+Europium Atom
+Fermium Atom
+Fluorine
+Francium Atom
+Gadolinium
+Gallium Atom
+Germanium
+Germanium Atom
+Gibbs free energy
+Gold
+Hafnium
+HalogenAtom
+Hardness
+Hardness Range
+Hardness Range Lower Bound
+Hardness Range Upper Bound
+Helium Atom
+Helmholtz free energy
+HeteroAtom
+Holmium
+Holmium Atom
+Hydrogen Atom
+Indium Atom
+Ion
+Iridium Atom
+Iron
+Iron Atom
+Krypton
+Krypton Atom
+Lanthanum
+Lead
+Lithium
+Lithium Atom
+Lutetium
+Magnesium
+Magnesium Atom
+Manganese Atom
+Melting Point
+Mercury Atom
+Molecular Formula
+MolecularQuality
+MoleculeComponentCount
+Molybdenum
+OpticalIsomer
+Osmium
+Oxygen
+Palladium
+Palladium Atom
+Phosphorus
+Plutonium
+Polonium Atom
+Potassium Atom
+Praseodymium
+Praseodymium Atom
+Product
+Promethium
+R or S isomer
+Radium
+Radium Atom
+Radon
+Reactant
+Reagent
+Rhenium Atom
+Rhodium Atom
+Rubidium
+Rubidium Atom
+Ruthenium
+Rutherfordium
+S isomer
+Samarium Atom
+Scandium
+Seaborgium
+Selenium
+Selenium Atom
+Silver
+Sodium
+Solution
+Stress
+Strontium
+Strontium Atom
+Structure Type
+Sulfur
+Tantalum Atom
+Tellurium Atom
+Temperature Range
+Temperature Range Lower Bound
+Temperature Range Upper Bound
+Thallium Atom
+Thermal Expansion
+Thulium Atom
+Tin
+Tin Atom
+Tungsten Atom
+Ununbium
+Ununbium Atom
+Ununhexium Atom
+Ununnilium
+Ununnilium Atom
+Ununoctium
+Ununpentium Atom
+Ununquadium Atom
+Ununseptium Atom
+Ununtrium
+Ununtrium Atom
+Unununium Atom
+Uranium
+Vanadium
+Wikipedia
+Ytterbium Atom
+Yttrium
+Yttrium Atom
+absorbed dose
+absorbed dose rate
+absorbed dose rate unit
+absorbed dose unit
+acceleration
+acceleration unit
+acid
+acid-base reaction
+acidity
+acyclic
+acyl bromide
+acyl chloride
+acyl chloride group
+acyl compound
+acyl halide
+acyl halide group
+addition reaction
+aldehyde
+alkali metal
+allotrope
+amide group
+amine
+amount of substance concentration
+amount of substance concentration unit
+angle
+angle unit
+angular acceleration
+angular acceleration unit
+angular velocity
+angular velocity unit
+anion
+anti conformation
+area
+area density
+area density unit
+area unit
+aromatic
+aromatic bond
+aromaticity
+aryl
+atom
+atom property
+atto scaled unit
+band gap
+binary compound
+bond
+boron group element
+capacitance
+capacitance unit
+carbon allotrope
+carbon group
+carbonyl compound
+carbonyl group
+carboxylic acid group
+catalyst
+catalytic activity
+catalytic activity unit
+catalytic concentration
+catalyzed reaction
+cation pi interaction
+centi scaled unit
+chalcogen
+chaoite
+chemical agent
+chemical conformation
+chemical interaction
+chemical phase
+chemical quality
+chemical reaction
+chemical reaction pathway
+chemical substance
+closed thermodynamic system
+common chemical phase
+complex
+component count
+composites
+compound
+concentration unit
+conduction
+conduction unit
+conformer
+connected_spatiotemporal_region
+connected_temporal_region
+continuant
+count
+covalent bond
+crystal system
+crystalline phase
+cyclic
+cyclicity
+d-block element
+deci scaled unit
+decomposition reaction
+defined stereo bond count
+density
+density unit
+dependent_continuant
+diastereomer
+dipole-dipole interaction
+displacement reaction
+disulfide bond
+dose equivalent unit
+double bond
+dynamic viscosity unit
+elastic modulus
+elastomers
+electric charge
+electric charge density unit
+electric conduction
+electric conduction unit
+electric current
+electric current density
+electric current density unit
+electric current unit
+electric flux density
+electric flux density unit
+electric resistance
+electric resistance unit
+electromagnetic radation
+electromagnetic radiation unit
+electronic interaction
+electrophilic addition reaction
+electrostatic interaction
+element
+energy
+energy density unit
+energy unit
+enthalpy
+enthalpy unit
+entity
+entropy
+entropy unit
+equivalent dose
+exa scaled unit
+exposure
+exposure unit
+f-block element
+femto scaled unit
+ferromagnetic phase
+fiat_object_part
+flexural modulus
+flexural strength
+force
+force unit
+fracture toughness
+free radical addition
+frequency
+fullerene
+gauche conformation
+giga scaled unit
+glasses
+grain size
+group 1 element
+group 11 element
+group 14 element
+group 15 element
+group 16 element
+group 4 element
+group 7 element
+group element
+halogen
+hecto scaled unit
+homo cyclic ring
+homocyclic
+homogeneous mixture
+hybridization
+hydrogen bond
+hydrogen bond acceptor count
+hydrogen bond donor count
+hydrophobic
+hydrophobic interaction
+hydrophobicity
+identifier
+illuminance
+illuminance unit
+imine
+imine group
+implicit valence
+independent_continuant
+inductance
+inductance unit
+inorganic reaction
+intensive property
+intermolecular interaction
+internal energy
+ionic bond
+ionic compound
+irradiance
+irradiance unit
+isolated thermodynamic system
+isomer
+isomerization
+isotopic atom count
+ketone
+ketone group
+kilo scaled unit
+lanthanide
+length
+length unit
+linear density
+linear density unit
+lonsdaleite
+luminance
+luminance unit
+luminous flux
+luminous flux unit
+luminous intensity
+magnetic field strength
+magnetic flux
+magnetic flux density unit
+magnetic flux unit
+mass
+mass density
+mass unit
+material
+material category
+material quality
+measured property
+metal complex
+metalloid
+methyl group
+milli scaled unit
+mixture
+molality
+molality unit
+molar energy
+molar energy unit
+molar entropy
+molar entropy unit
+molar mass
+molar mass unit
+molecular center
+molecular complex assembly
+molecular complex formation
+molecular formula
+molecular geometry
+molecular mass
+molecule
+moment of force
+moment of force unit
+name
+nitrogen group element
+noble gas
+non aromatic
+non metal
+non polar
+non polar addition reaction
+nucleophilic addition reaction
+object
+object_boundary
+occurrent
+octahedral molecular geometry
+organic compound
+organic group
+organic nitrogen group
+organic phosphate group
+organic sulfur compound
+organic sulfur group
+oxidizing agent
+pH
+pH unit
+paramagnetic phase
+partition coefficient
+parts per notation
+period 1 element
+period 2 element
+period 4 element
+period 5 element
+period 6 element
+period 7 element
+period element
+periodic block
+periodic table element
+periplanar conformation
+permeability unit
+permittivity
+permittivity unit
+peta scaled unit
+plane angle
+plasma phase
+polar addition reaction
+polar bond
+polar surface area
+polarity
+polymers
+potential difference
+potential difference unit
+power unit
+precipitate
+pressure
+pressure unit
+process
+process_aggregate
+processual_entity
+pure substance
+quality
+racemic mixture
+radiance
+radiance unit
+radiant intensity
+radiant intensity unit
+radiation
+radiation unit
+radical
+radical center
+radioactivity activity
+redox reaction
+reducing agent
+refactory
+ring
+scaled unit
+series element
+shifted unit
+single displacement reaction
+site
+solid angle
+solid angle unit
+solid phase
+space group number
+space group property
+spatial_region
+spatiotemporal_instant
+spatiotemporal_region
+specific energy
+specific energy unit
+specific entropy
+specific entropy unit
+specific heat
+specific volume
+specific volume unit
+stereo bond
+stereo hash bond
+sulfoxide group
+super solid phase
+surface tension
+surface tension unit
+synthesis reaction
+systematic name
+tautomer count
+temperature
+temporal_interval
+tera scaled unit
+tertiary amine group
+thermal conduction
+thermal conduction unit
+thermodynamic system
+thiol group
+three_dimensional_region
+time
+topological complex
+traditional name
+transition metal
+trigonal pyramidal molecular geometry
+two_dimensional_region
+ultimate tensile strength
+uncommon chemical phase
+unit
+unit raised to power
+unit raised to power of negative three
+unit raised to power of negative two
+unit raised to power of one
+unit raised to power of three
+unit raised to power of two
+velocity
+velocity unit
+viscosity
+volume
+volume density unit
+volume unit
+wavenumber
+wavenumber unit
+weibull modulus
+yocto scaled unit
+zepto scaled unit
+zero_dimensional_region

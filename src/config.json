@@ -1,0 +1,31 @@
+{
+    "model_name": "meta-llama/Llama-3.1-8B",
+    "training_data": "../data/train",
+    "eval_data": "../data/val",
+    "test_data": "../data/test/test.json",
+    "types_file": "../data/test/test.txt",
+    "training_tokenized": "../data/train_tokenized",
+    "eval_tokenized": "../data/val_tokenized",
+    "prompt_style": "llama3",
+    "seed": 42,
+    "precision": "bf16-mixed",
+    "mask_prompt": true,
+    "ignore_index": -100,
+    "max_seq_length": 512,
+    "max_new_tokens": 50,
+    "micro_batch_size_train": 2,
+    "micro_batch_size_eval": 2,
+    "epochs": 30,
+    "lr": 2e-5,
+    "lora_val_patience": 3,
+    "lora_train": {
+        "lora_r": 8,
+        "lora_alpha": 16,
+        "lora_dropout": 0.05,
+        "target_modules": [
+        "self_attn.q_proj", "self_attn.k_proj", "self_attn.v_proj", "self_attn.o_proj",
+        "mlp.gate_proj", "mlp.up_proj", "mlp.down_proj"
+    ]
+        }
+
+}

@@ -1,0 +1,5210 @@
+[
+  {
+    "parent": "carbon allotrope",
+    "child": "graphite"
+  },
+  {
+    "parent": "carbon allotrope",
+    "child": "allotrope"
+  },
+  {
+    "parent": "carbon allotrope",
+    "child": "amorphous carbon"
+  },
+  {
+    "parent": "carbon allotrope",
+    "child": "diamond"
+  },
+  {
+    "parent": "Silicon",
+    "child": "element"
+  },
+  {
+    "parent": "specific volume",
+    "child": "intensive property"
+  },
+  {
+    "parent": "specific volume",
+    "child": "specific volume unit"
+  },
+  {
+    "parent": "specific volume",
+    "child": "volume"
+  },
+  {
+    "parent": "specific volume",
+    "child": "extensive property"
+  },
+  {
+    "parent": "Lattice Parameter B",
+    "child": "Lattice Parameter"
+  },
+  {
+    "parent": "element",
+    "child": "carbon group element"
+  },
+  {
+    "parent": "element",
+    "child": "series element"
+  },
+  {
+    "parent": "element",
+    "child": "atom"
+  },
+  {
+    "parent": "element",
+    "child": "group element"
+  },
+  {
+    "parent": "element",
+    "child": "material"
+  },
+  {
+    "parent": "element",
+    "child": "chemical substance"
+  },
+  {
+    "parent": "element",
+    "child": "s-block element"
+  },
+  {
+    "parent": "element",
+    "child": "periodic table element"
+  },
+  {
+    "parent": "element",
+    "child": "pure substance"
+  },
+  {
+    "parent": "carbon group",
+    "child": "Carbon"
+  },
+  {
+    "parent": "carbon group",
+    "child": "organic compound"
+  },
+  {
+    "parent": "carbon group",
+    "child": "hydrocarbon"
+  },
+  {
+    "parent": "carbon group",
+    "child": "graphite"
+  },
+  {
+    "parent": "carbon group",
+    "child": "carbon group element"
+  },
+  {
+    "parent": "carbon group",
+    "child": "organic group"
+  },
+  {
+    "parent": "carbon group",
+    "child": "group element"
+  },
+  {
+    "parent": "carbon group",
+    "child": "acyl halide group"
+  },
+  {
+    "parent": "carbon group",
+    "child": "acyl fluoride group"
+  },
+  {
+    "parent": "carbon group",
+    "child": "amorphous carbon"
+  },
+  {
+    "parent": "carbon group",
+    "child": "alkyl"
+  },
+  {
+    "parent": "Carbon",
+    "child": "hydrocarbon"
+  },
+  {
+    "parent": "Carbon",
+    "child": "graphite"
+  },
+  {
+    "parent": "Carbon",
+    "child": "carbon group element"
+  },
+  {
+    "parent": "Carbon",
+    "child": "Carbon Atom"
+  },
+  {
+    "parent": "Carbon",
+    "child": "group element"
+  },
+  {
+    "parent": "Carbon",
+    "child": "material"
+  },
+  {
+    "parent": "Carbon",
+    "child": "chemical substance"
+  },
+  {
+    "parent": "Carbon",
+    "child": "periodic table element"
+  },
+  {
+    "parent": "Carbon",
+    "child": "amorphous carbon"
+  },
+  {
+    "parent": "addition reaction",
+    "child": "process"
+  },
+  {
+    "parent": "addition reaction",
+    "child": "inorganic reaction"
+  },
+  {
+    "parent": "addition reaction",
+    "child": "organic reaction"
+  },
+  {
+    "parent": "addition reaction",
+    "child": "DoubleDisplacementReaction"
+  },
+  {
+    "parent": "addition reaction",
+    "child": "chemical reaction"
+  },
+  {
+    "parent": "addition reaction",
+    "child": "non polar addition reaction"
+  },
+  {
+    "parent": "addition reaction",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "Hardness Range Lower Bound",
+    "child": "Hardness Range"
+  },
+  {
+    "parent": "Hardness Range Lower Bound",
+    "child": "intensive property"
+  },
+  {
+    "parent": "Hardness Range Lower Bound",
+    "child": "Hardness"
+  },
+  {
+    "parent": "Hardness Range Lower Bound",
+    "child": "MolecularQuality"
+  },
+  {
+    "parent": "Hardness Range Lower Bound",
+    "child": "measured property"
+  },
+  {
+    "parent": "bose einstein condensate",
+    "child": "super fluid phase"
+  },
+  {
+    "parent": "bose einstein condensate",
+    "child": "uncommon chemical phase"
+  },
+  {
+    "parent": "energy density unit",
+    "child": "unit"
+  },
+  {
+    "parent": "energy density unit",
+    "child": "volume density unit"
+  },
+  {
+    "parent": "energy density unit",
+    "child": "specific energy"
+  },
+  {
+    "parent": "energy density unit",
+    "child": "energy density"
+  },
+  {
+    "parent": "energy density unit",
+    "child": "intensive property"
+  },
+  {
+    "parent": "energy density unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "energy density unit",
+    "child": "density unit"
+  },
+  {
+    "parent": "energy density unit",
+    "child": "energy unit"
+  },
+  {
+    "parent": "molar energy unit",
+    "child": "unit"
+  },
+  {
+    "parent": "molar energy unit",
+    "child": "specific energy"
+  },
+  {
+    "parent": "molar energy unit",
+    "child": "energy"
+  },
+  {
+    "parent": "molar energy unit",
+    "child": "molar energy"
+  },
+  {
+    "parent": "molar energy unit",
+    "child": "enthalpy"
+  },
+  {
+    "parent": "molar energy unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "molar energy unit",
+    "child": "energy unit"
+  },
+  {
+    "parent": "Antimony Atom",
+    "child": "atom"
+  },
+  {
+    "parent": "parts per notation",
+    "child": "unit"
+  },
+  {
+    "parent": "parts per notation",
+    "child": "amount of substance unit"
+  },
+  {
+    "parent": "parts per notation",
+    "child": "catalytic concentration unit"
+  },
+  {
+    "parent": "parts per notation",
+    "child": "Concentration"
+  },
+  {
+    "parent": "parts per notation",
+    "child": "MoleculeComponentCount"
+  },
+  {
+    "parent": "parts per notation",
+    "child": "electric charge density unit"
+  },
+  {
+    "parent": "parts per notation",
+    "child": "MolecularQuality"
+  },
+  {
+    "parent": "parts per notation",
+    "child": "concentration unit"
+  },
+  {
+    "parent": "parts per notation",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "parts per notation",
+    "child": "density unit"
+  },
+  {
+    "parent": "parts per notation",
+    "child": "amount of substance concentration"
+  },
+  {
+    "parent": "conduction",
+    "child": "process"
+  },
+  {
+    "parent": "conduction",
+    "child": "electric current"
+  },
+  {
+    "parent": "conduction",
+    "child": "electronic interaction"
+  },
+  {
+    "parent": "conduction",
+    "child": "conduction unit"
+  },
+  {
+    "parent": "conduction",
+    "child": "space group property"
+  },
+  {
+    "parent": "conduction",
+    "child": "thermal conduction"
+  },
+  {
+    "parent": "organic compound",
+    "child": "hydrocarbon"
+  },
+  {
+    "parent": "organic compound",
+    "child": "secondary amine"
+  },
+  {
+    "parent": "organic compound",
+    "child": "molecule"
+  },
+  {
+    "parent": "organic compound",
+    "child": "ether"
+  },
+  {
+    "parent": "organic compound",
+    "child": "acyl halide"
+  },
+  {
+    "parent": "organic compound",
+    "child": "compound"
+  },
+  {
+    "parent": "organic compound",
+    "child": "amine"
+  },
+  {
+    "parent": "organic compound",
+    "child": "chemical substance"
+  },
+  {
+    "parent": "organic compound",
+    "child": "amide"
+  },
+  {
+    "parent": "organic compound",
+    "child": "alcohol"
+  },
+  {
+    "parent": "organic compound",
+    "child": "ester"
+  },
+  {
+    "parent": "organic compound",
+    "child": "heterocyclic"
+  },
+  {
+    "parent": "displacement reaction",
+    "child": "process"
+  },
+  {
+    "parent": "displacement reaction",
+    "child": "inorganic reaction"
+  },
+  {
+    "parent": "displacement reaction",
+    "child": "DoubleDisplacementReaction"
+  },
+  {
+    "parent": "displacement reaction",
+    "child": "chemical reaction"
+  },
+  {
+    "parent": "displacement reaction",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "super fluid phase",
+    "child": "uncommon chemical phase"
+  },
+  {
+    "parent": "super fluid phase",
+    "child": "chemical phase"
+  },
+  {
+    "parent": "super fluid phase",
+    "child": "common chemical phase"
+  },
+  {
+    "parent": "super fluid phase",
+    "child": "fermionic condensate"
+  },
+  {
+    "parent": "super fluid phase",
+    "child": "quark gluon plasma phase"
+  },
+  {
+    "parent": "super fluid phase",
+    "child": "liquid phase"
+  },
+  {
+    "parent": "exposure unit",
+    "child": "unit"
+  },
+  {
+    "parent": "exposure unit",
+    "child": "electric field strength unit"
+  },
+  {
+    "parent": "exposure unit",
+    "child": "radiant intensity unit"
+  },
+  {
+    "parent": "exposure unit",
+    "child": "irradiance unit"
+  },
+  {
+    "parent": "exposure unit",
+    "child": "luminous intensity unit"
+  },
+  {
+    "parent": "exposure unit",
+    "child": "electromagnetic radiation unit"
+  },
+  {
+    "parent": "exposure unit",
+    "child": "luminous flux unit"
+  },
+  {
+    "parent": "exposure unit",
+    "child": "illuminance"
+  },
+  {
+    "parent": "exposure unit",
+    "child": "scaled unit"
+  },
+  {
+    "parent": "exposure unit",
+    "child": "absorbed dose unit"
+  },
+  {
+    "parent": "exposure unit",
+    "child": "luminance unit"
+  },
+  {
+    "parent": "exposure unit",
+    "child": "concentration unit"
+  },
+  {
+    "parent": "exposure unit",
+    "child": "absorbed dose"
+  },
+  {
+    "parent": "exposure unit",
+    "child": "radiation unit"
+  },
+  {
+    "parent": "exposure unit",
+    "child": "illuminance unit"
+  },
+  {
+    "parent": "exposure unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "exposure unit",
+    "child": "solid angle unit"
+  },
+  {
+    "parent": "exposure unit",
+    "child": "zetta scaled unit"
+  },
+  {
+    "parent": "exposure unit",
+    "child": "absorbed dose rate"
+  },
+  {
+    "parent": "exposure unit",
+    "child": "magnetic flux density unit"
+  },
+  {
+    "parent": "point group",
+    "child": "molecular geometry"
+  },
+  {
+    "parent": "point group",
+    "child": "space group property"
+  },
+  {
+    "parent": "point group",
+    "child": "space group"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "three_dimensional_region"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "molecule"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "realizable_entity"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "allotrope"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "chemical phase"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "connected_temporal_region"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "one_dimensional_region"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "compound"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "series element"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "occurrent"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "group element"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "scattered_spatiotemporal_region"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "spatial_region"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "entity"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "MoleculeComponentCount"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "continuant"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "common chemical phase"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "spatiotemporal_region"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "object"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "carbon nanofoam"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "fermionic condensate"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "mega scaled unit"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "micro scaled unit"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "volume"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "amount of substance"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "heterogeneous mixture"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "conduction unit"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "liquid phase"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "volume unit"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "mixture"
+  },
+  {
+    "parent": "object_aggregate",
+    "child": "independent_continuant"
+  },
+  {
+    "parent": "pH",
+    "child": "intensive property"
+  },
+  {
+    "parent": "pH",
+    "child": "measured property"
+  },
+  {
+    "parent": "pH",
+    "child": "acidity"
+  },
+  {
+    "parent": "pH",
+    "child": "pH unit"
+  },
+  {
+    "parent": "flexural strength",
+    "child": "measured property"
+  },
+  {
+    "parent": "role",
+    "child": "process"
+  },
+  {
+    "parent": "role",
+    "child": "catalytic activity"
+  },
+  {
+    "parent": "role",
+    "child": "realizable_entity"
+  },
+  {
+    "parent": "role",
+    "child": "electronic interaction"
+  },
+  {
+    "parent": "role",
+    "child": "occurrent"
+  },
+  {
+    "parent": "role",
+    "child": "processual_entity"
+  },
+  {
+    "parent": "role",
+    "child": "identifier"
+  },
+  {
+    "parent": "role",
+    "child": "measured property"
+  },
+  {
+    "parent": "role",
+    "child": "material quality"
+  },
+  {
+    "parent": "role",
+    "child": "quality"
+  },
+  {
+    "parent": "role",
+    "child": "bond"
+  },
+  {
+    "parent": "role",
+    "child": "space group property"
+  },
+  {
+    "parent": "role",
+    "child": "atom property"
+  },
+  {
+    "parent": "role",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "process",
+    "child": "inorganic reaction"
+  },
+  {
+    "parent": "process",
+    "child": "catalytic activity"
+  },
+  {
+    "parent": "process",
+    "child": "organic reaction"
+  },
+  {
+    "parent": "process",
+    "child": "acid-base reaction"
+  },
+  {
+    "parent": "process",
+    "child": "processual_context"
+  },
+  {
+    "parent": "process",
+    "child": "realizable_entity"
+  },
+  {
+    "parent": "process",
+    "child": "connected_temporal_region"
+  },
+  {
+    "parent": "process",
+    "child": "occurrent"
+  },
+  {
+    "parent": "process",
+    "child": "radioactivity activity"
+  },
+  {
+    "parent": "process",
+    "child": "process_boundary"
+  },
+  {
+    "parent": "process",
+    "child": "processual_entity"
+  },
+  {
+    "parent": "process",
+    "child": "chemical reaction pathway"
+  },
+  {
+    "parent": "process",
+    "child": "DoubleDisplacementReaction"
+  },
+  {
+    "parent": "process",
+    "child": "chemical reaction"
+  },
+  {
+    "parent": "process",
+    "child": "precipitation reaction"
+  },
+  {
+    "parent": "process",
+    "child": "non polar addition reaction"
+  },
+  {
+    "parent": "process",
+    "child": "catalyzed reaction"
+  },
+  {
+    "parent": "process",
+    "child": "thermal conduction"
+  },
+  {
+    "parent": "process",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "hydrophilic",
+    "child": "polarity"
+  },
+  {
+    "parent": "hydrophilic",
+    "child": "MolecularQuality"
+  },
+  {
+    "parent": "hydrophilic",
+    "child": "material quality"
+  },
+  {
+    "parent": "hydrophilic",
+    "child": "polar solvent"
+  },
+  {
+    "parent": "hydrophilic",
+    "child": "chemical quality"
+  },
+  {
+    "parent": "electric charge density",
+    "child": "intensive property"
+  },
+  {
+    "parent": "electric charge density",
+    "child": "electric charge density unit"
+  },
+  {
+    "parent": "electric charge density",
+    "child": "measured property"
+  },
+  {
+    "parent": "electric charge density",
+    "child": "density"
+  },
+  {
+    "parent": "electric charge density",
+    "child": "electric charge"
+  },
+  {
+    "parent": "group 6 element",
+    "child": "carbon group element"
+  },
+  {
+    "parent": "group 6 element",
+    "child": "series element"
+  },
+  {
+    "parent": "group 6 element",
+    "child": "group element"
+  },
+  {
+    "parent": "group 6 element",
+    "child": "periodic table element"
+  },
+  {
+    "parent": "Barium Atom",
+    "child": "atom"
+  },
+  {
+    "parent": "Chromium Atom",
+    "child": "atom"
+  },
+  {
+    "parent": "unit",
+    "child": "radiant intensity"
+  },
+  {
+    "parent": "unit",
+    "child": "area density"
+  },
+  {
+    "parent": "unit",
+    "child": "elastic modulus"
+  },
+  {
+    "parent": "unit",
+    "child": "amount of substance unit"
+  },
+  {
+    "parent": "unit",
+    "child": "catalytic concentration unit"
+  },
+  {
+    "parent": "unit",
+    "child": "three_dimensional_region"
+  },
+  {
+    "parent": "unit",
+    "child": "volume density unit"
+  },
+  {
+    "parent": "unit",
+    "child": "electric field strength unit"
+  },
+  {
+    "parent": "unit",
+    "child": "molar entropy"
+  },
+  {
+    "parent": "unit",
+    "child": "radiant intensity unit"
+  },
+  {
+    "parent": "unit",
+    "child": "information unit"
+  },
+  {
+    "parent": "unit",
+    "child": "irradiance unit"
+  },
+  {
+    "parent": "unit",
+    "child": "Hardness Range"
+  },
+  {
+    "parent": "unit",
+    "child": "energy density"
+  },
+  {
+    "parent": "unit",
+    "child": "realizable_entity"
+  },
+  {
+    "parent": "unit",
+    "child": "time unit"
+  },
+  {
+    "parent": "unit",
+    "child": "electric resistance unit"
+  },
+  {
+    "parent": "unit",
+    "child": "Concentration"
+  },
+  {
+    "parent": "unit",
+    "child": "intensive property"
+  },
+  {
+    "parent": "unit",
+    "child": "velocity unit"
+  },
+  {
+    "parent": "unit",
+    "child": "luminous intensity unit"
+  },
+  {
+    "parent": "unit",
+    "child": "plane angle"
+  },
+  {
+    "parent": "unit",
+    "child": "electromagnetic radiation unit"
+  },
+  {
+    "parent": "unit",
+    "child": "angle unit"
+  },
+  {
+    "parent": "unit",
+    "child": "bulk modulus"
+  },
+  {
+    "parent": "unit",
+    "child": "luminous flux unit"
+  },
+  {
+    "parent": "unit",
+    "child": "electric current density unit"
+  },
+  {
+    "parent": "unit",
+    "child": "chemical substance"
+  },
+  {
+    "parent": "unit",
+    "child": "band gap unit"
+  },
+  {
+    "parent": "unit",
+    "child": "radioactivity activity"
+  },
+  {
+    "parent": "unit",
+    "child": "heat capacity"
+  },
+  {
+    "parent": "unit",
+    "child": "entity"
+  },
+  {
+    "parent": "unit",
+    "child": "MoleculeComponentCount"
+  },
+  {
+    "parent": "unit",
+    "child": "specific volume unit"
+  },
+  {
+    "parent": "unit",
+    "child": "thermal conduction unit"
+  },
+  {
+    "parent": "unit",
+    "child": "wavenumber unit"
+  },
+  {
+    "parent": "unit",
+    "child": "magnetic flux density"
+  },
+  {
+    "parent": "unit",
+    "child": "electric charge density unit"
+  },
+  {
+    "parent": "unit",
+    "child": "electric charge unit"
+  },
+  {
+    "parent": "unit",
+    "child": "scaled unit"
+  },
+  {
+    "parent": "unit",
+    "child": "identifier"
+  },
+  {
+    "parent": "unit",
+    "child": "MolecularQuality"
+  },
+  {
+    "parent": "unit",
+    "child": "absorbed dose unit"
+  },
+  {
+    "parent": "unit",
+    "child": "mega scaled unit"
+  },
+  {
+    "parent": "unit",
+    "child": "pressure unit"
+  },
+  {
+    "parent": "unit",
+    "child": "defined stereo atom count"
+  },
+  {
+    "parent": "unit",
+    "child": "micro scaled unit"
+  },
+  {
+    "parent": "unit",
+    "child": "length"
+  },
+  {
+    "parent": "unit",
+    "child": "measured property"
+  },
+  {
+    "parent": "unit",
+    "child": "Lattice Parameter"
+  },
+  {
+    "parent": "unit",
+    "child": "luminance unit"
+  },
+  {
+    "parent": "unit",
+    "child": "entropy unit"
+  },
+  {
+    "parent": "unit",
+    "child": "density"
+  },
+  {
+    "parent": "unit",
+    "child": "volume"
+  },
+  {
+    "parent": "unit",
+    "child": "concentration unit"
+  },
+  {
+    "parent": "unit",
+    "child": "amount of substance"
+  },
+  {
+    "parent": "unit",
+    "child": "electric conduction unit"
+  },
+  {
+    "parent": "unit",
+    "child": "linear density unit"
+  },
+  {
+    "parent": "unit",
+    "child": "specific entropy unit"
+  },
+  {
+    "parent": "unit",
+    "child": "conduction unit"
+  },
+  {
+    "parent": "unit",
+    "child": "radiation unit"
+  },
+  {
+    "parent": "unit",
+    "child": "illuminance unit"
+  },
+  {
+    "parent": "unit",
+    "child": "space group property"
+  },
+  {
+    "parent": "unit",
+    "child": "volume unit"
+  },
+  {
+    "parent": "unit",
+    "child": "monoisotopic weight"
+  },
+  {
+    "parent": "unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "unit",
+    "child": "density unit"
+  },
+  {
+    "parent": "unit",
+    "child": "extensive property"
+  },
+  {
+    "parent": "unit",
+    "child": "capacitance unit"
+  },
+  {
+    "parent": "unit",
+    "child": "solid angle unit"
+  },
+  {
+    "parent": "unit",
+    "child": "energy unit"
+  },
+  {
+    "parent": "unit",
+    "child": "moment of force unit"
+  },
+  {
+    "parent": "unit",
+    "child": "angular acceleration unit"
+  },
+  {
+    "parent": "unit",
+    "child": "amount of substance concentration"
+  },
+  {
+    "parent": "unit",
+    "child": "pH unit"
+  },
+  {
+    "parent": "unit",
+    "child": "zetta scaled unit"
+  },
+  {
+    "parent": "unit",
+    "child": "magnetic flux density unit"
+  },
+  {
+    "parent": "unit",
+    "child": "mass"
+  },
+  {
+    "parent": "Lattice Parameter A",
+    "child": "Lattice Parameter"
+  },
+  {
+    "parent": "inorganic reaction",
+    "child": "acid-base reaction"
+  },
+  {
+    "parent": "inorganic reaction",
+    "child": "chemical reaction pathway"
+  },
+  {
+    "parent": "inorganic reaction",
+    "child": "DoubleDisplacementReaction"
+  },
+  {
+    "parent": "inorganic reaction",
+    "child": "chemical reaction"
+  },
+  {
+    "parent": "inorganic reaction",
+    "child": "precipitation reaction"
+  },
+  {
+    "parent": "inorganic reaction",
+    "child": "non polar addition reaction"
+  },
+  {
+    "parent": "inorganic reaction",
+    "child": "catalyzed reaction"
+  },
+  {
+    "parent": "inorganic reaction",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "catalytic activity",
+    "child": "MolecularQuality"
+  },
+  {
+    "parent": "catalytic activity",
+    "child": "measured property"
+  },
+  {
+    "parent": "catalytic activity",
+    "child": "material quality"
+  },
+  {
+    "parent": "catalytic activity",
+    "child": "catalyzed reaction"
+  },
+  {
+    "parent": "catalytic activity",
+    "child": "chemical quality"
+  },
+  {
+    "parent": "radiant intensity",
+    "child": "radiant intensity unit"
+  },
+  {
+    "parent": "radiant intensity",
+    "child": "luminous intensity unit"
+  },
+  {
+    "parent": "radiant intensity",
+    "child": "electromagnetic radiation unit"
+  },
+  {
+    "parent": "radiant intensity",
+    "child": "luminance"
+  },
+  {
+    "parent": "radiant intensity",
+    "child": "luminous intensity"
+  },
+  {
+    "parent": "area density",
+    "child": "intensive property"
+  },
+  {
+    "parent": "area density",
+    "child": "electric charge density unit"
+  },
+  {
+    "parent": "area density",
+    "child": "measured property"
+  },
+  {
+    "parent": "area density",
+    "child": "density"
+  },
+  {
+    "parent": "area density",
+    "child": "density unit"
+  },
+  {
+    "parent": "area density",
+    "child": "extensive property"
+  },
+  {
+    "parent": "hydrocarbon",
+    "child": "compound"
+  },
+  {
+    "parent": "secondary amine",
+    "child": "secondary amine group"
+  },
+  {
+    "parent": "secondary amine",
+    "child": "amine group"
+  },
+  {
+    "parent": "secondary amine",
+    "child": "amine"
+  },
+  {
+    "parent": "secondary amine",
+    "child": "primary amine group"
+  },
+  {
+    "parent": "organic reaction",
+    "child": "chemical reaction pathway"
+  },
+  {
+    "parent": "organic reaction",
+    "child": "chemical reaction"
+  },
+  {
+    "parent": "organic reaction",
+    "child": "non polar addition reaction"
+  },
+  {
+    "parent": "organic reaction",
+    "child": "catalyzed reaction"
+  },
+  {
+    "parent": "organic reaction",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "elastic modulus",
+    "child": "youngs modulus"
+  },
+  {
+    "parent": "elastic modulus",
+    "child": "bulk modulus"
+  },
+  {
+    "parent": "elastic modulus",
+    "child": "measured property"
+  },
+  {
+    "parent": "polarity",
+    "child": "electronic interaction"
+  },
+  {
+    "parent": "polarity",
+    "child": "intensive property"
+  },
+  {
+    "parent": "polarity",
+    "child": "OpticalIsomer"
+  },
+  {
+    "parent": "polarity",
+    "child": "MolecularQuality"
+  },
+  {
+    "parent": "polarity",
+    "child": "measured property"
+  },
+  {
+    "parent": "polarity",
+    "child": "polar surface area"
+  },
+  {
+    "parent": "polarity",
+    "child": "material quality"
+  },
+  {
+    "parent": "polarity",
+    "child": "positive charge"
+  },
+  {
+    "parent": "polarity",
+    "child": "quality"
+  },
+  {
+    "parent": "polarity",
+    "child": "polar solvent"
+  },
+  {
+    "parent": "polarity",
+    "child": "van der Waal's interaction"
+  },
+  {
+    "parent": "polarity",
+    "child": "space group property"
+  },
+  {
+    "parent": "polarity",
+    "child": "electric charge"
+  },
+  {
+    "parent": "polarity",
+    "child": "negative charge"
+  },
+  {
+    "parent": "polarity",
+    "child": "chemical quality"
+  },
+  {
+    "parent": "polarity",
+    "child": "acidic"
+  },
+  {
+    "parent": "polarity",
+    "child": "atom property"
+  },
+  {
+    "parent": "acid-base reaction",
+    "child": "chemical reaction"
+  },
+  {
+    "parent": "acid-base reaction",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "youngs modulus",
+    "child": "measured property"
+  },
+  {
+    "parent": "amount of substance unit",
+    "child": "catalytic concentration unit"
+  },
+  {
+    "parent": "amount of substance unit",
+    "child": "Concentration"
+  },
+  {
+    "parent": "amount of substance unit",
+    "child": "MoleculeComponentCount"
+  },
+  {
+    "parent": "amount of substance unit",
+    "child": "scaled unit"
+  },
+  {
+    "parent": "amount of substance unit",
+    "child": "concentration unit"
+  },
+  {
+    "parent": "amount of substance unit",
+    "child": "amount of substance"
+  },
+  {
+    "parent": "amount of substance unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "amount of substance unit",
+    "child": "molality"
+  },
+  {
+    "parent": "amount of substance unit",
+    "child": "amount of substance concentration"
+  },
+  {
+    "parent": "catalytic concentration unit",
+    "child": "Concentration"
+  },
+  {
+    "parent": "catalytic concentration unit",
+    "child": "concentration unit"
+  },
+  {
+    "parent": "catalytic concentration unit",
+    "child": "amount of substance concentration"
+  },
+  {
+    "parent": "three_dimensional_region",
+    "child": "molecular geometry"
+  },
+  {
+    "parent": "three_dimensional_region",
+    "child": "scattered_spatiotemporal_region"
+  },
+  {
+    "parent": "three_dimensional_region",
+    "child": "spatial_region"
+  },
+  {
+    "parent": "three_dimensional_region",
+    "child": "spatiotemporal_region"
+  },
+  {
+    "parent": "three_dimensional_region",
+    "child": "volume"
+  },
+  {
+    "parent": "volume density unit",
+    "child": "intensive property"
+  },
+  {
+    "parent": "volume density unit",
+    "child": "specific volume unit"
+  },
+  {
+    "parent": "volume density unit",
+    "child": "scaled unit"
+  },
+  {
+    "parent": "volume density unit",
+    "child": "density"
+  },
+  {
+    "parent": "volume density unit",
+    "child": "concentration unit"
+  },
+  {
+    "parent": "volume density unit",
+    "child": "volume unit"
+  },
+  {
+    "parent": "volume density unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "volume density unit",
+    "child": "density unit"
+  },
+  {
+    "parent": "volume density unit",
+    "child": "extensive property"
+  },
+  {
+    "parent": "ring",
+    "child": "cyclic"
+  },
+  {
+    "parent": "ring",
+    "child": "hetero cyclic ring"
+  },
+  {
+    "parent": "ring",
+    "child": "heterocyclic"
+  },
+  {
+    "parent": "Fluorine Atom",
+    "child": "atom"
+  },
+  {
+    "parent": "electric field strength unit",
+    "child": "scaled unit"
+  },
+  {
+    "parent": "electric field strength unit",
+    "child": "electric field strength"
+  },
+  {
+    "parent": "electric field strength unit",
+    "child": "measured property"
+  },
+  {
+    "parent": "electric field strength unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "covalent bond",
+    "child": "electronic interaction"
+  },
+  {
+    "parent": "covalent bond",
+    "child": "bond"
+  },
+  {
+    "parent": "covalent bond",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "syn conformation",
+    "child": "molecular geometry"
+  },
+  {
+    "parent": "syn conformation",
+    "child": "stereoisomer"
+  },
+  {
+    "parent": "syn conformation",
+    "child": "clinal conformation"
+  },
+  {
+    "parent": "syn conformation",
+    "child": "OpticalIsomer"
+  },
+  {
+    "parent": "syn conformation",
+    "child": "staggered conformation"
+  },
+  {
+    "parent": "syn conformation",
+    "child": "LIsomer"
+  },
+  {
+    "parent": "syn conformation",
+    "child": "cis/trans isomer"
+  },
+  {
+    "parent": "syn conformation",
+    "child": "chemical conformation"
+  },
+  {
+    "parent": "syn conformation",
+    "child": "tetrahedral molecular geometry"
+  },
+  {
+    "parent": "syn conformation",
+    "child": "eclipsed conformation"
+  },
+  {
+    "parent": "polymers",
+    "child": "material"
+  },
+  {
+    "parent": "polymers",
+    "child": "chemical substance"
+  },
+  {
+    "parent": "polymers",
+    "child": "material category"
+  },
+  {
+    "parent": "polymers",
+    "child": "plastics"
+  },
+  {
+    "parent": "ionic bond",
+    "child": "electronic interaction"
+  },
+  {
+    "parent": "ionic bond",
+    "child": "bond"
+  },
+  {
+    "parent": "ionic bond",
+    "child": "Ion"
+  },
+  {
+    "parent": "ionic bond",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "molecular geometry",
+    "child": "MolecularQuality"
+  },
+  {
+    "parent": "molecular geometry",
+    "child": "measured property"
+  },
+  {
+    "parent": "molecular geometry",
+    "child": "trigonal planar molecular geometry"
+  },
+  {
+    "parent": "molecular geometry",
+    "child": "chemical conformation"
+  },
+  {
+    "parent": "molecular geometry",
+    "child": "tetrahedral molecular geometry"
+  },
+  {
+    "parent": "molecular geometry",
+    "child": "space group property"
+  },
+  {
+    "parent": "molecular geometry",
+    "child": "atom property"
+  },
+  {
+    "parent": "group 12 element",
+    "child": "series element"
+  },
+  {
+    "parent": "group 12 element",
+    "child": "group element"
+  },
+  {
+    "parent": "group 12 element",
+    "child": "Indium"
+  },
+  {
+    "parent": "group 12 element",
+    "child": "periodic table element"
+  },
+  {
+    "parent": "molar entropy",
+    "child": "intensive property"
+  },
+  {
+    "parent": "molar entropy",
+    "child": "specific entropy"
+  },
+  {
+    "parent": "molar entropy",
+    "child": "measured property"
+  },
+  {
+    "parent": "molar entropy",
+    "child": "entropy unit"
+  },
+  {
+    "parent": "molar entropy",
+    "child": "specific entropy unit"
+  },
+  {
+    "parent": "molar entropy",
+    "child": "entropy"
+  },
+  {
+    "parent": "molar entropy",
+    "child": "extensive property"
+  },
+  {
+    "parent": "radiant intensity unit",
+    "child": "irradiance unit"
+  },
+  {
+    "parent": "radiant intensity unit",
+    "child": "luminous intensity unit"
+  },
+  {
+    "parent": "radiant intensity unit",
+    "child": "electromagnetic radiation unit"
+  },
+  {
+    "parent": "radiant intensity unit",
+    "child": "luminous flux unit"
+  },
+  {
+    "parent": "radiant intensity unit",
+    "child": "luminance"
+  },
+  {
+    "parent": "radiant intensity unit",
+    "child": "luminance unit"
+  },
+  {
+    "parent": "radiant intensity unit",
+    "child": "luminous intensity"
+  },
+  {
+    "parent": "radiant intensity unit",
+    "child": "radiation unit"
+  },
+  {
+    "parent": "radiant intensity unit",
+    "child": "illuminance unit"
+  },
+  {
+    "parent": "information unit",
+    "child": "series element"
+  },
+  {
+    "parent": "information unit",
+    "child": "identifier"
+  },
+  {
+    "parent": "information unit",
+    "child": "entropy unit"
+  },
+  {
+    "parent": "information unit",
+    "child": "information"
+  },
+  {
+    "parent": "information unit",
+    "child": "specific entropy unit"
+  },
+  {
+    "parent": "Stress",
+    "child": "intensive property"
+  },
+  {
+    "parent": "Stress",
+    "child": "MolecularQuality"
+  },
+  {
+    "parent": "Stress",
+    "child": "measured property"
+  },
+  {
+    "parent": "Stress",
+    "child": "force"
+  },
+  {
+    "parent": "canonical smiles",
+    "child": "identifier"
+  },
+  {
+    "parent": "canonical smiles",
+    "child": "MolecularQuality"
+  },
+  {
+    "parent": "specific energy",
+    "child": "energy density"
+  },
+  {
+    "parent": "specific energy",
+    "child": "intensive property"
+  },
+  {
+    "parent": "specific energy",
+    "child": "energy"
+  },
+  {
+    "parent": "specific energy",
+    "child": "molar energy"
+  },
+  {
+    "parent": "specific energy",
+    "child": "specific heat"
+  },
+  {
+    "parent": "specific energy",
+    "child": "extensive property"
+  },
+  {
+    "parent": "Zinc Atom",
+    "child": "atom"
+  },
+  {
+    "parent": "irradiance unit",
+    "child": "electromagnetic radiation unit"
+  },
+  {
+    "parent": "irradiance unit",
+    "child": "luminous flux unit"
+  },
+  {
+    "parent": "irradiance unit",
+    "child": "illuminance"
+  },
+  {
+    "parent": "irradiance unit",
+    "child": "radiation unit"
+  },
+  {
+    "parent": "irradiance unit",
+    "child": "illuminance unit"
+  },
+  {
+    "parent": "irradiance unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "secondary amine group",
+    "child": "amine group"
+  },
+  {
+    "parent": "secondary amine group",
+    "child": "amine"
+  },
+  {
+    "parent": "uncommon chemical phase",
+    "child": "allotrope"
+  },
+  {
+    "parent": "uncommon chemical phase",
+    "child": "chemical phase"
+  },
+  {
+    "parent": "uncommon chemical phase",
+    "child": "carbon nanofoam"
+  },
+  {
+    "parent": "uncommon chemical phase",
+    "child": "quark gluon plasma phase"
+  },
+  {
+    "parent": "uncommon chemical phase",
+    "child": "amorphous carbon"
+  },
+  {
+    "parent": "uncommon chemical phase",
+    "child": "liquid phase"
+  },
+  {
+    "parent": "D or L isomer",
+    "child": "stereoisomer"
+  },
+  {
+    "parent": "D or L isomer",
+    "child": "diastereomer"
+  },
+  {
+    "parent": "D or L isomer",
+    "child": "OpticalIsomer"
+  },
+  {
+    "parent": "D or L isomer",
+    "child": "isomer"
+  },
+  {
+    "parent": "D or L isomer",
+    "child": "LIsomer"
+  },
+  {
+    "parent": "D or L isomer",
+    "child": "cis/trans isomer"
+  },
+  {
+    "parent": "molecule",
+    "child": "compound"
+  },
+  {
+    "parent": "molecule",
+    "child": "chemical substance"
+  },
+  {
+    "parent": "molecule",
+    "child": "micro scaled unit"
+  },
+  {
+    "parent": "Hardness Range",
+    "child": "intensive property"
+  },
+  {
+    "parent": "Hardness Range",
+    "child": "Hardness"
+  },
+  {
+    "parent": "Hardness Range",
+    "child": "measured property"
+  },
+  {
+    "parent": "Hardness Range",
+    "child": "material quality"
+  },
+  {
+    "parent": "Hardness Range",
+    "child": "Hardness Range Upper Bound"
+  },
+  {
+    "parent": "Hardness Range",
+    "child": "Temperature Range Upper Bound"
+  },
+  {
+    "parent": "processual_context",
+    "child": "temporal_region"
+  },
+  {
+    "parent": "processual_context",
+    "child": "connected_temporal_region"
+  },
+  {
+    "parent": "processual_context",
+    "child": "occurrent"
+  },
+  {
+    "parent": "processual_context",
+    "child": "scattered_spatiotemporal_region"
+  },
+  {
+    "parent": "processual_context",
+    "child": "scattered_temporal_region"
+  },
+  {
+    "parent": "processual_context",
+    "child": "process_boundary"
+  },
+  {
+    "parent": "processual_context",
+    "child": "processual_entity"
+  },
+  {
+    "parent": "processual_context",
+    "child": "spatiotemporal_region"
+  },
+  {
+    "parent": "processual_context",
+    "child": "chemical reaction pathway"
+  },
+  {
+    "parent": "processual_context",
+    "child": "chemical reaction"
+  },
+  {
+    "parent": "processual_context",
+    "child": "precipitation reaction"
+  },
+  {
+    "parent": "processual_context",
+    "child": "non polar addition reaction"
+  },
+  {
+    "parent": "processual_context",
+    "child": "catalyzed reaction"
+  },
+  {
+    "parent": "processual_context",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "carbon group element",
+    "child": "series element"
+  },
+  {
+    "parent": "carbon group element",
+    "child": "Carbon Atom"
+  },
+  {
+    "parent": "carbon group element",
+    "child": "group element"
+  },
+  {
+    "parent": "carbon group element",
+    "child": "periodic table element"
+  },
+  {
+    "parent": "energy density",
+    "child": "intensive property"
+  },
+  {
+    "parent": "energy density",
+    "child": "energy"
+  },
+  {
+    "parent": "energy density",
+    "child": "measured property"
+  },
+  {
+    "parent": "energy density",
+    "child": "density"
+  },
+  {
+    "parent": "energy density",
+    "child": "extensive property"
+  },
+  {
+    "parent": "stereoisomer",
+    "child": "clinal conformation"
+  },
+  {
+    "parent": "stereoisomer",
+    "child": "diastereomer"
+  },
+  {
+    "parent": "stereoisomer",
+    "child": "OpticalIsomer"
+  },
+  {
+    "parent": "stereoisomer",
+    "child": "isomer"
+  },
+  {
+    "parent": "stereoisomer",
+    "child": "LIsomer"
+  },
+  {
+    "parent": "stereoisomer",
+    "child": "cis/trans isomer"
+  },
+  {
+    "parent": "nonpolar solvent",
+    "child": "solvent"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "allotrope"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "temporal_region"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "chemical agent"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "chemical phase"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "Temperature Range Lower Bound"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "connected_temporal_region"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "Concentration"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "one_dimensional_region"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "compound"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "intensive property"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "series element"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "organic group"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "atom"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "clinal conformation"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "occurrent"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "OpticalIsomer"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "group element"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "scattered_spatiotemporal_region"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "Temperature Range"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "spatial_region"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "material"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "chemical substance"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "scattered_temporal_region"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "band gap unit"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "radioactivity activity"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "process_boundary"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "entity"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "isomer"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "MoleculeComponentCount"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "processual_entity"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "continuant"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "common chemical phase"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "spatiotemporal_region"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "object"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "scaled unit"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "MolecularQuality"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "material category"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "LIsomer"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "defined stereo atom count"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "micro scaled unit"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "measured property"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "periodic table element"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "Lattice Parameter"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "material quality"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "Hardness Range Upper Bound"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "Temperature Range Upper Bound"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "chemical reaction pathway"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "DoubleDisplacementReaction"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "quality"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "cis/trans isomer"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "bond"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "volume"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "basic"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "chemical reaction"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "chemical conformation"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "amount of substance"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "precipitation reaction"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "heterogeneous mixture"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "Ion"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "conduction unit"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "liquid phase"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "space group property"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "catalyzed reaction"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "mixture"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "Reagent"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "extensive property"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "chemical quality"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "solvent"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "independent_continuant"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "amount of substance concentration"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "pure substance"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "atom property"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "force"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "space group"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "mass"
+  },
+  {
+    "parent": "realizable_entity",
+    "child": "periodic block"
+  },
+  {
+    "parent": "time unit",
+    "child": "scaled unit"
+  },
+  {
+    "parent": "time unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "time unit",
+    "child": "zetta scaled unit"
+  },
+  {
+    "parent": "allotrope",
+    "child": "chemical phase"
+  },
+  {
+    "parent": "allotrope",
+    "child": "material"
+  },
+  {
+    "parent": "allotrope",
+    "child": "chemical substance"
+  },
+  {
+    "parent": "allotrope",
+    "child": "isomer"
+  },
+  {
+    "parent": "allotrope",
+    "child": "common chemical phase"
+  },
+  {
+    "parent": "allotrope",
+    "child": "liquid phase"
+  },
+  {
+    "parent": "temporal_region",
+    "child": "connected_temporal_region"
+  },
+  {
+    "parent": "temporal_region",
+    "child": "one_dimensional_region"
+  },
+  {
+    "parent": "temporal_region",
+    "child": "occurrent"
+  },
+  {
+    "parent": "temporal_region",
+    "child": "scattered_spatiotemporal_region"
+  },
+  {
+    "parent": "temporal_region",
+    "child": "spatial_region"
+  },
+  {
+    "parent": "temporal_region",
+    "child": "scattered_temporal_region"
+  },
+  {
+    "parent": "temporal_region",
+    "child": "process_boundary"
+  },
+  {
+    "parent": "temporal_region",
+    "child": "processual_entity"
+  },
+  {
+    "parent": "temporal_region",
+    "child": "spatiotemporal_region"
+  },
+  {
+    "parent": "electronic interaction",
+    "child": "bond"
+  },
+  {
+    "parent": "electronic interaction",
+    "child": "van der Waal's interaction"
+  },
+  {
+    "parent": "electronic interaction",
+    "child": "force"
+  },
+  {
+    "parent": "electronic interaction",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "band gap",
+    "child": "band gap unit"
+  },
+  {
+    "parent": "band gap",
+    "child": "measured property"
+  },
+  {
+    "parent": "chemical agent",
+    "child": "compound"
+  },
+  {
+    "parent": "chemical agent",
+    "child": "material"
+  },
+  {
+    "parent": "chemical agent",
+    "child": "chemical substance"
+  },
+  {
+    "parent": "chemical agent",
+    "child": "Reagent"
+  },
+  {
+    "parent": "Berkelium",
+    "child": "Berkelium Atom"
+  },
+  {
+    "parent": "chemical phase",
+    "child": "spatial_region"
+  },
+  {
+    "parent": "chemical phase",
+    "child": "material"
+  },
+  {
+    "parent": "chemical phase",
+    "child": "chemical substance"
+  },
+  {
+    "parent": "chemical phase",
+    "child": "common chemical phase"
+  },
+  {
+    "parent": "chemical phase",
+    "child": "spatiotemporal_region"
+  },
+  {
+    "parent": "chemical phase",
+    "child": "quark gluon plasma phase"
+  },
+  {
+    "parent": "chemical phase",
+    "child": "heterogeneous mixture"
+  },
+  {
+    "parent": "chemical phase",
+    "child": "liquid phase"
+  },
+  {
+    "parent": "chemical phase",
+    "child": "pure substance"
+  },
+  {
+    "parent": "electric resistance unit",
+    "child": "electric resistance"
+  },
+  {
+    "parent": "electric resistance unit",
+    "child": "measured property"
+  },
+  {
+    "parent": "Rutherfordium Atom",
+    "child": "atom"
+  },
+  {
+    "parent": "Copper Atom",
+    "child": "atom"
+  },
+  {
+    "parent": "Temperature Range Lower Bound",
+    "child": "Temperature Range"
+  },
+  {
+    "parent": "angular acceleration",
+    "child": "angular acceleration unit"
+  },
+  {
+    "parent": "connected_temporal_region",
+    "child": "one_dimensional_region"
+  },
+  {
+    "parent": "connected_temporal_region",
+    "child": "occurrent"
+  },
+  {
+    "parent": "connected_temporal_region",
+    "child": "scattered_spatiotemporal_region"
+  },
+  {
+    "parent": "connected_temporal_region",
+    "child": "Temperature Range"
+  },
+  {
+    "parent": "connected_temporal_region",
+    "child": "spatial_region"
+  },
+  {
+    "parent": "connected_temporal_region",
+    "child": "scattered_temporal_region"
+  },
+  {
+    "parent": "connected_temporal_region",
+    "child": "processual_entity"
+  },
+  {
+    "parent": "connected_temporal_region",
+    "child": "spatiotemporal_region"
+  },
+  {
+    "parent": "Concentration",
+    "child": "intensive property"
+  },
+  {
+    "parent": "Concentration",
+    "child": "MoleculeComponentCount"
+  },
+  {
+    "parent": "Concentration",
+    "child": "MolecularQuality"
+  },
+  {
+    "parent": "Concentration",
+    "child": "measured property"
+  },
+  {
+    "parent": "Concentration",
+    "child": "density"
+  },
+  {
+    "parent": "Concentration",
+    "child": "concentration unit"
+  },
+  {
+    "parent": "Concentration",
+    "child": "amount of substance"
+  },
+  {
+    "parent": "Concentration",
+    "child": "molality"
+  },
+  {
+    "parent": "Concentration",
+    "child": "density unit"
+  },
+  {
+    "parent": "Concentration",
+    "child": "extensive property"
+  },
+  {
+    "parent": "Concentration",
+    "child": "chemical quality"
+  },
+  {
+    "parent": "Concentration",
+    "child": "amount of substance concentration"
+  },
+  {
+    "parent": "Concentration",
+    "child": "atom property"
+  },
+  {
+    "parent": "one_dimensional_region",
+    "child": "scattered_spatiotemporal_region"
+  },
+  {
+    "parent": "one_dimensional_region",
+    "child": "spatial_region"
+  },
+  {
+    "parent": "one_dimensional_region",
+    "child": "spatiotemporal_region"
+  },
+  {
+    "parent": "ether",
+    "child": "ether group"
+  },
+  {
+    "parent": "CAS name",
+    "child": "compound"
+  },
+  {
+    "parent": "CAS name",
+    "child": "pubchem cid"
+  },
+  {
+    "parent": "CAS name",
+    "child": "chemical substance"
+  },
+  {
+    "parent": "CAS name",
+    "child": "identifier"
+  },
+  {
+    "parent": "CAS name",
+    "child": "inchi"
+  },
+  {
+    "parent": "CAS name",
+    "child": "name"
+  },
+  {
+    "parent": "acyl halide",
+    "child": "acyl halide group"
+  },
+  {
+    "parent": "acyl halide",
+    "child": "acyl fluoride group"
+  },
+  {
+    "parent": "acyl halide",
+    "child": "acyl fluoride"
+  },
+  {
+    "parent": "compound",
+    "child": "material"
+  },
+  {
+    "parent": "compound",
+    "child": "chemical substance"
+  },
+  {
+    "parent": "compound",
+    "child": "amide"
+  },
+  {
+    "parent": "compound",
+    "child": "common chemical phase"
+  },
+  {
+    "parent": "compound",
+    "child": "material category"
+  },
+  {
+    "parent": "compound",
+    "child": "plastics"
+  },
+  {
+    "parent": "compound",
+    "child": "heterogeneous mixture"
+  },
+  {
+    "parent": "compound",
+    "child": "mixture"
+  },
+  {
+    "parent": "compound",
+    "child": "ester"
+  },
+  {
+    "parent": "compound",
+    "child": "pure substance"
+  },
+  {
+    "parent": "Thorium",
+    "child": "Thorium Atom"
+  },
+  {
+    "parent": "Hafnium Atom",
+    "child": "atom"
+  },
+  {
+    "parent": "intensive property",
+    "child": "Hardness"
+  },
+  {
+    "parent": "intensive property",
+    "child": "bulk modulus"
+  },
+  {
+    "parent": "intensive property",
+    "child": "heat capacity"
+  },
+  {
+    "parent": "intensive property",
+    "child": "pressure"
+  },
+  {
+    "parent": "intensive property",
+    "child": "MolecularQuality"
+  },
+  {
+    "parent": "intensive property",
+    "child": "specific entropy"
+  },
+  {
+    "parent": "intensive property",
+    "child": "enthalpy"
+  },
+  {
+    "parent": "intensive property",
+    "child": "measured property"
+  },
+  {
+    "parent": "intensive property",
+    "child": "material quality"
+  },
+  {
+    "parent": "intensive property",
+    "child": "Hardness Range Upper Bound"
+  },
+  {
+    "parent": "intensive property",
+    "child": "quality"
+  },
+  {
+    "parent": "intensive property",
+    "child": "density"
+  },
+  {
+    "parent": "intensive property",
+    "child": "entropy"
+  },
+  {
+    "parent": "intensive property",
+    "child": "space group property"
+  },
+  {
+    "parent": "intensive property",
+    "child": "viscosity"
+  },
+  {
+    "parent": "intensive property",
+    "child": "specific heat"
+  },
+  {
+    "parent": "intensive property",
+    "child": "extensive property"
+  },
+  {
+    "parent": "intensive property",
+    "child": "chemical quality"
+  },
+  {
+    "parent": "intensive property",
+    "child": "amount of substance concentration"
+  },
+  {
+    "parent": "intensive property",
+    "child": "atom property"
+  },
+  {
+    "parent": "group 8 element",
+    "child": "series element"
+  },
+  {
+    "parent": "group 8 element",
+    "child": "group element"
+  },
+  {
+    "parent": "group 8 element",
+    "child": "periodic table element"
+  },
+  {
+    "parent": "group 8 element",
+    "child": "Platinum"
+  },
+  {
+    "parent": "velocity unit",
+    "child": "scaled unit"
+  },
+  {
+    "parent": "velocity unit",
+    "child": "angular velocity"
+  },
+  {
+    "parent": "velocity unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "series element",
+    "child": "group element"
+  },
+  {
+    "parent": "series element",
+    "child": "MoleculeComponentCount"
+  },
+  {
+    "parent": "series element",
+    "child": "defined stereo atom count"
+  },
+  {
+    "parent": "series element",
+    "child": "micro scaled unit"
+  },
+  {
+    "parent": "series element",
+    "child": "periodic table element"
+  },
+  {
+    "parent": "series element",
+    "child": "electric conduction unit"
+  },
+  {
+    "parent": "series element",
+    "child": "conduction unit"
+  },
+  {
+    "parent": "Lattice Parameter C",
+    "child": "Lattice Parameter"
+  },
+  {
+    "parent": "magnetic flux",
+    "child": "magnetic flux density"
+  },
+  {
+    "parent": "magnetic flux",
+    "child": "magnetic flux density unit"
+  },
+  {
+    "parent": "organic group",
+    "child": "amine group"
+  },
+  {
+    "parent": "organic group",
+    "child": "ether group"
+  },
+  {
+    "parent": "organic group",
+    "child": "amine"
+  },
+  {
+    "parent": "organic group",
+    "child": "aldehyde group"
+  },
+  {
+    "parent": "organic group",
+    "child": "amide"
+  },
+  {
+    "parent": "organic group",
+    "child": "acyl halide group"
+  },
+  {
+    "parent": "organic group",
+    "child": "acyl fluoride group"
+  },
+  {
+    "parent": "organic group",
+    "child": "primary amine group"
+  },
+  {
+    "parent": "organic group",
+    "child": "alcohol"
+  },
+  {
+    "parent": "organic group",
+    "child": "alkyl"
+  },
+  {
+    "parent": "organic group",
+    "child": "ester"
+  },
+  {
+    "parent": "organic group",
+    "child": "hetero cyclic ring"
+  },
+  {
+    "parent": "luminous intensity unit",
+    "child": "electromagnetic radiation unit"
+  },
+  {
+    "parent": "luminous intensity unit",
+    "child": "luminous flux unit"
+  },
+  {
+    "parent": "luminous intensity unit",
+    "child": "luminous intensity"
+  },
+  {
+    "parent": "luminous intensity unit",
+    "child": "radiation unit"
+  },
+  {
+    "parent": "plane angle",
+    "child": "angle unit"
+  },
+  {
+    "parent": "plane angle",
+    "child": "angle"
+  },
+  {
+    "parent": "Hardness",
+    "child": "MolecularQuality"
+  },
+  {
+    "parent": "Hardness",
+    "child": "measured property"
+  },
+  {
+    "parent": "Hardness",
+    "child": "material quality"
+  },
+  {
+    "parent": "Hardness",
+    "child": "Hardness Range Upper Bound"
+  },
+  {
+    "parent": "Hardness",
+    "child": "extensive property"
+  },
+  {
+    "parent": "Hardness",
+    "child": "chemical quality"
+  },
+  {
+    "parent": "Hardness",
+    "child": "atom property"
+  },
+  {
+    "parent": "electromagnetic radiation unit",
+    "child": "wavenumber unit"
+  },
+  {
+    "parent": "electromagnetic radiation unit",
+    "child": "radiation"
+  },
+  {
+    "parent": "electromagnetic radiation unit",
+    "child": "radiation unit"
+  },
+  {
+    "parent": "electromagnetic radiation unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "electromagnetic radiation unit",
+    "child": "electromagnetic radation"
+  },
+  {
+    "parent": "Scandium Atom",
+    "child": "atom"
+  },
+  {
+    "parent": "angle unit",
+    "child": "scaled unit"
+  },
+  {
+    "parent": "angle unit",
+    "child": "solid angle"
+  },
+  {
+    "parent": "angle unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "angle unit",
+    "child": "solid angle unit"
+  },
+  {
+    "parent": "angle unit",
+    "child": "moment of force unit"
+  },
+  {
+    "parent": "angle unit",
+    "child": "angular acceleration unit"
+  },
+  {
+    "parent": "angle unit",
+    "child": "angle"
+  },
+  {
+    "parent": "amine group",
+    "child": "amine"
+  },
+  {
+    "parent": "amine group",
+    "child": "primary amine group"
+  },
+  {
+    "parent": "Carbon Atom",
+    "child": "atom"
+  },
+  {
+    "parent": "Molybdenum Atom",
+    "child": "atom"
+  },
+  {
+    "parent": "Berkelium Atom",
+    "child": "atom"
+  },
+  {
+    "parent": "cyclic",
+    "child": "clinal conformation"
+  },
+  {
+    "parent": "cyclic",
+    "child": "OpticalIsomer"
+  },
+  {
+    "parent": "cyclic",
+    "child": "chemical reaction pathway"
+  },
+  {
+    "parent": "cyclic",
+    "child": "chemical conformation"
+  },
+  {
+    "parent": "cyclic",
+    "child": "space group property"
+  },
+  {
+    "parent": "cyclic",
+    "child": "hetero cyclic ring"
+  },
+  {
+    "parent": "cyclic",
+    "child": "heterocyclic"
+  },
+  {
+    "parent": "hall",
+    "child": "spatial_region"
+  },
+  {
+    "parent": "hall",
+    "child": "process_boundary"
+  },
+  {
+    "parent": "hall",
+    "child": "spatiotemporal_region"
+  },
+  {
+    "parent": "hall",
+    "child": "space group property"
+  },
+  {
+    "parent": "pubchem cid",
+    "child": "chemical substance"
+  },
+  {
+    "parent": "pubchem cid",
+    "child": "identifier"
+  },
+  {
+    "parent": "atom",
+    "child": "Lead Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "group element"
+  },
+  {
+    "parent": "atom",
+    "child": "Sodium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Bohrium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Zirconium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Thorium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Plutonium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Gold Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Chlorine Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Silver Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Titanium Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Iodine Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Bromine Atom"
+  },
+  {
+    "parent": "atom",
+    "child": "Phosphorus Atom"
+  },
+  {
+    "parent": "clinal conformation",
+    "child": "diastereomer"
+  },
+  {
+    "parent": "clinal conformation",
+    "child": "OpticalIsomer"
+  },
+  {
+    "parent": "clinal conformation",
+    "child": "staggered conformation"
+  },
+  {
+    "parent": "clinal conformation",
+    "child": "cis/trans isomer"
+  },
+  {
+    "parent": "clinal conformation",
+    "child": "chemical conformation"
+  },
+  {
+    "parent": "clinal conformation",
+    "child": "space group property"
+  },
+  {
+    "parent": "bulk modulus",
+    "child": "measured property"
+  },
+  {
+    "parent": "amine",
+    "child": "primary amine group"
+  },
+  {
+    "parent": "amine",
+    "child": "basic"
+  },
+  {
+    "parent": "occurrent",
+    "child": "OpticalIsomer"
+  },
+  {
+    "parent": "occurrent",
+    "child": "scattered_spatiotemporal_region"
+  },
+  {
+    "parent": "occurrent",
+    "child": "Temperature Range"
+  },
+  {
+    "parent": "occurrent",
+    "child": "spatial_region"
+  },
+  {
+    "parent": "occurrent",
+    "child": "scattered_temporal_region"
+  },
+  {
+    "parent": "occurrent",
+    "child": "radioactivity activity"
+  },
+  {
+    "parent": "occurrent",
+    "child": "process_boundary"
+  },
+  {
+    "parent": "occurrent",
+    "child": "illuminance"
+  },
+  {
+    "parent": "occurrent",
+    "child": "processual_entity"
+  },
+  {
+    "parent": "occurrent",
+    "child": "common chemical phase"
+  },
+  {
+    "parent": "occurrent",
+    "child": "spatiotemporal_region"
+  },
+  {
+    "parent": "occurrent",
+    "child": "MolecularQuality"
+  },
+  {
+    "parent": "occurrent",
+    "child": "specific entropy"
+  },
+  {
+    "parent": "occurrent",
+    "child": "measured property"
+  },
+  {
+    "parent": "occurrent",
+    "child": "material quality"
+  },
+  {
+    "parent": "occurrent",
+    "child": "Hardness Range Upper Bound"
+  },
+  {
+    "parent": "occurrent",
+    "child": "Temperature Range Upper Bound"
+  },
+  {
+    "parent": "occurrent",
+    "child": "chemical reaction pathway"
+  },
+  {
+    "parent": "occurrent",
+    "child": "DoubleDisplacementReaction"
+  },
+  {
+    "parent": "occurrent",
+    "child": "quality"
+  },
+  {
+    "parent": "occurrent",
+    "child": "cis/trans isomer"
+  },
+  {
+    "parent": "occurrent",
+    "child": "bond"
+  },
+  {
+    "parent": "occurrent",
+    "child": "chemical reaction"
+  },
+  {
+    "parent": "occurrent",
+    "child": "chemical conformation"
+  },
+  {
+    "parent": "occurrent",
+    "child": "amount of substance"
+  },
+  {
+    "parent": "occurrent",
+    "child": "precipitation reaction"
+  },
+  {
+    "parent": "occurrent",
+    "child": "angular velocity"
+  },
+  {
+    "parent": "occurrent",
+    "child": "absorbed dose"
+  },
+  {
+    "parent": "occurrent",
+    "child": "liquid phase"
+  },
+  {
+    "parent": "occurrent",
+    "child": "space group property"
+  },
+  {
+    "parent": "occurrent",
+    "child": "catalyzed reaction"
+  },
+  {
+    "parent": "occurrent",
+    "child": "eclipsed conformation"
+  },
+  {
+    "parent": "occurrent",
+    "child": "extensive property"
+  },
+  {
+    "parent": "occurrent",
+    "child": "chemical quality"
+  },
+  {
+    "parent": "occurrent",
+    "child": "independent_continuant"
+  },
+  {
+    "parent": "occurrent",
+    "child": "thermal conduction"
+  },
+  {
+    "parent": "occurrent",
+    "child": "amount of substance concentration"
+  },
+  {
+    "parent": "occurrent",
+    "child": "atom property"
+  },
+  {
+    "parent": "occurrent",
+    "child": "force"
+  },
+  {
+    "parent": "occurrent",
+    "child": "absorbed dose rate"
+  },
+  {
+    "parent": "occurrent",
+    "child": "space group"
+  },
+  {
+    "parent": "occurrent",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "temperature",
+    "child": "Temperature Range"
+  },
+  {
+    "parent": "temperature",
+    "child": "measured property"
+  },
+  {
+    "parent": "temperature",
+    "child": "extensive property"
+  },
+  {
+    "parent": "Technetium Atom",
+    "child": "Technetium"
+  },
+  {
+    "parent": "diastereomer",
+    "child": "OpticalIsomer"
+  },
+  {
+    "parent": "diastereomer",
+    "child": "isomer"
+  },
+  {
+    "parent": "diastereomer",
+    "child": "LIsomer"
+  },
+  {
+    "parent": "diastereomer",
+    "child": "cis/trans isomer"
+  },
+  {
+    "parent": "luminous flux unit",
+    "child": "illuminance"
+  },
+  {
+    "parent": "luminous flux unit",
+    "child": "luminous intensity"
+  },
+  {
+    "parent": "luminous flux unit",
+    "child": "radiation unit"
+  },
+  {
+    "parent": "luminous flux unit",
+    "child": "illuminance unit"
+  },
+  {
+    "parent": "luminance",
+    "child": "illuminance"
+  },
+  {
+    "parent": "luminance",
+    "child": "measured property"
+  },
+  {
+    "parent": "luminance",
+    "child": "material quality"
+  },
+  {
+    "parent": "luminance",
+    "child": "luminance unit"
+  },
+  {
+    "parent": "luminance",
+    "child": "luminous intensity"
+  },
+  {
+    "parent": "luminance",
+    "child": "illuminance unit"
+  },
+  {
+    "parent": "OpticalIsomer",
+    "child": "isomer"
+  },
+  {
+    "parent": "OpticalIsomer",
+    "child": "LIsomer"
+  },
+  {
+    "parent": "OpticalIsomer",
+    "child": "cis/trans isomer"
+  },
+  {
+    "parent": "group element",
+    "child": "s-block element"
+  },
+  {
+    "parent": "group element",
+    "child": "periodic table element"
+  },
+  {
+    "parent": "group element",
+    "child": "Gold Atom"
+  },
+  {
+    "parent": "group element",
+    "child": "group 3 element"
+  },
+  {
+    "parent": "group element",
+    "child": "group 2 element"
+  },
+  {
+    "parent": "group element",
+    "child": "group 5 element"
+  },
+  {
+    "parent": "electric current density unit",
+    "child": "conduction unit"
+  },
+  {
+    "parent": "electric current density unit",
+    "child": "density unit"
+  },
+  {
+    "parent": "scattered_spatiotemporal_region",
+    "child": "spatial_region"
+  },
+  {
+    "parent": "scattered_spatiotemporal_region",
+    "child": "scattered_temporal_region"
+  },
+  {
+    "parent": "scattered_spatiotemporal_region",
+    "child": "process_boundary"
+  },
+  {
+    "parent": "scattered_spatiotemporal_region",
+    "child": "spatiotemporal_region"
+  },
+  {
+    "parent": "Temperature Range",
+    "child": "Hardness Range Upper Bound"
+  },
+  {
+    "parent": "Temperature Range",
+    "child": "Temperature Range Upper Bound"
+  },
+  {
+    "parent": "spatial_region",
+    "child": "process_boundary"
+  },
+  {
+    "parent": "spatial_region",
+    "child": "area"
+  },
+  {
+    "parent": "spatial_region",
+    "child": "spatiotemporal_region"
+  },
+  {
+    "parent": "spatial_region",
+    "child": "volume"
+  },
+  {
+    "parent": "energy",
+    "child": "molar energy"
+  },
+  {
+    "parent": "energy",
+    "child": "enthalpy"
+  },
+  {
+    "parent": "energy",
+    "child": "measured property"
+  },
+  {
+    "parent": "energy",
+    "child": "radiation"
+  },
+  {
+    "parent": "energy",
+    "child": "extensive property"
+  },
+  {
+    "parent": "energy",
+    "child": "energy unit"
+  },
+  {
+    "parent": "material",
+    "child": "chemical substance"
+  },
+  {
+    "parent": "material",
+    "child": "common chemical phase"
+  },
+  {
+    "parent": "material",
+    "child": "object"
+  },
+  {
+    "parent": "material",
+    "child": "material category"
+  },
+  {
+    "parent": "material",
+    "child": "amorphous carbon"
+  },
+  {
+    "parent": "material",
+    "child": "plastics"
+  },
+  {
+    "parent": "material",
+    "child": "material quality"
+  },
+  {
+    "parent": "material",
+    "child": "amount of substance"
+  },
+  {
+    "parent": "material",
+    "child": "heterogeneous mixture"
+  },
+  {
+    "parent": "material",
+    "child": "liquid phase"
+  },
+  {
+    "parent": "material",
+    "child": "mixture"
+  },
+  {
+    "parent": "material",
+    "child": "extensive property"
+  },
+  {
+    "parent": "material",
+    "child": "independent_continuant"
+  },
+  {
+    "parent": "material",
+    "child": "pure substance"
+  },
+  {
+    "parent": "chemical substance",
+    "child": "common chemical phase"
+  },
+  {
+    "parent": "chemical substance",
+    "child": "material category"
+  },
+  {
+    "parent": "chemical substance",
+    "child": "amount of substance"
+  },
+  {
+    "parent": "chemical substance",
+    "child": "heterogeneous mixture"
+  },
+  {
+    "parent": "chemical substance",
+    "child": "mixture"
+  },
+  {
+    "parent": "chemical substance",
+    "child": "Reagent"
+  },
+  {
+    "parent": "chemical substance",
+    "child": "solvent"
+  },
+  {
+    "parent": "chemical substance",
+    "child": "pure substance"
+  },
+  {
+    "parent": "scattered_temporal_region",
+    "child": "spatiotemporal_region"
+  },
+  {
+    "parent": "actinide",
+    "child": "Protactinium"
+  },
+  {
+    "parent": "band gap unit",
+    "child": "energy unit"
+  },
+  {
+    "parent": "radioactivity activity",
+    "child": "measured property"
+  },
+  {
+    "parent": "radioactivity activity",
+    "child": "radiation"
+  },
+  {
+    "parent": "radioactivity activity",
+    "child": "radiation unit"
+  },
+  {
+    "parent": "Chlorine",
+    "child": "halogen"
+  },
+  {
+    "parent": "process_boundary",
+    "child": "processual_entity"
+  },
+  {
+    "parent": "process_boundary",
+    "child": "spatiotemporal_region"
+  },
+  {
+    "parent": "process_boundary",
+    "child": "Temperature Range Upper Bound"
+  },
+  {
+    "parent": "process_boundary",
+    "child": "chemical reaction pathway"
+  },
+  {
+    "parent": "process_boundary",
+    "child": "chemical reaction"
+  },
+  {
+    "parent": "process_boundary",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "heat capacity",
+    "child": "measured property"
+  },
+  {
+    "parent": "heat capacity",
+    "child": "specific heat"
+  },
+  {
+    "parent": "heat capacity",
+    "child": "extensive property"
+  },
+  {
+    "parent": "pressure",
+    "child": "pressure unit"
+  },
+  {
+    "parent": "pressure",
+    "child": "measured property"
+  },
+  {
+    "parent": "pressure",
+    "child": "extensive property"
+  },
+  {
+    "parent": "pressure",
+    "child": "atom property"
+  },
+  {
+    "parent": "illuminance",
+    "child": "illuminance unit"
+  },
+  {
+    "parent": "hydrophobicity",
+    "child": "MolecularQuality"
+  },
+  {
+    "parent": "hydrophobicity",
+    "child": "measured property"
+  },
+  {
+    "parent": "hydrophobicity",
+    "child": "material quality"
+  },
+  {
+    "parent": "hydrophobicity",
+    "child": "chemical quality"
+  },
+  {
+    "parent": "hydrophobicity",
+    "child": "atom property"
+  },
+  {
+    "parent": "entity",
+    "child": "processual_entity"
+  },
+  {
+    "parent": "entity",
+    "child": "continuant"
+  },
+  {
+    "parent": "entity",
+    "child": "common chemical phase"
+  },
+  {
+    "parent": "entity",
+    "child": "spatiotemporal_region"
+  },
+  {
+    "parent": "entity",
+    "child": "object"
+  },
+  {
+    "parent": "entity",
+    "child": "identifier"
+  },
+  {
+    "parent": "entity",
+    "child": "material category"
+  },
+  {
+    "parent": "entity",
+    "child": "defined stereo atom count"
+  },
+  {
+    "parent": "entity",
+    "child": "micro scaled unit"
+  },
+  {
+    "parent": "entity",
+    "child": "measured property"
+  },
+  {
+    "parent": "entity",
+    "child": "material quality"
+  },
+  {
+    "parent": "entity",
+    "child": "chemical reaction pathway"
+  },
+  {
+    "parent": "entity",
+    "child": "quality"
+  },
+  {
+    "parent": "entity",
+    "child": "bond"
+  },
+  {
+    "parent": "entity",
+    "child": "volume"
+  },
+  {
+    "parent": "entity",
+    "child": "information"
+  },
+  {
+    "parent": "entity",
+    "child": "basic"
+  },
+  {
+    "parent": "entity",
+    "child": "chemical reaction"
+  },
+  {
+    "parent": "entity",
+    "child": "amount of substance"
+  },
+  {
+    "parent": "entity",
+    "child": "Ion"
+  },
+  {
+    "parent": "entity",
+    "child": "space group property"
+  },
+  {
+    "parent": "entity",
+    "child": "mixture"
+  },
+  {
+    "parent": "entity",
+    "child": "Reagent"
+  },
+  {
+    "parent": "entity",
+    "child": "chemical quality"
+  },
+  {
+    "parent": "entity",
+    "child": "independent_continuant"
+  },
+  {
+    "parent": "entity",
+    "child": "amount of substance concentration"
+  },
+  {
+    "parent": "entity",
+    "child": "pure substance"
+  },
+  {
+    "parent": "entity",
+    "child": "space group"
+  },
+  {
+    "parent": "entity",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "s-block element",
+    "child": "periodic table element"
+  },
+  {
+    "parent": "s-block element",
+    "child": "group 2 element"
+  },
+  {
+    "parent": "isomer",
+    "child": "LIsomer"
+  },
+  {
+    "parent": "isomer",
+    "child": "cis/trans isomer"
+  },
+  {
+    "parent": "isomer",
+    "child": "chemical conformation"
+  },
+  {
+    "parent": "Bohrium Atom",
+    "child": "Bohrium"
+  },
+  {
+    "parent": "Bohrium Atom",
+    "child": "Seaborgium Atom"
+  },
+  {
+    "parent": "MoleculeComponentCount",
+    "child": "defined stereo atom count"
+  },
+  {
+    "parent": "MoleculeComponentCount",
+    "child": "non hydrogen atom count"
+  },
+  {
+    "parent": "power",
+    "child": "MolecularQuality"
+  },
+  {
+    "parent": "power",
+    "child": "measured property"
+  },
+  {
+    "parent": "power",
+    "child": "material quality"
+  },
+  {
+    "parent": "power",
+    "child": "potential difference"
+  },
+  {
+    "parent": "power",
+    "child": "space group property"
+  },
+  {
+    "parent": "power",
+    "child": "extensive property"
+  },
+  {
+    "parent": "power",
+    "child": "unit raised to power"
+  },
+  {
+    "parent": "power",
+    "child": "energy unit"
+  },
+  {
+    "parent": "power",
+    "child": "moment of force unit"
+  },
+  {
+    "parent": "power",
+    "child": "atom property"
+  },
+  {
+    "parent": "power",
+    "child": "force"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "common chemical phase"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "spatiotemporal_region"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "chemical reaction pathway"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "DoubleDisplacementReaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "chemical reaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "precipitation reaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "conduction unit"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "non polar addition reaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "liquid phase"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "space group property"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "catalyzed reaction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "independent_continuant"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "thermal conduction"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "space group"
+  },
+  {
+    "parent": "processual_entity",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "Dubnium",
+    "child": "Dubnium Atom"
+  },
+  {
+    "parent": "continuant",
+    "child": "spatiotemporal_region"
+  },
+  {
+    "parent": "continuant",
+    "child": "object"
+  },
+  {
+    "parent": "continuant",
+    "child": "material category"
+  },
+  {
+    "parent": "continuant",
+    "child": "material quality"
+  },
+  {
+    "parent": "continuant",
+    "child": "quality"
+  },
+  {
+    "parent": "continuant",
+    "child": "basic"
+  },
+  {
+    "parent": "continuant",
+    "child": "extensive property"
+  },
+  {
+    "parent": "continuant",
+    "child": "independent_continuant"
+  },
+  {
+    "parent": "area",
+    "child": "spatiotemporal_region"
+  },
+  {
+    "parent": "area",
+    "child": "measured property"
+  },
+  {
+    "parent": "area",
+    "child": "polar surface area"
+  },
+  {
+    "parent": "area",
+    "child": "extensive property"
+  },
+  {
+    "parent": "specific volume unit",
+    "child": "scaled unit"
+  },
+  {
+    "parent": "specific volume unit",
+    "child": "volume"
+  },
+  {
+    "parent": "specific volume unit",
+    "child": "volume unit"
+  },
+  {
+    "parent": "specific volume unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "thermal conduction unit",
+    "child": "conduction unit"
+  },
+  {
+    "parent": "thermal conduction unit",
+    "child": "thermal conduction"
+  },
+  {
+    "parent": "common chemical phase",
+    "child": "spatiotemporal_region"
+  },
+  {
+    "parent": "common chemical phase",
+    "child": "amorphous carbon"
+  },
+  {
+    "parent": "common chemical phase",
+    "child": "heterogeneous mixture"
+  },
+  {
+    "parent": "common chemical phase",
+    "child": "liquid phase"
+  },
+  {
+    "parent": "common chemical phase",
+    "child": "space group property"
+  },
+  {
+    "parent": "common chemical phase",
+    "child": "solvent"
+  },
+  {
+    "parent": "common chemical phase",
+    "child": "pure substance"
+  },
+  {
+    "parent": "wavenumber unit",
+    "child": "scaled unit"
+  },
+  {
+    "parent": "wavenumber unit",
+    "child": "radiation unit"
+  },
+  {
+    "parent": "wavenumber unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "acyl halide group",
+    "child": "acyl fluoride group"
+  },
+  {
+    "parent": "acyl halide group",
+    "child": "acyl fluoride"
+  },
+  {
+    "parent": "spatiotemporal_region",
+    "child": "volume"
+  },
+  {
+    "parent": "object",
+    "child": "material category"
+  },
+  {
+    "parent": "object",
+    "child": "micro scaled unit"
+  },
+  {
+    "parent": "object",
+    "child": "measured property"
+  },
+  {
+    "parent": "object",
+    "child": "volume"
+  },
+  {
+    "parent": "object",
+    "child": "amount of substance"
+  },
+  {
+    "parent": "object",
+    "child": "conduction unit"
+  },
+  {
+    "parent": "object",
+    "child": "liquid phase"
+  },
+  {
+    "parent": "object",
+    "child": "space group property"
+  },
+  {
+    "parent": "object",
+    "child": "mixture"
+  },
+  {
+    "parent": "object",
+    "child": "Reagent"
+  },
+  {
+    "parent": "object",
+    "child": "independent_continuant"
+  },
+  {
+    "parent": "object",
+    "child": "pure substance"
+  },
+  {
+    "parent": "molar energy",
+    "child": "enthalpy"
+  },
+  {
+    "parent": "molar energy",
+    "child": "extensive property"
+  },
+  {
+    "parent": "molar energy",
+    "child": "energy unit"
+  },
+  {
+    "parent": "magnetic flux density",
+    "child": "measured property"
+  },
+  {
+    "parent": "magnetic flux density",
+    "child": "magnetic field strength"
+  },
+  {
+    "parent": "magnetic flux density",
+    "child": "magnetic flux density unit"
+  },
+  {
+    "parent": "electric charge density unit",
+    "child": "electric charge unit"
+  },
+  {
+    "parent": "electric charge density unit",
+    "child": "density unit"
+  },
+  {
+    "parent": "electric charge unit",
+    "child": "positive charge"
+  },
+  {
+    "parent": "electric charge unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "electric charge unit",
+    "child": "electric charge"
+  },
+  {
+    "parent": "electric charge unit",
+    "child": "negative charge"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "mega scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "pressure unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "micro scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "length"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "measured property"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "Lattice Parameter"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "Hardness Range Upper Bound"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "volume"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "concentration unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "linear density unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "specific entropy unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "space group property"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "volume unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "density unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "extensive property"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "capacitance unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "solid angle unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "moment of force unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "zetta scaled unit"
+  },
+  {
+    "parent": "scaled unit",
+    "child": "magnetic flux density unit"
+  },
+  {
+    "parent": "ultimate tensile strength",
+    "child": "measured property"
+  },
+  {
+    "parent": "staggered conformation",
+    "child": "chemical conformation"
+  },
+  {
+    "parent": "identifier",
+    "child": "MolecularQuality"
+  },
+  {
+    "parent": "identifier",
+    "child": "inchi"
+  },
+  {
+    "parent": "identifier",
+    "child": "measured property"
+  },
+  {
+    "parent": "identifier",
+    "child": "name"
+  },
+  {
+    "parent": "identifier",
+    "child": "atom property"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "defined stereo atom count"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "measured property"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "polar surface area"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "material quality"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "Hardness Range Upper Bound"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "Temperature Range Upper Bound"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "molecular mass"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "quality"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "density"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "total formal charge"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "cis/trans isomer"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "non hydrogen atom count"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "acidity"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "space group property"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "monoisotopic weight"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "formal charge"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "molality"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "extensive property"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "chemical quality"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "amount of substance concentration"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "atom property"
+  },
+  {
+    "parent": "MolecularQuality",
+    "child": "mass"
+  },
+  {
+    "parent": "electric field strength",
+    "child": "measured property"
+  },
+  {
+    "parent": "absorbed dose unit",
+    "child": "absorbed dose"
+  },
+  {
+    "parent": "absorbed dose unit",
+    "child": "radiation unit"
+  },
+  {
+    "parent": "absorbed dose unit",
+    "child": "absorbed dose rate"
+  },
+  {
+    "parent": "mega scaled unit",
+    "child": "volume unit"
+  },
+  {
+    "parent": "mega scaled unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "mega scaled unit",
+    "child": "extensive property"
+  },
+  {
+    "parent": "mega scaled unit",
+    "child": "zetta scaled unit"
+  },
+  {
+    "parent": "material category",
+    "child": "micro scaled unit"
+  },
+  {
+    "parent": "material category",
+    "child": "measured property"
+  },
+  {
+    "parent": "material category",
+    "child": "amorphous carbon"
+  },
+  {
+    "parent": "material category",
+    "child": "Lattice Parameter"
+  },
+  {
+    "parent": "material category",
+    "child": "plastics"
+  },
+  {
+    "parent": "material category",
+    "child": "material quality"
+  },
+  {
+    "parent": "material category",
+    "child": "Hardness Range Upper Bound"
+  },
+  {
+    "parent": "material category",
+    "child": "quality"
+  },
+  {
+    "parent": "material category",
+    "child": "basic"
+  },
+  {
+    "parent": "material category",
+    "child": "polar solvent"
+  },
+  {
+    "parent": "material category",
+    "child": "heterogeneous mixture"
+  },
+  {
+    "parent": "material category",
+    "child": "liquid phase"
+  },
+  {
+    "parent": "material category",
+    "child": "space group property"
+  },
+  {
+    "parent": "material category",
+    "child": "mixture"
+  },
+  {
+    "parent": "material category",
+    "child": "Reagent"
+  },
+  {
+    "parent": "material category",
+    "child": "extensive property"
+  },
+  {
+    "parent": "material category",
+    "child": "chemical quality"
+  },
+  {
+    "parent": "material category",
+    "child": "solvent"
+  },
+  {
+    "parent": "material category",
+    "child": "independent_continuant"
+  },
+  {
+    "parent": "material category",
+    "child": "amount of substance concentration"
+  },
+  {
+    "parent": "material category",
+    "child": "pure substance"
+  },
+  {
+    "parent": "material category",
+    "child": "space group"
+  },
+  {
+    "parent": "material category",
+    "child": "periodic block"
+  },
+  {
+    "parent": "pressure unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "LIsomer",
+    "child": "cis/trans isomer"
+  },
+  {
+    "parent": "LIsomer",
+    "child": "chemical conformation"
+  },
+  {
+    "parent": "electric resistance",
+    "child": "measured property"
+  },
+  {
+    "parent": "specific entropy",
+    "child": "specific entropy unit"
+  },
+  {
+    "parent": "specific entropy",
+    "child": "entropy"
+  },
+  {
+    "parent": "defined stereo atom count",
+    "child": "measured property"
+  },
+  {
+    "parent": "defined stereo atom count",
+    "child": "space group property"
+  },
+  {
+    "parent": "defined stereo atom count",
+    "child": "atom property"
+  },
+  {
+    "parent": "micro scaled unit",
+    "child": "conduction unit"
+  },
+  {
+    "parent": "micro scaled unit",
+    "child": "volume unit"
+  },
+  {
+    "parent": "length",
+    "child": "measured property"
+  },
+  {
+    "parent": "length",
+    "child": "extensive property"
+  },
+  {
+    "parent": "acyl fluoride group",
+    "child": "acyl fluoride"
+  },
+  {
+    "parent": "enthalpy",
+    "child": "measured property"
+  },
+  {
+    "parent": "enthalpy",
+    "child": "extensive property"
+  },
+  {
+    "parent": "measured property",
+    "child": "polar surface area"
+  },
+  {
+    "parent": "measured property",
+    "child": "Lattice Parameter"
+  },
+  {
+    "parent": "measured property",
+    "child": "material quality"
+  },
+  {
+    "parent": "measured property",
+    "child": "Hardness Range Upper Bound"
+  },
+  {
+    "parent": "measured property",
+    "child": "Temperature Range Upper Bound"
+  },
+  {
+    "parent": "measured property",
+    "child": "molecular mass"
+  },
+  {
+    "parent": "measured property",
+    "child": "permeability"
+  },
+  {
+    "parent": "measured property",
+    "child": "quality"
+  },
+  {
+    "parent": "measured property",
+    "child": "density"
+  },
+  {
+    "parent": "measured property",
+    "child": "total formal charge"
+  },
+  {
+    "parent": "measured property",
+    "child": "shear modulus"
+  },
+  {
+    "parent": "measured property",
+    "child": "capacitance"
+  },
+  {
+    "parent": "measured property",
+    "child": "specific entropy unit"
+  },
+  {
+    "parent": "measured property",
+    "child": "absorbed dose"
+  },
+  {
+    "parent": "measured property",
+    "child": "space group property"
+  },
+  {
+    "parent": "measured property",
+    "child": "viscosity"
+  },
+  {
+    "parent": "measured property",
+    "child": "monoisotopic weight"
+  },
+  {
+    "parent": "measured property",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "measured property",
+    "child": "specific heat"
+  },
+  {
+    "parent": "measured property",
+    "child": "density unit"
+  },
+  {
+    "parent": "measured property",
+    "child": "extensive property"
+  },
+  {
+    "parent": "measured property",
+    "child": "chemical quality"
+  },
+  {
+    "parent": "measured property",
+    "child": "moment of force unit"
+  },
+  {
+    "parent": "measured property",
+    "child": "amount of substance concentration"
+  },
+  {
+    "parent": "measured property",
+    "child": "atom property"
+  },
+  {
+    "parent": "measured property",
+    "child": "absorbed dose rate"
+  },
+  {
+    "parent": "measured property",
+    "child": "magnetic flux density unit"
+  },
+  {
+    "parent": "periodic table element",
+    "child": "Iodine"
+  },
+  {
+    "parent": "periodic table element",
+    "child": "group 3 element"
+  },
+  {
+    "parent": "periodic table element",
+    "child": "halogen"
+  },
+  {
+    "parent": "periodic table element",
+    "child": "group 2 element"
+  },
+  {
+    "parent": "periodic table element",
+    "child": "periodic block"
+  },
+  {
+    "parent": "periodic table element",
+    "child": "group 5 element"
+  },
+  {
+    "parent": "Lattice Parameter",
+    "child": "space group property"
+  },
+  {
+    "parent": "material quality",
+    "child": "Hardness Range Upper Bound"
+  },
+  {
+    "parent": "material quality",
+    "child": "quality"
+  },
+  {
+    "parent": "material quality",
+    "child": "space group property"
+  },
+  {
+    "parent": "material quality",
+    "child": "extensive property"
+  },
+  {
+    "parent": "material quality",
+    "child": "chemical quality"
+  },
+  {
+    "parent": "material quality",
+    "child": "atom property"
+  },
+  {
+    "parent": "magnetic field strength",
+    "child": "magnetic flux density unit"
+  },
+  {
+    "parent": "solid angle",
+    "child": "solid angle unit"
+  },
+  {
+    "parent": "solid angle",
+    "child": "angle"
+  },
+  {
+    "parent": "positive charge",
+    "child": "Ion"
+  },
+  {
+    "parent": "positive charge",
+    "child": "electric charge"
+  },
+  {
+    "parent": "molecular mass",
+    "child": "monoisotopic weight"
+  },
+  {
+    "parent": "molecular mass",
+    "child": "extensive property"
+  },
+  {
+    "parent": "molecular mass",
+    "child": "mass"
+  },
+  {
+    "parent": "chemical reaction pathway",
+    "child": "DoubleDisplacementReaction"
+  },
+  {
+    "parent": "chemical reaction pathway",
+    "child": "chemical reaction"
+  },
+  {
+    "parent": "chemical reaction pathway",
+    "child": "catalyzed reaction"
+  },
+  {
+    "parent": "chemical reaction pathway",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "permeability",
+    "child": "space group property"
+  },
+  {
+    "parent": "luminance unit",
+    "child": "radiation unit"
+  },
+  {
+    "parent": "luminance unit",
+    "child": "illuminance unit"
+  },
+  {
+    "parent": "entropy unit",
+    "child": "specific entropy unit"
+  },
+  {
+    "parent": "entropy unit",
+    "child": "entropy"
+  },
+  {
+    "parent": "entropy unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "entropy unit",
+    "child": "extensive property"
+  },
+  {
+    "parent": "radiation",
+    "child": "radiation unit"
+  },
+  {
+    "parent": "radiation",
+    "child": "electromagnetic radation"
+  },
+  {
+    "parent": "DoubleDisplacementReaction",
+    "child": "chemical reaction"
+  },
+  {
+    "parent": "DoubleDisplacementReaction",
+    "child": "precipitation reaction"
+  },
+  {
+    "parent": "DoubleDisplacementReaction",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "quality",
+    "child": "space group property"
+  },
+  {
+    "parent": "quality",
+    "child": "extensive property"
+  },
+  {
+    "parent": "quality",
+    "child": "chemical quality"
+  },
+  {
+    "parent": "quality",
+    "child": "atom property"
+  },
+  {
+    "parent": "density",
+    "child": "density unit"
+  },
+  {
+    "parent": "density",
+    "child": "extensive property"
+  },
+  {
+    "parent": "density",
+    "child": "atom property"
+  },
+  {
+    "parent": "total formal charge",
+    "child": "formal charge"
+  },
+  {
+    "parent": "total formal charge",
+    "child": "atom property"
+  },
+  {
+    "parent": "bond",
+    "child": "disulfide bond"
+  },
+  {
+    "parent": "bond",
+    "child": "van der Waal's interaction"
+  },
+  {
+    "parent": "bond",
+    "child": "force"
+  },
+  {
+    "parent": "bond",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "capacitance",
+    "child": "capacitance unit"
+  },
+  {
+    "parent": "volume",
+    "child": "space group property"
+  },
+  {
+    "parent": "volume",
+    "child": "volume unit"
+  },
+  {
+    "parent": "volume",
+    "child": "extensive property"
+  },
+  {
+    "parent": "concentration unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "concentration unit",
+    "child": "molality"
+  },
+  {
+    "parent": "concentration unit",
+    "child": "amount of substance concentration"
+  },
+  {
+    "parent": "basic",
+    "child": "space group property"
+  },
+  {
+    "parent": "basic",
+    "child": "extensive property"
+  },
+  {
+    "parent": "basic",
+    "child": "chemical quality"
+  },
+  {
+    "parent": "basic",
+    "child": "pure substance"
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "precipitation reaction"
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "non polar addition reaction"
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "catalyzed reaction"
+  },
+  {
+    "parent": "chemical reaction",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "non hydrogen atom count",
+    "child": "atom property"
+  },
+  {
+    "parent": "acidity",
+    "child": "chemical quality"
+  },
+  {
+    "parent": "acidity",
+    "child": "acidic"
+  },
+  {
+    "parent": "acidity",
+    "child": "pH unit"
+  },
+  {
+    "parent": "chemical conformation",
+    "child": "eclipsed conformation"
+  },
+  {
+    "parent": "polar solvent",
+    "child": "solvent"
+  },
+  {
+    "parent": "amount of substance",
+    "child": "amount of substance concentration"
+  },
+  {
+    "parent": "electric conduction unit",
+    "child": "conduction unit"
+  },
+  {
+    "parent": "precipitation reaction",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "atomic number",
+    "child": "atom property"
+  },
+  {
+    "parent": "heterogeneous mixture",
+    "child": "mixture"
+  },
+  {
+    "parent": "linear density unit",
+    "child": "density unit"
+  },
+  {
+    "parent": "specific entropy unit",
+    "child": "entropy"
+  },
+  {
+    "parent": "specific entropy unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "absorbed dose",
+    "child": "radiation unit"
+  },
+  {
+    "parent": "absorbed dose",
+    "child": "absorbed dose rate"
+  },
+  {
+    "parent": "conduction unit",
+    "child": "thermal conduction"
+  },
+  {
+    "parent": "radiation unit",
+    "child": "illuminance unit"
+  },
+  {
+    "parent": "radiation unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "radiation unit",
+    "child": "electromagnetic radation"
+  },
+  {
+    "parent": "radiation unit",
+    "child": "energy unit"
+  },
+  {
+    "parent": "radiation unit",
+    "child": "absorbed dose rate"
+  },
+  {
+    "parent": "radiation unit",
+    "child": "magnetic flux density unit"
+  },
+  {
+    "parent": "entropy",
+    "child": "extensive property"
+  },
+  {
+    "parent": "liquid phase",
+    "child": "solvent"
+  },
+  {
+    "parent": "van der Waal's interaction",
+    "child": "force"
+  },
+  {
+    "parent": "van der Waal's interaction",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "space group property",
+    "child": "extensive property"
+  },
+  {
+    "parent": "space group property",
+    "child": "space group"
+  },
+  {
+    "parent": "volume unit",
+    "child": "DerivedUnit"
+  },
+  {
+    "parent": "volume unit",
+    "child": "density unit"
+  },
+  {
+    "parent": "volume unit",
+    "child": "extensive property"
+  },
+  {
+    "parent": "volume unit",
+    "child": "zetta scaled unit"
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "density unit"
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "extensive property"
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "unit raised to power"
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "capacitance unit"
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "solid angle unit"
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "energy unit"
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "moment of force unit"
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "angular acceleration unit"
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "angle"
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "amount of substance concentration"
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "pH unit"
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "zetta scaled unit"
+  },
+  {
+    "parent": "DerivedUnit",
+    "child": "magnetic flux density unit"
+  },
+  {
+    "parent": "catalyzed reaction",
+    "child": "chemical interaction"
+  },
+  {
+    "parent": "formal charge",
+    "child": "atom property"
+  },
+  {
+    "parent": "specific heat",
+    "child": "extensive property"
+  },
+  {
+    "parent": "electric charge",
+    "child": "negative charge"
+  },
+  {
+    "parent": "electric charge",
+    "child": "atom property"
+  },
+  {
+    "parent": "molality",
+    "child": "amount of substance concentration"
+  },
+  {
+    "parent": "extensive property",
+    "child": "chemical quality"
+  },
+  {
+    "parent": "name",
+    "child": "atom property"
+  },
+  {
+    "parent": "solid angle unit",
+    "child": "angle"
+  },
+  {
+    "parent": "chemical quality",
+    "child": "acidic"
+  },
+  {
+    "parent": "chemical quality",
+    "child": "amount of substance concentration"
+  },
+  {
+    "parent": "chemical quality",
+    "child": "atom property"
+  },
+  {
+    "parent": "independent_continuant",
+    "child": "pure substance"
+  },
+  {
+    "parent": "hetero cyclic ring",
+    "child": "heterocyclic"
+  },
+  {
+    "parent": "atom property",
+    "child": "mass"
+  },
+  {
+    "parent": "force",
+    "child": "chemical interaction"
+  }
+]

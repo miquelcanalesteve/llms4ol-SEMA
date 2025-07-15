@@ -1,0 +1,160 @@
+Actinium
+Argon Atom
+Barium
+Calcium Atom
+Cofactor
+Concentration
+Dysprosium
+Electronegativity
+Gibbs free energy
+Helmholtz free energy
+Hydrogen
+Lattice Parameter
+Lawrencium
+Lutetium Atom
+Meitnerium
+Melting Point
+Mendelevium Atom
+MolecularQuality
+MoleculeComponentCount
+Phase Equilibrium
+Platinum Atom
+R isomer
+R or S isomer
+Radon Atom
+Reactant
+Reagent
+Silicon Atom
+Tellurium
+Terbium
+Terbium Atom
+Tungsten
+Ununhexium
+Ununoctium Atom
+Ununquadium
+Ununseptium
+Uranium Atom
+Xenon
+Xenon Atom
+Zirconium
+absorbed dose rate unit
+acceleration
+acidity
+acyl halide
+acyl iodide
+amount of substance
+angle
+angle unit
+anticlinal conformation
+area
+aromatic ring
+aromaticity
+atom
+bond
+capacitance unit
+catalytic activity unit
+catalytic concentration unit
+chemical conformation
+chemical interaction
+chemical quality
+chemical reaction
+chemical reaction pathway
+chemical substance
+chiral center
+cis/trans isomer
+common chemical phase
+concentration unit
+conduction
+conformer
+currency unit
+cyclicity
+density
+dependent_continuant
+disposition
+dynamic viscosity unit
+electric charge
+electric conduction
+electric field strength unit
+electric flux density
+electric flux density unit
+electric resistance
+electromagnetic radation
+electromagnetic radiation unit
+element
+energy
+entropy
+extensive property
+force unit
+g-block element
+gas phase
+general sulfinic acid group
+grain size
+group 10 element
+group 9 element
+group element
+heat capacity
+liquid crystal phase
+luminance
+magnetic flux density
+mass density
+measured property
+molality unit
+molar energy
+molar mass unit
+molecular center
+molecular geometry
+molecular mass unit
+moment of force
+mulliken electronegativity
+neutral acidity
+neutral phase
+open thermodynamic system
+organic group
+organic reaction
+p-block element
+parts per notation
+period 3 element
+period element
+periodic block
+periodic table element
+permeability
+permeability unit
+permittivity unit
+pico scaled unit
+polar surface area
+power
+pressure
+process
+pure substance
+quality
+radiance
+radiant intensity unit
+radiation
+radiation unit
+realizable_entity
+ring
+rotamer
+rotatable bond count
+scaled unit
+secondary amine group
+series element
+solid angle
+specific energy
+specific energy unit
+square pyramidal molecular geometry
+stereo bond
+stereo wedge bond
+strange matter phase
+substrate
+sulfonic acid derivative group
+sulfonic acid group
+surface tension unit
+temperature unit
+thermodynamic system
+trans isomer
+trigonal bipyramidal molecular geometry
+ultimate tensile strength
+uncommon chemical phase
+undefined stereo atom count
+unit
+yotta scaled unit

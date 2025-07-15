@@ -1,0 +1,3393 @@
+{
+  "system": "You are an expert in ontology modeling, especially for material science. Decide if one concept is a subclass of another (i.e., more specific type or category). Answer with 'true' or 'false'. No explanations.",
+  "prompts": [
+    {
+      "user": "Is \"magnetic flux density\" a subclass of \"structural isomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electric current density\" a subclass of \"stereoisomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"stereo bond\" a subclass of \"linear density unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radiance unit\" a subclass of \"electromagnetic radiation unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"group 18 element\" a subclass of \"glassy carbon\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Hardness Range Upper Bound\" a subclass of \"series element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"linear density\" a subclass of \"period element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Titanium\" a subclass of \"element\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"entropy unit\" a subclass of \"unit raised to power\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"measured property\" a subclass of \"compound\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"exposure\" a subclass of \"Lattice Parameter\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Actinium Atom\" a subclass of \"density unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Lawrencium Atom\" a subclass of \"stereoisomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"source\" a subclass of \"space group property\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"entropy unit\" a subclass of \"radioactivity activity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"polarity\" a subclass of \"organic group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Hassium Atom\" a subclass of \"linear density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"triple bond\" a subclass of \"Beryllium\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"object\" a subclass of \"molar energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"cis/trans isomer\" a subclass of \"connected_spatiotemporal_region\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"permeability\" a subclass of \"measured property\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"undefined stereo bond count\" a subclass of \"solvent\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Erbium\" a subclass of \"series element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"linear density unit\" a subclass of \"spatiotemporal_interval\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electric charge density\" a subclass of \"cation\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"cis/trans isomer\" a subclass of \"Arsenic\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"density unit\" a subclass of \"Hardness Range Upper Bound\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Beryllium\" a subclass of \"ring\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"solid angle unit\" a subclass of \"Californium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Actinium Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"quality\" a subclass of \"disulfide bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"space group property\" a subclass of \"concentration unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"frequency unit\" a subclass of \"Arsenic\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"atom\" a subclass of \"mixture\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular complex formation\" a subclass of \"cis isomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"density unit\" a subclass of \"ceramics\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Vanadium Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"angular velocity unit\" a subclass of \"Beryllium\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"element\" a subclass of \"molar energy unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"identifier\" a subclass of \"MolecularQuality\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"group element\" a subclass of \"nanomaterials\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"chemical quality\" a subclass of \"molality\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"material category\" a subclass of \"source\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electromagnetic radiation unit\" a subclass of \"deka scaled unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"magnetic field strength\" a subclass of \"unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"area density unit\" a subclass of \"entropy unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"triple bond\" a subclass of \"bond\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"electric field strength\" a subclass of \"realizable_entity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular complex formation\" a subclass of \"deka scaled unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Gibbs free energy\" a subclass of \"area unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"magnetic flux unit\" a subclass of \"function\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"disulfide bond\" a subclass of \"covalent bond\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"quality\" a subclass of \"Concentration\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"periodic table element\" a subclass of \"linear density unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"energy\" a subclass of \"Gibbs free energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"mixture\" a subclass of \"moment of force unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"angle\" a subclass of \"atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"permeability\" a subclass of \"density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"carbon allotrope\" a subclass of \"Chemical Family\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Electronegativity\" a subclass of \"chemical quality\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"molecular complex disassociation\" a subclass of \"grain size\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Hardness Range\" a subclass of \"linear density unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Hardness Range\" a subclass of \"material category\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"acceleration\" a subclass of \"molecular mass unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electric current density\" a subclass of \"ring\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"ring\" a subclass of \"stereo bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"ring\" a subclass of \"catalytic concentration unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"density\" a subclass of \"thermal conduction unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"ceramics\" a subclass of \"molecular mass unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Arsenic\" a subclass of \"element\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"frequency unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"molar energy unit\" a subclass of \"Cerium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"covalent bond\" a subclass of \"plane angle\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"solvent\" a subclass of \"Beryllium\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"catalytic activity unit\" a subclass of \"Sulfur Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"plane angle\" a subclass of \"angle\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"acyl iodide group\" a subclass of \"molar energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radiance unit\" a subclass of \"Arsenic\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar energy\" a subclass of \"function\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Titanium\" a subclass of \"plane angle\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"carbon allotrope\" a subclass of \"solid angle unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"MoleculeComponentCount\" a subclass of \"MolecularQuality\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"electric current density\" a subclass of \"density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular mass unit\" a subclass of \"compound\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"fiat_process_part\" a subclass of \"mixture\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"solid angle unit\" a subclass of \"angle unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"element\" a subclass of \"chemical quality\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"catalytic activity unit\" a subclass of \"carbon allotrope\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"periodic table element\" a subclass of \"Oxygen Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electromagnetic radation\" a subclass of \"Hardness Range Upper Bound\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar energy\" a subclass of \"energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"disulfide bond\" a subclass of \"Boron Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"energy unit\" a subclass of \"Protactinium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"identifier\" a subclass of \"space group property\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"realizable_entity\" a subclass of \"plane angle unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"ceramics\" a subclass of \"square planar molecular geometry\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Solution\" a subclass of \"Erbium\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Lattice Parameter\" a subclass of \"object\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular complex disassociation\" a subclass of \"energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Oxygen Atom\" a subclass of \"Titanium\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"polar\" a subclass of \"Chemical Class\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"unit raised to power\" a subclass of \"process\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"process\" a subclass of \"identifier\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Protactinium Atom\" a subclass of \"Lawrencium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Enantiomer\" a subclass of \"stereoisomer\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"connected_spatiotemporal_region\" a subclass of \"bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"equivalent dose\" a subclass of \"processual_entity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Protactinium Atom\" a subclass of \"Hardness Range\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"mass\" a subclass of \"function\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"polarity\" a subclass of \"pauling electronegativity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecule\" a subclass of \"unit raised to power\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"magnetic field strength\" a subclass of \"series element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"magnetic flux density\" a subclass of \"molar energy unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"pauling electronegativity\" a subclass of \"organic group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Enantiomer\" a subclass of \"polarity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"secondary amine group\" a subclass of \"process\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Ion\" a subclass of \"molar energy unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"carbon allotrope\" a subclass of \"group 18 element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"atom\" a subclass of \"catalytic activity unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"non aromatic ring\" a subclass of \"angle\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular mass unit\" a subclass of \"material category\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"stereo bond\" a subclass of \"equivalent dose\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"processual_entity\" a subclass of \"energy unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"linear density\" a subclass of \"stereoisomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"unit raised to power\" a subclass of \"periodic table element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molality\" a subclass of \"Zinc\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar mass\" a subclass of \"bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"magnetic field strength\" a subclass of \"primary amine\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Beryllium\" a subclass of \"area unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Californium Atom\" a subclass of \"magnetic flux density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"source\" a subclass of \"object\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"Gibbs free energy\" a subclass of \"angular velocity unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Hardness Range Upper Bound\" a subclass of \"Solution\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"entropy unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"Lattice Parameter\" a subclass of \"Solution\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular complex disassociation\" a subclass of \"molecular complex formation\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"electromagnetic radation\" a subclass of \"Actinium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"process\" a subclass of \"chemical reaction\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"racemic mixture\" a subclass of \"chemical substance\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radiation unit\" a subclass of \"magnetic field strength\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"solvent\" a subclass of \"carbon allotrope\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"ring\" a subclass of \"Caesium\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Chemical Formula\" a subclass of \"methyl group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"aggregated carbon nanorods\" a subclass of \"square planar molecular geometry\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Hassium Atom\" a subclass of \"Californium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"polarity\" a subclass of \"density unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"group 17 element\" a subclass of \"isomeric smiles\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"chemical reaction\" a subclass of \"permeability\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar mass\" a subclass of \"Zinc\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"fiat_process_part\" a subclass of \"realizable_entity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"pauling electronegativity\" a subclass of \"Aluminium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"chemical substance\" a subclass of \"MolecularQuality\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Lattice Parameter\" a subclass of \"compound\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"ester group\" a subclass of \"pauling electronegativity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"acyl group\" a subclass of \"molar energy unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"periodic table element\" a subclass of \"plane angle\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"ceramics\" a subclass of \"pauling electronegativity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"acceleration\" a subclass of \"measured property\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"equivalent dose\" a subclass of \"space group property\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"group 18 element\" a subclass of \"group element\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"connected_temporal_region\" a subclass of \"Titanium\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"mass\" a subclass of \"Actinium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"amine\" a subclass of \"Chemical Formula\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"catalytic activity unit\" a subclass of \"concentration unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"nano scaled unit\" a subclass of \"isomeric smiles\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"stereoisomer\" a subclass of \"square planar molecular geometry\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"square planar molecular geometry\" a subclass of \"disulfide bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular complex disassociation\" a subclass of \"Sulfur Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"frequency unit\" a subclass of \"unit raised to power of negative one\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Electronegativity\" a subclass of \"secondary amine group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"identifier\" a subclass of \"Vanadium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Chemical Class\" a subclass of \"element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"identifier\" a subclass of \"frequency\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Ion\" a subclass of \"covalent bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"glassy carbon\" a subclass of \"mass\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radiance unit\" a subclass of \"Caesium\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Chemical Family\" a subclass of \"entropy unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"nanomaterials\" a subclass of \"cation\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Mercury\" a subclass of \"molar energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"linear density\" a subclass of \"Gibbs free energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"chemical reaction\" a subclass of \"compound\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"measured property\" a subclass of \"spatiotemporal_interval\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"element\" a subclass of \"radioactivity activity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"specific heat\" a subclass of \"Cerium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"independent_continuant\" a subclass of \"Mercury\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"plane angle unit\" a subclass of \"mass\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Actinium Atom\" a subclass of \"scaled unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"density\" a subclass of \"tertiary amine\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"fiat_process_part\" a subclass of \"isomeric smiles\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"group 17 element\" a subclass of \"group element\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"period element\" a subclass of \"structural isomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"unit raised to power of negative one\" a subclass of \"Helmholtz free energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"exposure\" a subclass of \"intensive property\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar entropy unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"unit raised to power\" a subclass of \"area unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"alkaline earth metal\" a subclass of \"series element\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"fiat_process_part\" a subclass of \"absorbed dose unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar energy unit\" a subclass of \"stereo bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Cerium Atom\" a subclass of \"density unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar energy\" a subclass of \"absorbed dose unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Aluminium Atom\" a subclass of \"absorbed dose unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radioactivity activity\" a subclass of \"radiance\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"catalytic activity unit\" a subclass of \"intensive property\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular geometry\" a subclass of \"cis isomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"angular velocity unit\" a subclass of \"disulfide bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radioactivity activity\" a subclass of \"inductance unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"moment of force unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"chemical reaction\" a subclass of \"realizable_entity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"acyl iodide group\" a subclass of \"acyl halide group\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"element\" a subclass of \"plane angle\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"density unit\" a subclass of \"angle\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"ceramics\" a subclass of \"electromagnetic radiation unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"mass\" a subclass of \"square planar molecular geometry\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"fiat_process_part\" a subclass of \"Helmholtz free energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"group 17 element\" a subclass of \"isomerization\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radiance\" a subclass of \"independent_continuant\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"energy\" a subclass of \"non aromatic ring\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"isomer\" a subclass of \"energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"grain size\" a subclass of \"inductance unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"compound\" a subclass of \"mass density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"methyl group\" a subclass of \"exposure\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radiance unit\" a subclass of \"radioactivity activity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Chemical Family\" a subclass of \"molar energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"function\" a subclass of \"glassy carbon\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"equivalent dose\" a subclass of \"racemic mixture\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"luminance unit\" a subclass of \"Actinium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"equivalent dose\" a subclass of \"magnetic flux density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Zinc\" a subclass of \"identifier\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar energy\" a subclass of \"polar\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"polarity\" a subclass of \"glassy carbon\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Sulfur Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"plane angle\" a subclass of \"Gibbs free energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"grain size\" a subclass of \"object\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"alkaline earth metal\" a subclass of \"Vanadium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electromagnetic radiation unit\" a subclass of \"molecular complex formation\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"concentration unit\" a subclass of \"Arsenic\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"specific heat\" a subclass of \"nanomaterials\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"linear density unit\" a subclass of \"measured property\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radiance\" a subclass of \"moment of force unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"acyl iodide group\" a subclass of \"Caesium\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"MoleculeComponentCount\" a subclass of \"chemical reaction\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"stereoisomer\" a subclass of \"absorbed dose unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"non aromatic ring\" a subclass of \"single bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar energy unit\" a subclass of \"scaled unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Zinc\" a subclass of \"element\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"aggregated carbon nanorods\" a subclass of \"carbon allotrope\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"covalent bond\" a subclass of \"Erbium\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"solvent\" a subclass of \"mixture\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"solvent\" a subclass of \"molecular complex disassociation\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"deka scaled unit\" a subclass of \"molecular geometry\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"chemical quality\" a subclass of \"conduction unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Zinc\" a subclass of \"radiance unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"group 18 element\" a subclass of \"atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"measured property\" a subclass of \"Actinium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"intensive property\" a subclass of \"molecule\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"atom\" a subclass of \"Chemical Formula\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"scaled unit\" a subclass of \"alkaline earth metal\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Hassium Atom\" a subclass of \"group 13 element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"square planar molecular geometry\" a subclass of \"Sulfur Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"group 13 element\" a subclass of \"acyl iodide group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"thermal conduction unit\" a subclass of \"conduction unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"acyl iodide group\" a subclass of \"Vanadium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"grain size\" a subclass of \"energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"fiat_process_part\" a subclass of \"Lattice Parameter\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"aggregated carbon nanorods\" a subclass of \"molar energy unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"linear molecular geometry\" a subclass of \"frequency unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radiation unit\" a subclass of \"period element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Ion\" a subclass of \"Californium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"catalytic activity unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"Lawrencium Atom\" a subclass of \"Aluminium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar entropy unit\" a subclass of \"source\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"process\" a subclass of \"processual_entity\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"magnetic flux unit\" a subclass of \"equivalent dose\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"mixture\" a subclass of \"frequency\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"structural isomer\" a subclass of \"molecular complex disassociation\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"density unit\" a subclass of \"acyl iodide group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molality\" a subclass of \"Concentration\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"group 13 element\" a subclass of \"triple bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"area density unit\" a subclass of \"measured property\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Solution\" a subclass of \"unit raised to power\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"spatiotemporal_interval\" a subclass of \"connected_spatiotemporal_region\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"connected_spatiotemporal_region\" a subclass of \"Oxygen Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"tertiary amine\" a subclass of \"process\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radioactivity activity\" a subclass of \"Hardness Range\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"source\" a subclass of \"area density unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"periodic table element\" a subclass of \"molar mass\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"group 18 element\" a subclass of \"thermal conduction unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Cerium Atom\" a subclass of \"intensive property\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular mass unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"radiation unit\" a subclass of \"primary amine\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"magnetic flux unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"Arsenic\" a subclass of \"Helmholtz free energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Electronegativity\" a subclass of \"alkaline earth metal\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"metals\" a subclass of \"covalent bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"processual_entity\" a subclass of \"Mercury\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electric charge density\" a subclass of \"catalytic activity unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"inductance unit\" a subclass of \"identifier\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"mixture\" a subclass of \"ester group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"linear density unit\" a subclass of \"electric charge density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"stereo bond\" a subclass of \"bond\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"group 13 element\" a subclass of \"polar\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"pauling electronegativity\" a subclass of \"Actinium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"compound\" a subclass of \"thermal conduction unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"source\" a subclass of \"group element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"density unit\" a subclass of \"area density unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"periodic table element\" a subclass of \"Solution\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"magnetic flux density\" a subclass of \"group 17 element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"ceramics\" a subclass of \"secondary amine group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"alkaline earth metal\" a subclass of \"energy unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"area unit\" a subclass of \"amine\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"ring\" a subclass of \"atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"secondary amine group\" a subclass of \"disulfide bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"ceramics\" a subclass of \"Ion\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"pauling electronegativity\" a subclass of \"Electronegativity\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"Zinc\" a subclass of \"electromagnetic radiation unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"permeability\" a subclass of \"alkaline earth metal\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Ion\" a subclass of \"source\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"carbon allotrope\" a subclass of \"Titanium\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"mass density\" a subclass of \"density\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"Caesium\" a subclass of \"nanomaterials\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"mass\" a subclass of \"measured property\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"linear density unit\" a subclass of \"density unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"metals\" a subclass of \"solvent\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"absorbed dose unit\" a subclass of \"mass density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Beryllium\" a subclass of \"realizable_entity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Aluminium Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"radioactivity activity\" a subclass of \"radiation\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"acyl halide group\" a subclass of \"inductance unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular mass\" a subclass of \"electromagnetic radation\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"undefined stereo bond count\" a subclass of \"MolecularQuality\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular mass\" a subclass of \"measured property\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"specific heat\" a subclass of \"stereo bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"material category\" a subclass of \"MolecularQuality\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"absorbed dose unit\" a subclass of \"radiation unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"solvent\" a subclass of \"electric current density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"element\" a subclass of \"metals\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"linear density unit\" a subclass of \"linear molecular geometry\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"realizable_entity\" a subclass of \"Oxygen Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"space group property\" a subclass of \"catalytic concentration unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Lawrencium Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"spatiotemporal_interval\" a subclass of \"isomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"frequency unit\" a subclass of \"solid angle unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"exposure\" a subclass of \"nanomaterials\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electric field strength\" a subclass of \"single bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"equivalent dose\" a subclass of \"electric current density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electric field strength unit\" a subclass of \"area unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"ester group\" a subclass of \"organic group\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"carbon allotrope\" a subclass of \"tertiary amine\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radiance\" a subclass of \"identifier\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Vanadium Atom\" a subclass of \"molar mass\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"unit raised to power\" a subclass of \"temporal_instant\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"racemic mixture\" a subclass of \"Helmholtz free energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Vanadium Atom\" a subclass of \"molar entropy unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"ceramics\" a subclass of \"molar mass\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"plane angle unit\" a subclass of \"angle unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"frequency unit\" a subclass of \"Boron Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"secondary amine group\" a subclass of \"chemical reaction\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"period element\" a subclass of \"periodic table element\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"molecular complex formation\" a subclass of \"carbon allotrope\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Lattice Parameter\" a subclass of \"measured property\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"Chemical Family\" a subclass of \"permeability\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar mass\" a subclass of \"measured property\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"angle\" a subclass of \"thermal conduction unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Chemical Class\" a subclass of \"chemical quality\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"atom\" a subclass of \"isomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"area unit\" a subclass of \"plane angle unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"space group property\" a subclass of \"quality\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"molecular complex disassociation\" a subclass of \"space group property\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electric field strength unit\" a subclass of \"Hardness Range Upper Bound\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Aluminium Atom\" a subclass of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"isomerization\" a subclass of \"ring\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"realizable_entity\" a subclass of \"density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"metals\" a subclass of \"material category\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"ceramics\" a subclass of \"material category\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"element\" a subclass of \"acyl group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"independent_continuant\" a subclass of \"source\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"glassy carbon\" a subclass of \"methyl group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"catalytic activity unit\" a subclass of \"molality\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"acyl group\" a subclass of \"organic group\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"molar entropy unit\" a subclass of \"mass\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"isomeric smiles\" a subclass of \"identifier\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"mass\" a subclass of \"group 18 element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"isomer\" a subclass of \"density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"series element\" a subclass of \"metals\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"solvent\" a subclass of \"chemical substance\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"electromagnetic radiation unit\" a subclass of \"radiance\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Beryllium\" a subclass of \"element\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"exposure\" a subclass of \"ring\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"cis isomer\" a subclass of \"molecular complex formation\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"covalent bond\" a subclass of \"group element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"unit raised to power\" a subclass of \"compound\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radioactivity activity\" a subclass of \"measured property\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Chemical Family\" a subclass of \"chemical quality\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"density unit\" a subclass of \"deka scaled unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"chemical substance\" a subclass of \"Actinium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"object\" a subclass of \"independent_continuant\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"catalytic activity unit\" a subclass of \"electric charge density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"equivalent dose\" a subclass of \"specific heat\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"plane angle\" a subclass of \"Electronegativity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"chemical quality\" a subclass of \"Protactinium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"energy\" a subclass of \"Actinium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Erbium\" a subclass of \"element\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"MoleculeComponentCount\" a subclass of \"Caesium\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"undefined stereo bond count\" a subclass of \"space group property\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"metals\" a subclass of \"ring\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"inductance unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"energy\" a subclass of \"concentration unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"single bond\" a subclass of \"equivalent dose\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"moment of force unit\" a subclass of \"disulfide bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Erbium\" a subclass of \"deka scaled unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Caesium\" a subclass of \"isomerization\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"bond\" a subclass of \"source\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"disulfide bond\" a subclass of \"carbon allotrope\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Caesium\" a subclass of \"molecular mass unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molality\" a subclass of \"ring\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Erbium\" a subclass of \"ceramics\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"intensive property\" a subclass of \"radiation unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"realizable_entity\" a subclass of \"methyl group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"group 17 element\" a subclass of \"entropy unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"specific heat\" a subclass of \"Caesium\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"identifier\" a subclass of \"mixture\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"acceleration\" a subclass of \"grain size\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"element\" a subclass of \"bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"density\" a subclass of \"function\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"permeability\" a subclass of \"radiation unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Arsenic\" a subclass of \"MolecularQuality\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"glassy carbon\" a subclass of \"connected_temporal_region\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Mercury\" a subclass of \"element\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"tertiary amine\" a subclass of \"acyl group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar energy unit\" a subclass of \"thermal conduction unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"organic group\" a subclass of \"spatiotemporal_interval\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Hassium Atom\" a subclass of \"polarity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"moment of force unit\" a subclass of \"cis/trans isomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radioactivity activity\" a subclass of \"scaled unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"function\" a subclass of \"cis isomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"polar\" a subclass of \"polarity\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"radiance\" a subclass of \"radiation\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Hassium Atom\" a subclass of \"unit raised to power\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electric charge density\" a subclass of \"amine\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electric current density\" a subclass of \"measured property\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"radiance\" a subclass of \"isomerization\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"permeability\" a subclass of \"unit raised to power\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"single bond\" a subclass of \"absorbed dose unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"non aromatic ring\" a subclass of \"source\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular geometry\" a subclass of \"source\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electric field strength\" a subclass of \"measured property\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"methyl group\" a subclass of \"electric field strength\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"single bond\" a subclass of \"mass density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"independent_continuant\" a subclass of \"Aluminium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"acyl halide group\" a subclass of \"polarity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Hardness Range Upper Bound\" a subclass of \"Hardness Range\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"stereoisomer\" a subclass of \"unit raised to power of negative one\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electric charge density\" a subclass of \"unit raised to power of negative one\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"mixture\" a subclass of \"nano scaled unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Hassium Atom\" a subclass of \"cation\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"angular velocity unit\" a subclass of \"Mercury\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"solid angle unit\" a subclass of \"compound\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radiance unit\" a subclass of \"area unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"magnetic flux density\" a subclass of \"exposure\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electric charge density\" a subclass of \"radiation\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"group element\" a subclass of \"chemical reaction\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"magnetic flux density\" a subclass of \"measured property\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"ester group\" a subclass of \"moment of force unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"covalent bond\" a subclass of \"pauling electronegativity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"chemical substance\" a subclass of \"acceleration\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Helmholtz free energy\" a subclass of \"molality\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radiation\" a subclass of \"Arsenic\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"covalent bond\" a subclass of \"molar entropy unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"angular velocity unit\" a subclass of \"square planar molecular geometry\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"frequency unit\" a subclass of \"alkaline earth metal\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"conduction unit\" a subclass of \"linear density unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"acyl group\" a subclass of \"exposure\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Zinc\" a subclass of \"measured property\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"object\" a subclass of \"Chemical Formula\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electric current density\" a subclass of \"Arsenic\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"angle unit\" a subclass of \"disulfide bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"angle unit\" a subclass of \"radioactivity activity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Enantiomer\" a subclass of \"quality\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"organic group\" a subclass of \"stereoisomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"acyl group\" a subclass of \"unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"solvent\" a subclass of \"identifier\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"racemic mixture\" a subclass of \"Solution\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"connected_spatiotemporal_region\" a subclass of \"Hardness Range Upper Bound\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Caesium\" a subclass of \"radiation\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"isomerization\" a subclass of \"radioactivity activity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"single bond\" a subclass of \"exposure\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radiation\" a subclass of \"linear density unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"period element\" a subclass of \"molality\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"covalent bond\" a subclass of \"periodic table element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"period element\" a subclass of \"Californium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"area unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"radiance\" a subclass of \"electromagnetic radation\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"molecule\" a subclass of \"Boron Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"stereoisomer\" a subclass of \"electric charge density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"amine\" a subclass of \"Cerium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"fiat_process_part\" a subclass of \"structural isomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Arsenic\" a subclass of \"acyl halide group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Vanadium Atom\" a subclass of \"disulfide bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"solid angle unit\" a subclass of \"electromagnetic radation\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"cation\" a subclass of \"unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Enantiomer\" a subclass of \"molecular mass\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Caesium\" a subclass of \"molar energy unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Oxygen Atom\" a subclass of \"measured property\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"cis/trans isomer\" a subclass of \"angular velocity unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Lattice Parameter\" a subclass of \"undefined stereo bond count\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"cation\" a subclass of \"Ion\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"electric field strength unit\" a subclass of \"molality\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Cerium Atom\" a subclass of \"scaled unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Ion\" a subclass of \"amine\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Hardness Range\" a subclass of \"luminance unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"scaled unit\" a subclass of \"covalent bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"area density unit\" a subclass of \"mass density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Chemical Family\" a subclass of \"isomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Hassium Atom\" a subclass of \"primary amine\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"isomer\" a subclass of \"frequency unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"object\" a subclass of \"cis isomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar energy\" a subclass of \"Hardness Range Upper Bound\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar energy\" a subclass of \"molecular mass unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecule\" a subclass of \"compound\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"atom\" a subclass of \"realizable_entity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"solvent\" a subclass of \"conduction unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular complex disassociation\" a subclass of \"group element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"plane angle\" a subclass of \"fiat_process_part\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radiance unit\" a subclass of \"element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"acceleration\" a subclass of \"nanomaterials\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"solvent\" a subclass of \"Actinium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"angle\" a subclass of \"periodic table element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"angle unit\" a subclass of \"acyl iodide group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Chemical Formula\" a subclass of \"chemical quality\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"undefined stereo bond count\" a subclass of \"density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"racemic mixture\" a subclass of \"secondary amine group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"magnetic flux density\" a subclass of \"chemical substance\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Sulfur Atom\" a subclass of \"angle unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"MoleculeComponentCount\" a subclass of \"molecular geometry\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar energy\" a subclass of \"ring\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"unit raised to power\" a subclass of \"stereoisomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radiation unit\" a subclass of \"covalent bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"grain size\" a subclass of \"measured property\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"unit\" a subclass of \"conduction unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"unit raised to power of negative one\" a subclass of \"unit raised to power\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"cis isomer\" a subclass of \"cis/trans isomer\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"Concentration\" a subclass of \"Cerium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"area unit\" a subclass of \"Concentration\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Concentration\" a subclass of \"source\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"MolecularQuality\" a subclass of \"Hardness Range Upper Bound\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"structural isomer\" a subclass of \"Mercury\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar mass\" a subclass of \"radiance unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"frequency\" a subclass of \"measured property\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"radiation unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"object\" a subclass of \"area density unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"non aromatic ring\" a subclass of \"glassy carbon\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"cation\" a subclass of \"catalytic activity unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecule\" a subclass of \"square planar molecular geometry\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Chemical Class\" a subclass of \"molecular mass unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"intensive property\" a subclass of \"carbon allotrope\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"element\" a subclass of \"intensive property\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecule\" a subclass of \"process\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"function\" a subclass of \"magnetic flux unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"magnetic flux unit\" a subclass of \"electric charge density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"cation\" a subclass of \"molality\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"cis/trans isomer\" a subclass of \"function\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"angular velocity unit\" a subclass of \"equivalent dose\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Lawrencium Atom\" a subclass of \"group 18 element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radioactivity activity\" a subclass of \"covalent bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"nanomaterials\" a subclass of \"equivalent dose\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"cation\" a subclass of \"moment of force unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"function\" a subclass of \"metals\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"angle unit\" a subclass of \"mass density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radiation\" a subclass of \"measured property\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"luminance unit\" a subclass of \"electromagnetic radiation unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"magnetic field strength\" a subclass of \"density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"linear density\" a subclass of \"unit raised to power\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"frequency\" a subclass of \"catalytic concentration unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molality\" a subclass of \"frequency\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Aluminium Atom\" a subclass of \"magnetic field strength\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radiation unit\" a subclass of \"Aluminium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"unit\" a subclass of \"cis isomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"structural isomer\" a subclass of \"isomer\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"scaled unit\" a subclass of \"series element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"magnetic field strength\" a subclass of \"aggregated carbon nanorods\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"angle\" a subclass of \"catalytic concentration unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"amine\" a subclass of \"carbon allotrope\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"exposure\" a subclass of \"Solution\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"unit\" a subclass of \"Arsenic\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"aggregated carbon nanorods\" a subclass of \"Hassium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"amine\" a subclass of \"electric charge density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"non aromatic ring\" a subclass of \"Sulfur Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Californium Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"Vanadium Atom\" a subclass of \"solvent\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"processual_entity\" a subclass of \"inductance unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Ion\" a subclass of \"ester group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"series element\" a subclass of \"linear density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"angular velocity unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"area density unit\" a subclass of \"molecular complex disassociation\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electric field strength unit\" a subclass of \"molecule\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"square planar molecular geometry\" a subclass of \"molecular geometry\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"Boron Atom\" a subclass of \"molar energy unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"independent_continuant\" a subclass of \"Caesium\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"acceleration\" a subclass of \"plane angle\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"connected_temporal_region\" a subclass of \"angular velocity unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar energy unit\" a subclass of \"frequency unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"undefined stereo bond count\" a subclass of \"function\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Hardness Range\" a subclass of \"covalent bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"alkaline earth metal\" a subclass of \"linear density unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"connected_temporal_region\" a subclass of \"energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"frequency unit\" a subclass of \"mixture\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"nanomaterials\" a subclass of \"measured property\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radiance\" a subclass of \"Hardness Range Upper Bound\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Concentration\" a subclass of \"identifier\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Hardness Range Upper Bound\" a subclass of \"energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"density unit\" a subclass of \"Lattice Parameter\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"linear molecular geometry\" a subclass of \"molecular geometry\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"radiation unit\" a subclass of \"acceleration\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"pauling electronegativity\" a subclass of \"metals\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"ester group\" a subclass of \"periodic table element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"group 18 element\" a subclass of \"intensive property\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"mixture\" a subclass of \"polar\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"unit raised to power of negative one\" a subclass of \"methyl group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"connected_temporal_region\" a subclass of \"series element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"triple bond\" a subclass of \"conduction unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"magnetic flux density\" a subclass of \"non aromatic ring\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"frequency unit\" a subclass of \"single bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Vanadium Atom\" a subclass of \"intensive property\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular geometry\" a subclass of \"element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"measured property\" a subclass of \"alkaline earth metal\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radiance\" a subclass of \"molar energy unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"chemical reaction\" a subclass of \"triple bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Oxygen Atom\" a subclass of \"primary amine\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"secondary amine group\" a subclass of \"organic group\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"temporal_instant\" a subclass of \"nanomaterials\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electromagnetic radiation unit\" a subclass of \"glassy carbon\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Protactinium Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"exposure\" a subclass of \"radiation\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"realizable_entity\" a subclass of \"molecular geometry\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"mass density\" a subclass of \"solvent\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Caesium\" a subclass of \"Chemical Family\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"ceramics\" a subclass of \"energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"identifier\" a subclass of \"Erbium\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Aluminium Atom\" a subclass of \"cation\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"independent_continuant\" a subclass of \"equivalent dose\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"nanomaterials\" a subclass of \"material category\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"Ion\" a subclass of \"cation\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"density unit\" a subclass of \"molecule\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Boron Atom\" a subclass of \"molecular complex disassociation\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"source\" a subclass of \"nano scaled unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecule\" a subclass of \"molecular mass unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"absorbed dose unit\" a subclass of \"square planar molecular geometry\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Oxygen Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"connected_temporal_region\" a subclass of \"group element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"thermal conduction unit\" a subclass of \"measured property\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"disulfide bond\" a subclass of \"angle\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"area unit\" a subclass of \"primary amine\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"chemical quality\" a subclass of \"connected_temporal_region\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electric field strength unit\" a subclass of \"fiat_process_part\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"conduction unit\" a subclass of \"Chemical Formula\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"process\" a subclass of \"molecular complex formation\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Gibbs free energy\" a subclass of \"bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"magnetic flux density\" a subclass of \"molecular geometry\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"energy unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"deka scaled unit\" a subclass of \"scaled unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"tertiary amine\" a subclass of \"amine\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"area density unit\" a subclass of \"electric charge density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"isomerization\" a subclass of \"chemical reaction\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"electric charge density\" a subclass of \"measured property\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"molecular mass\" a subclass of \"triple bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Gibbs free energy\" a subclass of \"molar energy\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"mass density\" a subclass of \"Erbium\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electric field strength unit\" a subclass of \"Mercury\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"angular velocity unit\" a subclass of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"deka scaled unit\" a subclass of \"metals\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Enantiomer\" a subclass of \"molar energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar energy\" a subclass of \"permeability\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Caesium\" a subclass of \"element\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"spatiotemporal_interval\" a subclass of \"function\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"equivalent dose\" a subclass of \"radiation\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"unit raised to power of negative one\" a subclass of \"catalytic concentration unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Zinc\" a subclass of \"cis/trans isomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Titanium\" a subclass of \"disulfide bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"single bond\" a subclass of \"bond\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"isomeric smiles\" a subclass of \"molecular complex disassociation\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"fiat_process_part\" a subclass of \"processual_entity\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"Enantiomer\" a subclass of \"Boron Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"unit\" a subclass of \"concentration unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"luminance unit\" a subclass of \"Hassium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"moment of force unit\" a subclass of \"exposure\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"acyl group\" a subclass of \"Protactinium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electromagnetic radiation unit\" a subclass of \"Chemical Family\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"independent_continuant\" a subclass of \"realizable_entity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"stereoisomer\" a subclass of \"radiance unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"thermal conduction unit\" a subclass of \"Lattice Parameter\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"chemical substance\" a subclass of \"amine\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Hassium Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"quality\" a subclass of \"exposure\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"function\" a subclass of \"density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"connected_temporal_region\" a subclass of \"glassy carbon\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"cis/trans isomer\" a subclass of \"Vanadium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"catalytic concentration unit\" a subclass of \"Lawrencium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"primary amine\" a subclass of \"catalytic concentration unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Solution\" a subclass of \"quality\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular complex formation\" a subclass of \"periodic table element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Beryllium\" a subclass of \"magnetic flux density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular geometry\" a subclass of \"acyl iodide group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"linear density unit\" a subclass of \"Zinc\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Boron Atom\" a subclass of \"alkaline earth metal\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"deka scaled unit\" a subclass of \"density unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular geometry\" a subclass of \"acyl group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Helmholtz free energy\" a subclass of \"energy\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"non aromatic ring\" a subclass of \"ring\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"Californium Atom\" a subclass of \"entropy unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"energy unit\" a subclass of \"molar energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar mass\" a subclass of \"radiation unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar energy unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"spatiotemporal_interval\" a subclass of \"acyl group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"linear molecular geometry\" a subclass of \"catalytic concentration unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular mass\" a subclass of \"process\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"catalytic concentration unit\" a subclass of \"catalytic activity unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar energy\" a subclass of \"area density unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"nano scaled unit\" a subclass of \"scaled unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"plane angle unit\" a subclass of \"undefined stereo bond count\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"cis/trans isomer\" a subclass of \"Hassium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"equivalent dose\" a subclass of \"Gibbs free energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"grain size\" a subclass of \"isomerization\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Erbium\" a subclass of \"molar mass\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"conduction unit\" a subclass of \"Concentration\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"secondary amine group\" a subclass of \"entropy unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular mass unit\" a subclass of \"object\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"temporal_instant\" a subclass of \"connected_temporal_region\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"object\" a subclass of \"covalent bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"magnetic flux unit\" a subclass of \"solid angle unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Cerium Atom\" a subclass of \"area density unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"solvent\" a subclass of \"deka scaled unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular complex disassociation\" a subclass of \"area density unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"methyl group\" a subclass of \"molecular mass\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"cation\" a subclass of \"Oxygen Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"unit\" a subclass of \"radiation unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"isomeric smiles\" a subclass of \"mass\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"structural isomer\" a subclass of \"secondary amine group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"plane angle\" a subclass of \"Titanium\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"frequency unit\" a subclass of \"group 17 element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"linear molecular geometry\" a subclass of \"unit raised to power\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Solution\" a subclass of \"connected_temporal_region\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"fiat_process_part\" a subclass of \"angular velocity unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"series element\" a subclass of \"area unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"fiat_process_part\" a subclass of \"cation\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electric field strength\" a subclass of \"aggregated carbon nanorods\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"specific heat\" a subclass of \"solid angle unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Enantiomer\" a subclass of \"carbon allotrope\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Helmholtz free energy\" a subclass of \"acyl iodide group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Oxygen Atom\" a subclass of \"Chemical Formula\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"linear density\" a subclass of \"molecular complex disassociation\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"tertiary amine\" a subclass of \"group element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"mixture\" a subclass of \"object\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"Cerium Atom\" a subclass of \"area unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"series element\" a subclass of \"Hassium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"object\" a subclass of \"structural isomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"isomerization\" a subclass of \"specific heat\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Cerium Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"triple bond\" a subclass of \"mass density\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"concentration unit\" a subclass of \"isomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"unit raised to power of negative one\" a subclass of \"inductance unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radioactivity activity\" a subclass of \"independent_continuant\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"disulfide bond\" a subclass of \"nano scaled unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radiance\" a subclass of \"scaled unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"periodic table element\" a subclass of \"ceramics\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"single bond\" a subclass of \"cis/trans isomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"radiation unit\" a subclass of \"angle unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Arsenic\" a subclass of \"group element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molar energy\" a subclass of \"catalytic concentration unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"cation\" a subclass of \"tertiary amine\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"linear density\" a subclass of \"density\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"methyl group\" a subclass of \"Hardness Range\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"undefined stereo bond count\" a subclass of \"MoleculeComponentCount\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"frequency\" a subclass of \"Oxygen Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"mass density\" a subclass of \"Gibbs free energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"mass\" a subclass of \"Electronegativity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Hardness Range\" a subclass of \"molecular mass\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"luminance unit\" a subclass of \"Lattice Parameter\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"MolecularQuality\" a subclass of \"solid angle unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"glassy carbon\" a subclass of \"carbon allotrope\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"Caesium\" a subclass of \"radioactivity activity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"cis isomer\" a subclass of \"periodic table element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"specific heat\" a subclass of \"intensive property\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"solvent\" a subclass of \"area density unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Boron Atom\" a subclass of \"atom\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"area density unit\" a subclass of \"density unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"thermal conduction unit\" a subclass of \"catalytic concentration unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular complex formation\" a subclass of \"object\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Lawrencium Atom\" a subclass of \"function\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"angle unit\" a subclass of \"Hassium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"fiat_process_part\" a subclass of \"Enantiomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Erbium\" a subclass of \"plane angle\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Helmholtz free energy\" a subclass of \"Protactinium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"stereo bond\" a subclass of \"Cerium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"nano scaled unit\" a subclass of \"alkaline earth metal\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"pauling electronegativity\" a subclass of \"area unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"glassy carbon\" a subclass of \"linear molecular geometry\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"magnetic flux unit\" a subclass of \"object\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"non aromatic ring\" a subclass of \"molecular geometry\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"magnetic flux density\" a subclass of \"Electronegativity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electric field strength unit\" a subclass of \"unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"function\" a subclass of \"realizable_entity\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"molar energy unit\" a subclass of \"electromagnetic radiation unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"unit raised to power\" a subclass of \"primary amine\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Chemical Family\" a subclass of \"carbon allotrope\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"mass density\" a subclass of \"molar energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"ester group\" a subclass of \"source\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Oxygen Atom\" a subclass of \"electric field strength\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"electromagnetic radiation unit\" a subclass of \"Aluminium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"group element\" a subclass of \"ring\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"polarity\" a subclass of \"independent_continuant\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"acyl group\" a subclass of \"chemical reaction\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"tertiary amine\" a subclass of \"connected_spatiotemporal_region\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"catalytic activity unit\" a subclass of \"Caesium\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"energy\" a subclass of \"Chemical Class\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"group 17 element\" a subclass of \"carbon allotrope\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Hardness Range\" a subclass of \"disulfide bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Solution\" a subclass of \"Helmholtz free energy\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Sulfur Atom\" a subclass of \"disulfide bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"deka scaled unit\" a subclass of \"Solution\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"linear molecular geometry\" a subclass of \"non aromatic ring\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"acyl iodide group\" a subclass of \"catalytic concentration unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"element\" a subclass of \"triple bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"primary amine\" a subclass of \"amine\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"frequency unit\" a subclass of \"structural isomer\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"solvent\" a subclass of \"molecular geometry\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"chemical quality\" a subclass of \"unit raised to power\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"intensive property\" a subclass of \"radioactivity activity\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Lattice Parameter\" a subclass of \"period element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Cerium Atom\" a subclass of \"group 13 element\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"inductance unit\" a subclass of \"electric field strength unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"nanomaterials\" a subclass of \"Californium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"conduction unit\" a subclass of \"quality\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"area density unit\" a subclass of \"molecule\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"acyl group\" a subclass of \"Hardness Range\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"luminance unit\" a subclass of \"molality\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"linear molecular geometry\" a subclass of \"molecular mass\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"molecular geometry\" a subclass of \"catalytic activity unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"structural isomer\" a subclass of \"acyl group\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"independent_continuant\" a subclass of \"disulfide bond\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"pauling electronegativity\" a subclass of \"Lawrencium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"group 13 element\" a subclass of \"group element\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"racemic mixture\" a subclass of \"magnetic flux unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"catalytic concentration unit\" a subclass of \"concentration unit\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"Actinium Atom\" a subclass of \"Ion\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"Lattice Parameter\" a subclass of \"Hassium Atom\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    },
+    {
+      "user": "Is \"methyl group\" a subclass of \"organic group\"? Answer with \"true\" or \"false\".",
+      "answer": "true"
+    },
+    {
+      "user": "Is \"magnetic flux unit\" a subclass of \"conduction unit\"? Answer with \"true\" or \"false\".",
+      "answer": "false"
+    }
+  ]
+}
